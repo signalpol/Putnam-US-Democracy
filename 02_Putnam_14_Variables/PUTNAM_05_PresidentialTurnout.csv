@@ -1,0 +1,1201 @@
+state_fips,state_abbr,state_name,year,value,variable,source_family,missing_status
+01,AL,Alabama,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2004,57.11,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+01,AL,Alabama,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2008,60.94,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+01,AL,Alabama,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2012,58.88,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+01,AL,Alabama,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2016,59.12,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+01,AL,Alabama,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2020,61.46,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+01,AL,Alabama,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+01,AL,Alabama,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2000,68.82,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+02,AK,Alaska,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2004,70.03,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+02,AK,Alaska,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2008,68.25,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+02,AK,Alaska,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2012,58.89,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+02,AK,Alaska,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2016,61.56,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+02,AK,Alaska,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2020,68.23,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+02,AK,Alaska,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+02,AK,Alaska,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2000,46.37,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+04,AZ,Arizona,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2004,55.7,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+04,AZ,Arizona,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2008,57.35,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+04,AZ,Arizona,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2012,52.91,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+04,AZ,Arizona,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2016,55.97,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+04,AZ,Arizona,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2020,66.63,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+04,AZ,Arizona,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+04,AZ,Arizona,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2004,54.29,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+05,AR,Arkansas,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2008,52.91,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+05,AR,Arkansas,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2012,51.07,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+05,AR,Arkansas,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2016,53.11,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+05,AR,Arkansas,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2020,56.17,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+05,AR,Arkansas,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+05,AR,Arkansas,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2000,55.96,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+06,CA,California,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2004,59.85,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+06,CA,California,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2008,61.71,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+06,CA,California,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2012,55.85,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+06,CA,California,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2016,58.31,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+06,CA,California,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2020,68.83,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+06,CA,California,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+06,CA,California,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2004,68.02,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+08,CO,Colorado,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2008,71.6,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+08,CO,Colorado,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2012,70.63,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+08,CO,Colorado,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2016,71.99,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+08,CO,Colorado,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2020,76.69,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+08,CO,Colorado,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+08,CO,Colorado,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2000,62.43,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+09,CT,Connecticut,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2004,65.99,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+09,CT,Connecticut,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2008,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2012,61.3,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+09,CT,Connecticut,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2016,64.73,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+09,CT,Connecticut,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2020,70.09,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+09,CT,Connecticut,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+09,CT,Connecticut,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2004,64.12,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+10,DE,Delaware,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2008,65.8,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+10,DE,Delaware,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2012,63.07,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+10,DE,Delaware,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2016,64.51,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+10,DE,Delaware,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2020,68.34,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+10,DE,Delaware,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+10,DE,Delaware,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2000,56.05,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+12,FL,Florida,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2004,64.28,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+12,FL,Florida,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2008,66.65,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+12,FL,Florida,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2012,63.32,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+12,FL,Florida,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2016,65.72,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+12,FL,Florida,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2020,70.79,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+12,FL,Florida,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+12,FL,Florida,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2000,48.8,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+13,GA,Georgia,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2004,57.44,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+13,GA,Georgia,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2008,62.7,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+13,GA,Georgia,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2012,59.44,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+13,GA,Georgia,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2016,59.85,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+13,GA,Georgia,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2020,67.06,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+13,GA,Georgia,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+13,GA,Georgia,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2000,43.98,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+15,HI,Hawaii,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2004,48,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+15,HI,Hawaii,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2008,49.06,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+15,HI,Hawaii,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2012,44.36,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+15,HI,Hawaii,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2016,43.19,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+15,HI,Hawaii,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2020,55.35,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+15,HI,Hawaii,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+15,HI,Hawaii,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2000,59.02,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+16,ID,Idaho,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2004,64.94,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+16,ID,Idaho,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2008,64.85,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+16,ID,Idaho,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2012,61.13,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+16,ID,Idaho,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2016,60.76,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+16,ID,Idaho,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2020,64.94,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+16,ID,Idaho,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+16,ID,Idaho,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2000,58.98,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+17,IL,Illinois,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2004,62.93,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+17,IL,Illinois,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2008,64.22,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+17,IL,Illinois,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2012,59.23,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+17,IL,Illinois,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2016,62.92,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+17,IL,Illinois,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2020,66.52,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+17,IL,Illinois,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+17,IL,Illinois,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2000,51.02,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+18,IN,Indiana,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2004,55.69,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+18,IN,Indiana,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2008,60.3,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+18,IN,Indiana,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2012,56.04,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+18,IN,Indiana,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2016,57.77,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+18,IN,Indiana,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2020,61.06,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+18,IN,Indiana,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+18,IN,Indiana,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2004,70.51,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+19,IA,Iowa,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2008,69.63,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+19,IA,Iowa,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2012,70.6,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+19,IA,Iowa,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2016,69.18,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+19,IA,Iowa,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2020,72.04,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+19,IA,Iowa,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+19,IA,Iowa,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2000,57.68,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+20,KS,Kansas,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2004,63.03,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+20,KS,Kansas,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2008,63.44,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+20,KS,Kansas,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2012,58.25,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+20,KS,Kansas,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2016,59.54,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+20,KS,Kansas,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2020,65.1,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+20,KS,Kansas,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+20,KS,Kansas,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2000,52.54,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+21,KY,Kentucky,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2004,59.35,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+21,KY,Kentucky,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2008,58.96,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+21,KY,Kentucky,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2012,56.13,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+21,KY,Kentucky,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2016,59.56,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+21,KY,Kentucky,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2020,64.41,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+21,KY,Kentucky,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+21,KY,Kentucky,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2000,56.71,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+22,LA,Louisiana,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2004,60.41,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+22,LA,Louisiana,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2008,61.78,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+22,LA,Louisiana,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2012,60.86,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+22,LA,Louisiana,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2016,60.67,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+22,LA,Louisiana,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2020,64.14,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+22,LA,Louisiana,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+22,LA,Louisiana,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2004,74.73,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+23,ME,Maine,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2008,71.85,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+23,ME,Maine,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2012,69.38,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+23,ME,Maine,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2016,72.84,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+23,ME,Maine,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2020,74.87,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+23,ME,Maine,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+23,ME,Maine,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2000,55.95,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+24,MD,Maryland,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2004,63.01,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+24,MD,Maryland,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2008,67.8,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+24,MD,Maryland,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2012,67.3,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+24,MD,Maryland,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2016,67.12,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+24,MD,Maryland,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2020,69.45,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+24,MD,Maryland,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+24,MD,Maryland,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2000,61.06,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+25,MA,Massachusetts,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2004,64.9,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+25,MA,Massachusetts,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2008,67.29,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+25,MA,Massachusetts,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2012,66,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+25,MA,Massachusetts,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2016,68.12,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+25,MA,Massachusetts,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2020,71.31,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+25,MA,Massachusetts,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+25,MA,Massachusetts,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2000,60.45,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+26,MI,Michigan,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2004,67.67,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+26,MI,Michigan,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2008,69.68,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+26,MI,Michigan,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2012,65.25,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+26,MI,Michigan,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2016,65.54,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+26,MI,Michigan,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2020,73.27,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+26,MI,Michigan,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+26,MI,Michigan,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2000,71.06,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+27,MN,Minnesota,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2004,78.96,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+27,MN,Minnesota,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2008,78.09,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+27,MN,Minnesota,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2012,76.5,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+27,MN,Minnesota,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2016,74.67,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+27,MN,Minnesota,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2020,79.21,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+27,MN,Minnesota,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+27,MN,Minnesota,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2004,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2008,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2012,59.34,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+28,MS,Mississippi,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2016,55.17,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+28,MS,Mississippi,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2020,60.63,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+28,MS,Mississippi,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+28,MS,Mississippi,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2004,66.11,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+29,MO,Missouri,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2008,68.21,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+29,MO,Missouri,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2012,64.11,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+29,MO,Missouri,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2016,62.25,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+29,MO,Missouri,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2020,65.49,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+29,MO,Missouri,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+29,MO,Missouri,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2000,62.67,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+30,MT,Montana,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2004,65.07,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+30,MT,Montana,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2008,67.06,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+30,MT,Montana,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2012,63.64,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+30,MT,Montana,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2016,64.42,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+30,MT,Montana,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2020,71.34,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+30,MT,Montana,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+30,MT,Montana,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2000,58.53,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+31,NE,Nebraska,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2004,63.98,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+31,NE,Nebraska,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2008,63.66,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+31,NE,Nebraska,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2012,61.15,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+31,NE,Nebraska,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2016,64.11,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+31,NE,Nebraska,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2020,69.06,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+31,NE,Nebraska,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+31,NE,Nebraska,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2000,46.35,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+32,NV,Nevada,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2004,54.65,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+32,NV,Nevada,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2008,57.17,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+32,NV,Nevada,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2012,56.62,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+32,NV,Nevada,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2016,57.75,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+32,NV,Nevada,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2020,64.25,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+32,NV,Nevada,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+32,NV,Nevada,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2000,63.82,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+33,NH,New Hampshire,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2004,71.93,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+33,NH,New Hampshire,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2008,72.51,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+33,NH,New Hampshire,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2012,70.74,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+33,NH,New Hampshire,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2016,72.07,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+33,NH,New Hampshire,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2020,73.96,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+33,NH,New Hampshire,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+33,NH,New Hampshire,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2000,59.33,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+34,NJ,New Jersey,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2004,64.54,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+34,NJ,New Jersey,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2008,67.71,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+34,NJ,New Jersey,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2012,62.41,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+34,NJ,New Jersey,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2016,66.38,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+34,NJ,New Jersey,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2020,72.04,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+34,NJ,New Jersey,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+34,NJ,New Jersey,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2000,50.4,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+35,NM,New Mexico,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2004,60.14,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+35,NM,New Mexico,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2008,61.18,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+35,NM,New Mexico,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2012,54.66,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+35,NM,New Mexico,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2016,54.58,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+35,NM,New Mexico,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2020,60.49,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+35,NM,New Mexico,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+35,NM,New Mexico,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2000,56.16,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+36,NY,New York,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2004,58.92,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+36,NY,New York,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2008,59.65,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+36,NY,New York,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2012,53.51,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+36,NY,New York,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2016,57.57,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+36,NY,New York,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2020,61.71,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+36,NY,New York,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+36,NY,New York,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2000,52.24,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+37,NC,North Carolina,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2004,58.56,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+37,NC,North Carolina,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2008,66.16,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+37,NC,North Carolina,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2012,65.34,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+37,NC,North Carolina,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2016,64.72,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+37,NC,North Carolina,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2020,71,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+37,NC,North Carolina,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+37,NC,North Carolina,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2000,61.5,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+38,ND,North Dakota,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2004,64.66,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+38,ND,North Dakota,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2008,63.63,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+38,ND,North Dakota,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2012,60.52,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+38,ND,North Dakota,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2016,61.9,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+38,ND,North Dakota,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2020,63.07,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+38,ND,North Dakota,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+38,ND,North Dakota,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2000,57.86,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+39,OH,Ohio,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2004,68.07,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+39,OH,Ohio,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2008,67.82,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+39,OH,Ohio,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2012,65.13,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+39,OH,Ohio,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2016,64.02,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+39,OH,Ohio,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2020,67.08,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+39,OH,Ohio,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+39,OH,Ohio,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2004,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2008,56.33,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+40,OK,Oklahoma,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2012,49.47,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+40,OK,Oklahoma,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2016,52.63,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+40,OK,Oklahoma,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2020,54.43,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+40,OK,Oklahoma,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+40,OK,Oklahoma,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2000,64.47,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+41,OR,Oregon,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2004,72.98,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+41,OR,Oregon,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2008,68.32,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+41,OR,Oregon,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2012,64.28,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+41,OR,Oregon,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2016,68.2,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+41,OR,Oregon,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2020,75.33,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+41,OR,Oregon,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+41,OR,Oregon,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2004,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2008,64.18,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+42,PA,Pennsylvania,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2012,59.9,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+42,PA,Pennsylvania,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2016,64.21,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+42,PA,Pennsylvania,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2020,69.93,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+42,PA,Pennsylvania,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+42,PA,Pennsylvania,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2000,56.08,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+44,RI,Rhode Island,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2004,58.89,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+44,RI,Rhode Island,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2008,62.23,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+44,RI,Rhode Island,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2012,58.49,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+44,RI,Rhode Island,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2016,59.78,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+44,RI,Rhode Island,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2020,63.09,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+44,RI,Rhode Island,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+44,RI,Rhode Island,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2000,49.26,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+45,SC,South Carolina,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2004,53.05,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+45,SC,South Carolina,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2008,58.23,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+45,SC,South Carolina,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2012,56.91,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+45,SC,South Carolina,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2016,57.3,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+45,SC,South Carolina,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2020,64.71,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+45,SC,South Carolina,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+45,SC,South Carolina,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2000,59.05,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+46,SD,South Dakota,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2004,69.86,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+46,SD,South Dakota,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2008,65.6,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+46,SD,South Dakota,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2012,60.19,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+46,SD,South Dakota,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2016,60.3,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+46,SD,South Dakota,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2020,65.62,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+46,SD,South Dakota,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+46,SD,South Dakota,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2000,50.36,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+47,TN,Tennessee,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2004,56.84,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+47,TN,Tennessee,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2008,57.39,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+47,TN,Tennessee,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2012,52.36,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+47,TN,Tennessee,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2016,51.87,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+47,TN,Tennessee,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2020,59.24,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+47,TN,Tennessee,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+47,TN,Tennessee,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2000,49.62,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+48,TX,Texas,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2004,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2008,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2012,49.57,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+48,TX,Texas,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2016,51.34,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+48,TX,Texas,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2020,59.79,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+48,TX,Texas,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+48,TX,Texas,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2000,54.65,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+49,UT,Utah,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2004,60.97,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+49,UT,Utah,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2008,57.09,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+49,UT,Utah,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2012,56.17,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+49,UT,Utah,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2016,58.03,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+49,UT,Utah,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2020,67.22,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+49,UT,Utah,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+49,UT,Utah,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2000,65.42,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+50,VT,Vermont,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2004,66.86,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+50,VT,Vermont,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2008,67.7,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+50,VT,Vermont,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2012,61.24,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+50,VT,Vermont,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2016,64.77,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+50,VT,Vermont,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2020,71.25,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+50,VT,Vermont,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+50,VT,Vermont,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2000,55.41,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+51,VA,Virginia,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2004,61,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+51,VA,Virginia,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2008,67.53,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+51,VA,Virginia,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2012,66.72,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+51,VA,Virginia,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2016,66.27,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+51,VA,Virginia,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2020,71.79,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+51,VA,Virginia,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+51,VA,Virginia,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2000,62.57,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+53,WA,Washington,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2004,67.72,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+53,WA,Washington,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2008,67.36,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+53,WA,Washington,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2012,65.83,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+53,WA,Washington,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2016,65.65,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+53,WA,Washington,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2020,75.33,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+53,WA,Washington,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+53,WA,Washington,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2004,54.68,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+54,WV,West Virginia,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2008,51.16,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+54,WV,West Virginia,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2012,47.35,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+54,WV,West Virginia,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2016,51.42,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+54,WV,West Virginia,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2020,57.19,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+54,WV,West Virginia,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+54,WV,West Virginia,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2000,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2004,75.5,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+55,WI,Wisconsin,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2008,72.74,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+55,WI,Wisconsin,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2012,73.37,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+55,WI,Wisconsin,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2016,69.92,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+55,WI,Wisconsin,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2020,75.04,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+55,WI,Wisconsin,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+55,WI,Wisconsin,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2000,62.12,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+56,WY,Wyoming,2001,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2002,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2003,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2004,65.45,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+56,WY,Wyoming,2005,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2006,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2007,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2008,63.1,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+56,WY,Wyoming,2009,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2010,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2011,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2012,59.03,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+56,WY,Wyoming,2013,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2014,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2015,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2016,60.23,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+56,WY,Wyoming,2017,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2018,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2019,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2020,64.74,pres_turnout,UF Election Lab / U.S. Elections Project,OBSERVED
+56,WY,Wyoming,2021,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2022,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
+56,WY,Wyoming,2023,,pres_turnout,UF Election Lab / U.S. Elections Project,MISSING
