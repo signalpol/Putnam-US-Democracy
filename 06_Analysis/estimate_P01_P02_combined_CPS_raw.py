@@ -26,3 +26,30 @@ def validate_wave(year,var):
 # 2011 PES7 969-970
 # 2013 PES7 969-970
 # Valid substantive responses: 1 Yes, 2 No. Negative codes excluded.
+
+
+def validate_supplement_frame(df, year, state_col, weight_col="PWNRWGT"):
+    """Fail closed if a Basic Monthly file is supplied instead of the Civic supplement."""
+    var=WAVES[year]
+    required={state_col,var,weight_col}
+    missing=required-set(df.columns)
+    if missing:
+        raise ValueError(
+            f"{year}: not a usable Civic Engagement supplement frame; missing {sorted(missing)}. "
+            "Do not substitute the Basic Monthly November CPS file."
+        )
+    vals=set(pd.to_numeric(df[var],errors="coerce").dropna().astype(int).unique())
+    if not (vals & {1,2}):
+        raise ValueError(f"{year}: {var} has no substantive Yes/No responses")
+    return True
+
+def run_wave(df,year,state_col,weight_col="PWNRWGT"):
+    var=WAVES[year]
+    validate_supplement_frame(df,year,state_col,weight_col)
+    out=estimate_yes_share(df,state_col,var,weight_col)
+    out.insert(0,"year",year)
+    out["source_variable"]=var
+    out["variable_id"]="P01_P02"
+    out["proxy_flag"]="PROXY_COMBINED"
+    out["no_interpolation"]=True
+    return out
