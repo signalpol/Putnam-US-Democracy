@@ -81,3 +81,18 @@ Canonical handling:
 - preserve exact question wording and reference period by wave;
 - no interpolation;
 - do not confuse “public meeting to discuss issues” with “group/organization meeting.”
+
+
+## P04 correction — wave coverage narrowed after full official-document cross-check
+Status: **2008 VERIFIED; 2009/2010/2011/2013 NOT OBSERVED AS THE SAME CPS ITEM**
+
+A full wave-level cross-check changes the earlier provisional P04 architecture. The 2008 Civic Engagement supplement contains `PEQ7`, asking whether the respondent attended a meeting of any group or organization in the last 12 months. In the 2009 and 2010 supplement layouts, that group-meeting item is absent; 2010 proceeds from `PEQ6` to `PEQ8`. The 2011 and 2013 layouts likewise do not provide a corresponding `PES8` item.
+
+Canonical consequence:
+- CPS P04 observation is currently admissible for 2008 only.
+- 2009, 2010, 2011, and 2013 are missing because the item was not fielded/verified, not because of respondent nonresponse.
+- No interpolation or carry-forward.
+- P07 public/political meeting attendance must not be substituted for P04.
+- Any later source for P04 must be separately documented as a measurement bridge, not silently pooled.
+
+Crosswalk stored at `01_Variable_Registry/CPS_P01_P02_P04_Wave_Crosswalk_v0_1.csv`.
