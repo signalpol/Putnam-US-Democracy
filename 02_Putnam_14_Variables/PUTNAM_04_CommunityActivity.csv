@@ -1,0 +1,1201 @@
+state_fips,state_abbr,state_name,year,value,variable,source_family,missing_status
+01,AL,Alabama,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2010,10.01113355618203,community_activity,CPS Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2011,6.878373372098332,community_activity,CPS Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2012,7.114649196386922,community_activity,CPS Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2013,4.608178592976443,community_activity,CPS Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2014,7.232663082688228,community_activity,CPS Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2015,6.325431134835862,community_activity,CPS Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2017,18.23461620812535,community_activity,CPS Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2019,16.44157965417194,community_activity,CPS Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2021,15.94160489220922,community_activity,CPS Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+01,AL,Alabama,2023,18.31129214517437,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2010,13.41545051167813,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2011,19.22093350043767,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2012,16.78170705422718,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2013,15.81756131954624,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2014,16.50056305668439,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2015,12.29481065719025,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2017,24.51754519025389,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2019,26.50932101572527,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2021,20.73468112216778,community_activity,CPS Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+02,AK,Alaska,2023,27.85641345297091,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2010,8.227955538985071,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2011,8.810901902479598,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2012,7.062497759874142,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2013,5.287340744109497,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2014,6.989272466622191,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2015,5.640427352267807,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2017,15.60887314361906,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2019,17.47064557635117,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2021,15.6443428746098,community_activity,CPS Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+04,AZ,Arizona,2023,20.26567360480785,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2010,6.246010995623073,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2011,6.184540512911727,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2012,6.300726604361214,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2013,4.589352449849307,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2014,5.869007480192741,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2015,6.376642098451278,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2017,16.97831401352071,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2019,19.55791390158461,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2021,14.41295650545563,community_activity,CPS Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+05,AR,Arkansas,2023,17.02168155938637,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2010,7.397593255861363,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2011,8.300767391836851,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2012,7.231180407709847,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2013,7.043110950451772,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2014,6.861276569863933,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2015,6.743376295971984,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2017,17.86877027272268,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2019,17.78939830537595,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2021,15.19712090426135,community_activity,CPS Civic Engagement supplements,OBSERVED
+06,CA,California,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+06,CA,California,2023,18.01376869367191,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2010,8.778164042893858,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2011,11.33366232075711,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2012,11.79255233053848,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2013,10.05875758615148,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2014,10.53389306005138,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2015,8.938498778862005,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2017,21.27757833173566,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2019,25.31523436755788,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2021,20.73332108141654,community_activity,CPS Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+08,CO,Colorado,2023,22.19280921645061,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2010,7.361314503476436,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2011,9.355638109833645,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2012,9.668764021508627,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2013,8.692177630568905,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2014,9.150500719414909,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2015,10.76789237031086,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2017,18.05797962611397,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2019,24.17587068499311,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2021,20.21019807182303,community_activity,CPS Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+09,CT,Connecticut,2023,17.15302314713127,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2010,6.085759174338286,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2011,13.12427922949296,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2012,9.152364111250673,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2013,6.708817137234655,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2014,8.75390448786783,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2015,8.756731438661356,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2017,24.36262349413188,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2019,27.66603856183963,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2021,23.39223476769356,community_activity,CPS Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+10,DE,Delaware,2023,21.99921035640497,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2010,6.818671553276793,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2011,5.985408172246031,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2012,6.319685857978103,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2013,5.823435993086123,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2014,5.816061732462074,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2015,5.471213874749174,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2017,23.61770840406009,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2019,17.75898254908816,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2021,15.46497757307743,community_activity,CPS Civic Engagement supplements,OBSERVED
+12,FL,Florida,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+12,FL,Florida,2023,21.30895394052872,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2010,6.700402579783953,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2011,8.432860333083374,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2012,7.855537544305313,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2013,9.164494469721264,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2014,6.501161657825875,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2015,6.910018242036335,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2017,17.25173308410529,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2019,18.31980929202745,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2021,14.53268946873849,community_activity,CPS Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+13,GA,Georgia,2023,24.27384470619096,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2010,7.272236938214291,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2011,6.838940446603067,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2012,8.853329277644908,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2013,7.178859669543598,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2014,7.151065738464453,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2015,7.213343681804747,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2017,19.71287183061072,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2019,17.59007994043099,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2021,12.54750455365727,community_activity,CPS Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+15,HI,Hawaii,2023,15.32963459494929,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2010,13.968217221613,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2011,15.3343905945619,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2012,11.36995107868493,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2013,10.20845534376562,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2014,9.22283037088272,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2015,8.871362400738244,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2017,29.82488082052658,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2019,23.43127751006008,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2021,21.2521802989525,community_activity,CPS Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+16,ID,Idaho,2023,22.89621207728711,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2010,6.859975591270453,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2011,6.932358409382961,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2012,7.072950758305544,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2013,6.707652707206186,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2014,6.769184071903742,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2015,7.097544580373468,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2017,21.68194659444613,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2019,24.21805266990644,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2021,20.32690588939877,community_activity,CPS Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+17,IL,Illinois,2023,22.84436694759459,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2010,6.512932296309032,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2011,6.559222151083226,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2012,7.67329072213813,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2013,5.233376332998109,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2014,6.050929533112468,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2015,7.329107855322158,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2017,18.47070206856061,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2019,18.33610114211421,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2021,17.28152046136365,community_activity,CPS Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+18,IN,Indiana,2023,22.62169584118855,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2010,10.39502143489895,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2011,11.49591738148752,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2012,9.666022223005184,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2013,10.8959837892442,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2014,8.085041264514654,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2015,7.134170706183844,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2017,24.87874886761662,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2019,22.415909114276,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2021,19.97088291294325,community_activity,CPS Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+19,IA,Iowa,2023,19.43747571126458,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2010,10.69942072906432,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2011,9.785961775461201,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2012,11.07407421985831,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2013,10.35022209656991,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2014,7.723246955848897,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2015,8.487419518661158,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2017,24.51161182538419,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2019,20.68038525480871,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2021,15.46915815336955,community_activity,CPS Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+20,KS,Kansas,2023,20.5605031327726,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2010,6.359913637220136,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2011,6.495612871148781,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2012,7.324686460455383,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2013,6.94558933621938,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2014,7.253318414798787,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2015,7.320794078483821,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2017,15.89613565632974,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2019,17.68184906434795,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2021,12.66117085684041,community_activity,CPS Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+21,KY,Kentucky,2023,15.97311094065664,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2010,9.136792067812008,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2011,7.606385874626502,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2012,9.421527466395014,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2013,5.332789091418135,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2014,5.857738332625143,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2015,7.076460512236044,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2017,18.58504334839399,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2019,19.95399495242615,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2021,20.13950377195656,community_activity,CPS Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+22,LA,Louisiana,2023,22.09960034850513,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2010,12.22869316608367,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2011,13.41500529510827,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2012,12.33184672775106,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2013,11.9728340110796,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2014,12.03809526968937,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2015,10.7876365398983,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2017,27.17165106023351,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2019,24.49343278495871,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2021,23.27929412526688,community_activity,CPS Civic Engagement supplements,OBSERVED
+23,ME,Maine,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+23,ME,Maine,2023,27.86909898192794,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2010,9.53034773782762,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2011,8.323080016889104,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2012,10.74244301971678,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2013,8.986929121021245,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2014,9.349051372528358,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2015,9.365511409143831,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2017,24.52265635688935,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2019,28.67201272497623,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2021,19.29778303051369,community_activity,CPS Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+24,MD,Maryland,2023,27.7765110391216,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2010,7.771711166185828,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2011,10.90353790303946,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2012,7.759510432148387,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2013,7.441350797239491,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2014,5.455954406051648,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2015,7.042818934285422,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2017,22.34619976322496,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2019,22.62361463633555,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2021,19.6104511190849,community_activity,CPS Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2023,21.89511296502408,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2010,8.876901592847327,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2011,8.347629542404055,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2012,9.318236241580367,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2013,7.127219509174464,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2014,9.037446442977753,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2015,9.361968230348108,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2017,19.57774448755729,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2019,20.204933696346,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2021,19.23783136534009,community_activity,CPS Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+26,MI,Michigan,2023,18.61855037983266,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2010,11.4512584832539,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2011,11.92675515519227,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2012,11.08052334198064,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2013,9.837431134703802,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2014,9.941973087250558,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2015,11.33980061756756,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2017,24.0891783627866,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2019,29.69285178432158,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2021,26.05890371816922,community_activity,CPS Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+27,MN,Minnesota,2023,30.11619014006744,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2010,7.993045798943822,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2011,9.447343079456521,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2012,9.48614624184178,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2013,7.784823388776089,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2014,6.424945543727715,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2015,6.682382018517235,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2017,18.40932384620839,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2019,20.1211923739506,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2021,18.09931337332,community_activity,CPS Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+28,MS,Mississippi,2023,20.87050878892751,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2010,10.24731564311939,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2011,9.964465386413899,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2012,9.198631370671345,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2013,10.73613570167532,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2014,7.57628394975199,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2015,8.147434308772176,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2017,22.19311992875596,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2019,22.13385569054277,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2021,16.29747402372658,community_activity,CPS Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+29,MO,Missouri,2023,20.37653923534367,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2010,14.08455922863526,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2011,13.12364530304588,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2012,10.2035746654617,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2013,9.348348796794308,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2014,11.81961429262502,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2015,13.00660255594888,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2017,28.06984664573436,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2019,24.86574855964886,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2021,22.47842362525109,community_activity,CPS Civic Engagement supplements,OBSERVED
+30,MT,Montana,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+30,MT,Montana,2023,28.14831739654353,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2010,9.865484636831424,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2011,9.66805311197612,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2012,10.53245503919155,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2013,10.20792165706601,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2014,9.013491658400866,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2015,8.240170935779291,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2017,29.52576258607336,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2019,22.42891395709512,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2021,23.54023996434133,community_activity,CPS Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+31,NE,Nebraska,2023,24.62333284854237,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2010,7.032979715112371,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2011,6.438820538675093,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2012,9.60817436966004,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2013,6.272868727487151,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2014,6.899459081568591,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2015,5.626371497956667,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2017,13.43759093802539,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2019,16.49362420800849,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2021,13.00175732525904,community_activity,CPS Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+32,NV,Nevada,2023,16.91719188985623,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2010,10.15258575306655,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2011,10.3576611992344,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2012,10.59664272911296,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2013,8.467536303351087,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2014,9.702177120742766,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2015,12.98936635018706,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2017,23.09314569509825,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2019,27.43088091567342,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2021,21.24952082777743,community_activity,CPS Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2023,22.83486451261799,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2010,5.335358419418994,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2011,7.20638572962033,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2012,7.804482057287175,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2013,6.168064436469952,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2014,6.89446458267501,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2015,6.235067979041515,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2017,19.99109420948438,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2019,21.14538731671485,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2021,20.94511683262348,community_activity,CPS Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2023,23.26863416047337,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2010,8.563864431358631,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2011,10.15812954751897,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2012,7.899498771381293,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2013,6.217077848588023,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2014,7.812856357616753,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2015,7.638456124859147,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2017,15.25547250874542,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2019,19.32683739884006,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2021,13.58195813120258,community_activity,CPS Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+35,NM,New Mexico,2023,13.78475893613134,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2010,6.293154232040616,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2011,7.93016245902279,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2012,6.469152528722348,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2013,7.505138944813695,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2014,7.03935177766518,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2015,6.681695727689226,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2017,20.97877685129234,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2019,18.44212513483452,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2021,20.37699582586536,community_activity,CPS Civic Engagement supplements,OBSERVED
+36,NY,New York,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+36,NY,New York,2023,24.18320164438619,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2010,7.75498897860783,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2011,9.162054947624885,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2012,8.925630633271455,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2013,8.045095663136843,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2014,7.736827178214506,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2015,6.254573691187293,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2017,24.9298050224556,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2019,21.9505428012979,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2021,19.55574742241312,community_activity,CPS Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+37,NC,North Carolina,2023,23.3095851921666,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2010,14.00332196747444,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2011,16.00195041755511,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2012,10.10038582469293,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2013,9.197395488117056,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2014,11.33210235997039,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2015,8.78905998267273,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2017,25.48570865012167,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2019,23.74350341459492,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2021,18.21813034025835,community_activity,CPS Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+38,ND,North Dakota,2023,21.75097190727632,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2010,7.713056391727563,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2011,7.560651226836494,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2012,8.3952860995615,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2013,6.514897018366911,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2014,8.47758177211715,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2015,7.452943042989954,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2017,20.80477831407165,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2019,21.69854400209057,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2021,16.83084433849191,community_activity,CPS Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+39,OH,Ohio,2023,21.56259253263309,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2010,7.094003520259313,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2011,7.779460178589309,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2012,6.769653056130867,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2013,7.376787237369587,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2014,6.895990818619256,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2015,8.087231486083088,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2017,19.06714232384306,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2019,18.17276298257899,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2021,16.53579818631244,community_activity,CPS Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2023,15.73977795700224,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2010,10.6687161174675,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2011,13.11552010866328,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2012,12.5667123026155,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2013,11.83352235376933,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2014,12.20489314532718,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2015,13.9342920091742,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2017,32.69492338282662,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2019,24.48357410113789,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2021,20.32834017802493,community_activity,CPS Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+41,OR,Oregon,2023,28.55175681593101,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2010,8.206228796667752,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2011,9.88508118153862,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2012,8.395765845215843,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2013,7.408133964236034,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2014,7.863689164866261,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2015,8.506668561932127,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2017,22.08828730717826,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2019,22.70006975514256,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2021,20.04499907378202,community_activity,CPS Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2023,23.40938369778818,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2010,7.721773112648596,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2011,9.422761134159071,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2012,7.718855098120543,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2013,6.780452417995082,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2014,8.188887112547325,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2015,7.391056435706386,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2017,16.25853215969679,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2019,20.42866139865362,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2021,15.13157041712269,community_activity,CPS Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2023,13.31524300201081,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2010,9.26843413995647,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2011,8.783894221973764,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2012,9.327188340093304,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2013,7.613762878636285,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2014,10.29195596420772,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2015,8.166518432781288,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2017,24.67985302604747,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2019,22.81237814839675,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2021,23.22972706565618,community_activity,CPS Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+45,SC,South Carolina,2023,21.31285997281006,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2010,16.27073014299695,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2011,15.30201404018727,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2012,16.47767106340037,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2013,11.99627485212087,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2014,13.58356941317583,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2015,10.93215095993914,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2017,24.70284590016717,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2019,31.37183266195043,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2021,28.05229084165369,community_activity,CPS Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+46,SD,South Dakota,2023,25.73572086058111,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2010,6.152328165803264,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2011,7.902254361854417,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2012,6.656902678423375,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2013,7.012516093832715,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2014,5.059798982298481,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2015,5.502799967800886,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2017,19.14338599199765,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2019,19.42597632441021,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2021,16.76458626670286,community_activity,CPS Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+47,TN,Tennessee,2023,26.02341748960981,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2010,7.017251218641222,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2011,6.863779971018711,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2012,5.922657800775555,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2013,5.783990548622501,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2014,5.209975285407924,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2015,5.705812862995729,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2017,19.21837411777475,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2019,16.73405760604205,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2021,15.19079351697112,community_activity,CPS Civic Engagement supplements,OBSERVED
+48,TX,Texas,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+48,TX,Texas,2023,17.76894561342902,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2010,13.47189843099502,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2011,17.86047278645048,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2012,23.19424772077826,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2013,19.54129893344255,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2014,17.88008858478893,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2015,13.88736833006858,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2017,39.60949172925621,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2019,44.90118152816881,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2021,35.77913962134075,community_activity,CPS Civic Engagement supplements,OBSERVED
+49,UT,Utah,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+49,UT,Utah,2023,44.13279262951191,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2010,15.86548708167268,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2011,20.47511256937676,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2012,19.10208683569179,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2013,15.52647863235313,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2014,15.1393424840271,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2015,13.38311531560692,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2017,25.83617797528454,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2019,37.02784188182149,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2021,31.82594422589466,community_activity,CPS Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+50,VT,Vermont,2023,32.52135518218522,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2010,10.1698137859167,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2011,8.870971748566248,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2012,9.23962399776726,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2013,7.617150029667262,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2014,9.423840534006077,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2015,10.29798607734217,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2017,18.34717532811289,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2019,20.77457361334147,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2021,18.10471739925831,community_activity,CPS Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+51,VA,Virginia,2023,23.11199192767726,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2010,12.81205743567075,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2011,12.15412824911427,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2012,11.82025102648622,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2013,11.49517691454558,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2014,12.5073157939512,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2015,11.84896519745877,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2017,24.72518685508259,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2019,22.38650765703412,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2021,17.37394079568514,community_activity,CPS Civic Engagement supplements,OBSERVED
+53,WA,Washington,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+53,WA,Washington,2023,20.49684372991063,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2010,7.374961096566978,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2011,4.076427835988246,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2012,10.41535619347641,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2013,7.325791606871867,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2014,10.5585960512637,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2015,8.924868905691149,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2017,25.54915454223303,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2019,23.40360563099961,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2021,18.4684850069479,community_activity,CPS Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+54,WV,West Virginia,2023,17.1021679557767,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2010,9.829270177208638,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2011,9.679358911681543,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2012,10.35322931115142,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2013,8.903504799852142,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2014,8.759139114656135,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2015,11.31495130047721,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2017,19.68673556819937,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2019,17.94282468036494,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2021,17.94293314939569,community_activity,CPS Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2023,20.09177070152461,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2000,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2001,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2002,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2003,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2004,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2005,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2006,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2007,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2008,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2009,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2010,13.09902761241098,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2011,11.2940326193085,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2012,9.792432256771177,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2013,9.794528367032296,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2014,8.414303769389605,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2015,9.711209471548019,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2016,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2017,19.73124253268154,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2018,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2019,23.52225500958751,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2020,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2021,29.41291959763969,community_activity,CPS Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2022,,community_activity,CPS Civic Engagement supplements,MISSING
+56,WY,Wyoming,2023,25.87212221946397,community_activity,CPS Civic Engagement supplements,OBSERVED
