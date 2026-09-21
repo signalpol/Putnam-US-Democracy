@@ -1,0 +1,15 @@
+slot,variable,canonical_file,status
+01,Public meeting attendance,PUTNAM_01_PublicMeeting.csv,ACQUIRED
+02,Group membership,PUTNAM_02_GroupMembership.csv,ACQUIRED
+03,Volunteering,PUTNAM_03_Volunteering.csv,ACQUIRED
+04,Community activity,PUTNAM_04_CommunityActivity.csv,ACQUIRED
+05,Presidential election turnout,PUTNAM_05_PresidentialTurnout.csv,ACQUIRED
+06,501(c)(3) nonprofit density,PUTNAM_06_NonprofitDensity.csv,ACQUIRED
+07,TO BE MAPPED,PUTNAM_07_TBD.csv,NOT YET ACQUIRED
+08,TO BE MAPPED,PUTNAM_08_TBD.csv,NOT YET ACQUIRED
+09,TO BE MAPPED,PUTNAM_09_TBD.csv,NOT YET ACQUIRED
+10,TO BE MAPPED,PUTNAM_10_TBD.csv,NOT YET ACQUIRED
+11,TO BE MAPPED,PUTNAM_11_TBD.csv,NOT YET ACQUIRED
+12,TO BE MAPPED,PUTNAM_12_TBD.csv,NOT YET ACQUIRED
+13,TO BE MAPPED,PUTNAM_13_TBD.csv,NOT YET ACQUIRED
+14,TO BE MAPPED,PUTNAM_14_TBD.csv,NOT YET ACQUIRED
