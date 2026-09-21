@@ -47,7 +47,7 @@ def pop_2000_2009():
     st=next(c for c in d if c in ("state","state_fips"))
     name=next((c for c in d if c=="name"),None)
     # total resident population records only; file layout uses SEX=0, AGE=0, ORIGIN=0, RACE=0 where present.
-    for c in ("sex","age","origin","race"):
+    for c in ("sex","agegrp","origin","race"):
         if c in d: d=d[pd.to_numeric(d[c],errors="coerce").fillna(0).eq(0)]
     d["state_fips"]=d[st].astype(str).str.zfill(2); d=d[d.state_fips.isin(STATE_FIPS)]
     rows=[]
