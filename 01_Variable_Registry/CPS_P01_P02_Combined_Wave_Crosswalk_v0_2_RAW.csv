@@ -1,0 +1,6 @@
+variable_id,year,survey,raw_variable,record_location,response_codes,weight,canonical_status,notes
+P01/P02,2008,CPS Civic Engagement,PEQ6,983-984,"1=Yes;2=No;-1=NIU;-2=Don't know;-3=Refused;-9=N/A",PWNRWGT,PROXY_COMBINED,"Officer OR committee; do not duplicate into P01 and P02"
+P01/P02,2009,CPS Civic Engagement,PEQ6,967-968,"1=Yes;2=No;-1=NIU;-2=Don't know;-3=Refused;-9=No response",PWNRWGT,PROXY_COMBINED,"Officer OR committee; do not duplicate"
+P01/P02,2010,CPS Civic Engagement,PEQ6,967-968,"1=Yes;2=No;-1=NIU;-2=Don't know;-3=Refused;-9=No response",PWNRWGT,PROXY_COMBINED,"Officer OR committee; do not duplicate"
+P01/P02,2011,CPS Civic Engagement,PES7,969-970,"1=Yes;2=No;-1=NIU;-2=Don't know;-3=Refused;-9=No response",PWNRWGT,PROXY_COMBINED,"Served on committee OR as officer; do not duplicate"
+P01/P02,2013,CPS Civic Engagement,PES7,969-970,"1=Yes;2=No;-1=NIU;-2=Don't know;-3=Refused;-9=No response",PWNRWGT,PROXY_COMBINED,"Served on committee OR as officer; do not duplicate"
