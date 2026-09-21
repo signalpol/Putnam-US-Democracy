@@ -1,0 +1,1201 @@
+state_fips,state_abbr,state_name,year,value,variable,source_family,missing_status
+01,AL,Alabama,2000,1.954326572664629,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2001,2.0876822049433774,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2002,2.2030812334308534,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2003,2.4305588708848314,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2004,2.54594790374794,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2005,2.588731904315392,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2006,2.6392417683287097,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2007,2.755925732530966,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2008,2.8763051041010077,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2009,3.0860007003033667,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2010,3.2293291796868635,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2011,2.89979961005425,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2012,2.8856263048536817,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2013,2.7663794041956407,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2014,2.9644466658697612,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2015,3.1220628313857435,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2016,3.2142111570091707,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+01,AL,Alabama,2018,3.032323798947917,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2019,3.6167739582494987,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2020,3.5948904819367136,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+01,AL,Alabama,2022,3.809493401824986,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+01,AL,Alabama,2023,3.96126588245243,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2000,4.111707218418919,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2001,4.33002900361993,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2002,4.46183234034471,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2003,4.751593889089378,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2004,4.862836462476073,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2005,4.836973308183871,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2006,4.974070860148497,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2007,5.135969425253565,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2008,5.220705355259617,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2009,5.306948826361613,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2010,5.339070172637406,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2011,4.944978119994629,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2012,4.943829449514922,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2013,4.7666432582365585,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2014,4.99542109011973,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2015,5.165012255731756,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2016,5.251994748005251,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+02,AK,Alaska,2018,5.0745020526075715,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2019,5.787871641746285,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2020,5.832482905026713,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+02,AK,Alaska,2022,5.941828179294018,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+02,AK,Alaska,2023,6.088033094902414,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2000,1.9307884802229824,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2001,2.0354691980262736,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2002,2.104237105177572,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2003,2.2624639678975833,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2004,2.2993756284936464,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2005,2.289916711151437,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2006,2.337978163058386,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2007,2.416305253141335,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2008,2.4832963450196024,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2009,2.5965001007385284,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2010,2.8492313973563452,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2011,2.515209898452378,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2012,2.4946830123617674,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2013,2.341028744372382,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2014,2.4848233436157194,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2015,2.6005406267699525,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2016,2.655668649502568,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+04,AZ,Arizona,2018,2.4216147224795193,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2019,2.95521996290924,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2020,3.0706794775837474,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+04,AZ,Arizona,2022,3.2052691915645584,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+04,AZ,Arizona,2023,3.3329099016274846,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2000,2.187719798640179,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2001,2.332095270754515,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2002,2.4579377048974345,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2003,2.65449116564201,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2004,2.7614062114728735,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2005,2.8215484752958995,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2006,2.8850777936189496,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2007,2.972636160988538,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2008,3.2039752949501032,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2009,3.3377714981447046,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2010,3.519851827413982,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2011,3.220291611329061,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2012,3.1281367724211924,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2013,2.909683937524553,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2014,3.126895783726466,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2015,3.337884078165419,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2016,3.410638692566218,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+05,AR,Arkansas,2018,3.1963762893152126,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2019,3.8189530898034914,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2020,3.8724792227042135,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+05,AR,Arkansas,2022,3.949574646041694,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+05,AR,Arkansas,2023,4.061632502448062,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2000,2.4323601254643665,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2001,2.550736151362936,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2002,2.6533154556815366,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2003,2.869416610295832,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2004,2.955340915377319,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2005,2.982783577611475,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2006,3.0883200399586888,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2007,3.2297653942886173,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2008,3.2921508727230875,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2009,3.4035123669724294,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2010,3.480347431842024,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2011,3.1547725280514345,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2012,3.133098083042279,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2013,3.0418964218113103,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2014,3.2399241334567406,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2015,3.370296175003398,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2016,3.439330769227232,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+06,CA,California,2018,3.1937145652599406,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2019,3.8074061790255547,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2020,3.837385325745762,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+06,CA,California,2022,4.055520025606153,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+06,CA,California,2023,4.192049042333757,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2000,3.1343303933674775,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2001,3.2806206132516826,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2002,3.4050373173383433,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2003,3.675421729526057,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2004,3.780098548353852,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2005,3.807950451306249,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2006,3.8928714651208165,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2007,4.0051058855072625,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2008,4.1583073094015415,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2009,4.249431086270752,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2010,4.358163453516655,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2011,4.0240926218786,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2012,3.9186238606300763,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2013,3.7248798753276087,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2014,4.004941863234888,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2015,4.10866379873011,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2016,4.165160491528983,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+08,CO,Colorado,2018,3.837704959756229,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2019,4.589748069197355,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2020,4.633878164335698,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+08,CO,Colorado,2022,4.781683532672869,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+08,CO,Colorado,2023,4.918325645968344,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2000,3.059695871095913,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2001,3.2515399079769343,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2002,3.3555484945568472,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2003,3.5708381740452126,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2004,3.67324219543296,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2005,3.722601595229595,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2006,3.823213341445247,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2007,3.931369019099757,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2008,3.999346792160039,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2009,4.135822070089705,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2010,4.216616520073212,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2011,3.9274018623252536,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2012,3.887949831039124,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2013,3.794157170381379,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2014,4.035935174738027,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2015,4.193881614385265,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2016,4.303276971252824,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+09,CT,Connecticut,2018,4.088893713102113,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2019,4.721507607075895,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2020,4.745099069596091,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+09,CT,Connecticut,2022,4.8693354349176685,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+09,CT,Connecticut,2023,4.9950569173299835,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2000,2.927363986301666,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2001,3.1494321345131766,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2002,3.3045180353002905,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2003,3.5684465704893507,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2004,3.7096640238419942,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2005,3.9389457492752764,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2006,4.087199802622697,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2007,4.324639317051124,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2008,4.645458515580275,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2009,4.896100837697509,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2010,5.134235983669151,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2011,4.843596778280942,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2012,4.833329328314681,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2013,4.645792165460759,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2014,5.012157992822015,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2015,5.2968744194933475,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2016,5.3905887331327,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+10,DE,Delaware,2018,5.0652285195737266,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2019,6.157670774510888,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2020,6.19239369993003,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+10,DE,Delaware,2022,6.781047594851779,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+10,DE,Delaware,2023,7.402920853966993,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2000,2.0396927499366724,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2001,2.1791327315835956,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2002,2.2857064107273075,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2003,2.552504295291396,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2004,2.6640914624699934,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2005,2.6845027457065163,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2006,2.745859385621944,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2007,2.874915844768264,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2008,2.975338291240955,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2009,3.1236858431437384,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2010,3.2854467887673358,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2011,3.0136011936014424,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2012,3.00590363203512,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2013,2.9107987559942425,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2014,3.130974902638678,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2015,3.2752181834305176,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2016,3.3429101532115038,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+12,FL,Florida,2018,3.0500694286115135,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2019,3.7723705912547407,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2020,3.8124616772710156,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+12,FL,Florida,2022,3.998512779269139,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+12,FL,Florida,2023,4.120831856526854,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2000,1.9037830501684452,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2001,2.0538285728201306,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2002,2.168834600181283,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2003,2.4323905259003666,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2004,2.563274495931922,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2005,2.6261712795608116,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2006,2.6775339339062514,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2007,2.8213939953719724,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2008,2.943025992117913,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2009,3.086422961140839,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2010,3.2581671172850584,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2011,2.9330972303116294,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2012,3.138158120598814,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2013,3.043729134070439,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2014,3.300697712011394,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2015,3.474592307661337,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2016,3.5498089818034577,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+13,GA,Georgia,2018,3.2676802806702936,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2019,4.091637012350372,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2020,4.134121104432471,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+13,GA,Georgia,2022,4.478908472805744,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+13,GA,Georgia,2023,4.631149581017781,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2000,3.363770983396222,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2001,3.5221722291646955,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2002,3.691474677984177,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2003,3.93396816059414,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2004,3.985649776337206,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2005,4.0147625681794095,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2006,4.128328641530207,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2007,4.244969312330173,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2008,4.337144285485879,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2009,4.4708724995674665,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2010,4.546907487074818,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2011,4.144793782374405,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2012,4.108374504282185,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2013,3.9039708352084226,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2014,4.1234054128527875,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2015,4.238934813025167,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2016,4.317352341161115,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+15,HI,Hawaii,2018,4.100900708452381,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2019,4.862197702058822,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2020,4.811253730582195,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+15,HI,Hawaii,2022,5.089624211215931,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+15,HI,Hawaii,2023,5.317955485813908,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2000,2.5495794309812765,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2001,2.7175024735560567,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2002,2.8230968716147458,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2003,3.032903519194942,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2004,3.059343211175153,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2005,3.0702101396052908,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2006,3.104852080353027,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2007,3.168549702512449,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2008,3.241175243756192,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2009,3.3645578887302747,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2010,3.4338774868396675,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2011,3.208413706737227,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2012,3.175617672675777,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2013,3.0482868739427302,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2014,3.254407418480525,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2015,3.3646092726453034,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2016,3.3882886114073574,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+16,ID,Idaho,2018,3.083773858866692,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2019,3.915463986674567,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2020,3.8197431622866334,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+16,ID,Idaho,2022,3.7215136080734568,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+16,ID,Idaho,2023,4.130346928782945,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2000,2.3614781889988397,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2001,2.5020729162037387,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2002,2.5871905406833835,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2003,2.7712634097180264,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2004,2.917844507601527,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2005,3.0116805815239025,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2006,3.114215449200824,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2007,3.2445994625337096,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2008,3.359760910730791,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2009,3.472436577394716,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2010,3.5931496677127024,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2011,3.291631511038071,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2012,3.334697143039886,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2013,3.2901465890619392,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2014,3.5202697815428867,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2015,3.635498346175246,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2016,3.7269602671531543,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+17,IL,Illinois,2018,3.5123855718235855,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2019,4.157174494989626,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2020,4.163918176795222,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+17,IL,Illinois,2022,4.351594255997311,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+17,IL,Illinois,2023,4.430548039875729,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2000,2.6093810993216198,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2001,2.7633262399310676,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2002,2.8664871010517112,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2003,3.0364852683019405,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2004,3.124655563518539,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2005,3.1505350860762946,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2006,3.2281807244307257,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2007,3.3158823932350607,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2008,3.5490565785177015,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2009,3.6601347664036106,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2010,3.775640141713613,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2011,3.595381487590625,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2012,3.5456551463842496,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2013,3.4281626798263467,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2014,3.7478667056598836,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2015,3.8629999325411917,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2016,3.938596224286664,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+18,IN,Indiana,2018,3.6997940279296158,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2019,4.312428595411387,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2020,4.330472177600028,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+18,IN,Indiana,2022,4.510796844505943,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+18,IN,Indiana,2023,4.64778127244634,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2000,3.4792648990275743,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2001,3.6889532970190624,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2002,3.796561555758675,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2003,4.009178793058733,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2004,4.100709803344015,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2005,4.191328318806769,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2006,4.281100929242645,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2007,4.339139747373643,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2008,4.656028672067209,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2009,4.765123463913719,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2010,4.904912418599727,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2011,4.599624621589085,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2012,4.203333025658759,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2013,4.061817717566788,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2014,4.275643331619861,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2015,4.424601630531032,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2016,4.549008843965135,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+19,IA,Iowa,2018,4.322359439982221,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2019,4.946834975104412,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2020,4.956902495343012,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+19,IA,Iowa,2022,5.074236809593921,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+19,IA,Iowa,2023,5.310875820547776,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2000,3.1076434069216066,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2001,3.3325167032916605,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2002,3.426158129524771,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2003,3.636057824373376,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2004,3.7171227188097604,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2005,3.7627959650296745,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2006,3.8480874115205914,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2007,3.9485807991637283,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2008,4.217834560033275,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2009,4.2930712139355185,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2010,4.348440627989137,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2011,3.742581482166808,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2012,3.698860439137027,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2013,3.5963716345127295,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2014,3.7699944966350905,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2015,3.9055669101461943,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2016,3.9845834690764805,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+20,KS,Kansas,2018,3.798131523908007,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2019,4.39636274370115,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2020,4.412339302221418,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+20,KS,Kansas,2022,4.562238909039894,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+20,KS,Kansas,2023,4.680423295537631,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2000,2.154841874122164,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2001,2.275983178520264,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2002,2.360952351844494,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2003,2.490545690364984,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2004,2.5713314750412493,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2005,2.621007941680362,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2006,2.6692017209738537,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2007,2.7963159952187997,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2008,2.9026466486925737,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2009,3.0101406647187425,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2010,3.0898266606323523,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2011,2.791468963353991,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2012,2.790878935427594,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2013,2.7066608636535476,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2014,2.8915605914613383,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2015,3.021815139149349,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2016,3.017134404700937,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+21,KY,Kentucky,2018,2.925000330400941,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2019,3.4724512532016205,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2020,3.5120797754291946,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+21,KY,Kentucky,2022,3.6096137857323507,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+21,KY,Kentucky,2023,3.7336334556888695,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2000,1.9041187329280604,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2001,2.062362169555872,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2002,2.1928873691510864,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2003,2.4507624569734143,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2004,2.5402889743462445,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2005,2.5802839994860847,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2006,2.824993347146478,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2007,2.889444853152073,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2008,2.8956715076655035,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2009,2.9924428628423243,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2010,3.092877645839545,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2011,2.6897604236137758,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2012,2.68553239229242,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2013,2.5458059160750883,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2014,2.740888922753597,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2015,2.9093648636661085,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2016,2.9910201040469984,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+22,LA,Louisiana,2018,2.8123358595332784,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2019,3.4484794296613455,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2020,3.5019180906711105,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+22,LA,Louisiana,2022,3.746711819012241,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+22,LA,Louisiana,2023,3.898552369183355,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2000,3.2762444090857836,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2001,3.5933956188573934,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2002,3.7231087379240098,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2003,3.986183068978265,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2004,4.096863182125436,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2005,4.147750925661233,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2006,4.255000872607601,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2007,4.428653243308415,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2008,4.595233854111472,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2009,4.749584458366865,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2010,4.896618162453838,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2011,4.566144739110242,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2012,4.582506961103657,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2013,4.438697129110612,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2014,4.6919472933413555,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2015,4.867210694771943,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2016,4.955912419277847,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+23,ME,Maine,2018,4.710015423957353,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2019,5.331520244915549,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2020,5.286852417375526,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+23,ME,Maine,2022,5.4076113947793845,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+23,ME,Maine,2023,5.521156791968601,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2000,2.940105448392912,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2001,3.1144116005924807,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2002,3.263185775870071,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2003,3.5656915627673973,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2004,3.7016839029121487,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2005,3.745633119643715,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2006,3.8931173317823413,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2007,4.101419886907154,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2008,4.2067101556473965,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2009,4.3560750162118165,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2010,4.502672754761622,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2011,4.058051713961804,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2012,4.058505105398348,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2013,3.9360716614148017,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2014,4.221095612396109,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2015,4.393901138977726,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2016,4.528872414813749,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+24,MD,Maryland,2018,4.2590778485748375,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2019,5.110030563403124,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2020,5.081402707522196,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+24,MD,Maryland,2022,5.341028792918083,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+24,MD,Maryland,2023,5.555597804814787,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2000,3.1827808506196407,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2001,3.381875237001679,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2002,3.498563081814734,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2003,3.743052814568634,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2004,3.8926865494509677,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2005,3.9332905428303264,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2006,4.0957341588659375,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2007,4.183744563332157,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2008,4.24039881483396,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2009,4.348677959246737,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2010,4.406649569629815,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2011,4.018010897130998,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2012,4.0058407006079735,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2013,3.914278710940234,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2014,4.119668924608092,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2015,4.287910056132533,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2016,4.3679181167317,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+25,MA,Massachusetts,2018,4.081926073090396,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2019,4.714655781686216,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2020,4.71068190421642,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+25,MA,Massachusetts,2022,4.883326602451186,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+25,MA,Massachusetts,2023,4.973720252195312,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2000,2.235529944887942,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2001,2.371205630599973,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2002,2.4639291672782058,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2003,2.7070599070704238,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2004,2.8580904725510834,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2005,2.922355948386735,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2006,3.028672247663206,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2007,3.1614940641621616,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2008,3.320133561357727,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2009,3.4489406803411695,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2010,3.6323611906823086,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2011,3.2761131605790235,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2012,3.2548049465922846,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2013,3.1161489659601878,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2014,3.405949215029793,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2015,3.5399929719543533,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2016,3.618502776288444,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+26,MI,Michigan,2018,3.3921127321276274,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2019,4.016406946762552,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2020,4.036888666415705,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+26,MI,Michigan,2022,4.188161380110853,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+26,MI,Michigan,2023,4.2952953001819925,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2000,3.202672562454243,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2001,3.3754141249210283,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2002,3.516682324038865,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2003,3.7365649485156243,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2004,3.881901357250301,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2005,3.9438643424737645,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2006,4.041014378659663,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2007,4.14675594556233,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2008,4.334271389959021,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2009,4.467353366269011,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2010,4.594295466673094,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2011,4.3133792938342355,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2012,4.301999070199908,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2013,4.125973595689677,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2014,4.3255912475826035,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2015,4.419217936098492,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2016,4.491653032562585,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+27,MN,Minnesota,2018,4.2235701924952425,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2019,4.83045106136414,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2020,4.822103822064947,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+27,MN,Minnesota,2022,5.090212274469314,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+27,MN,Minnesota,2023,5.226114363841221,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2000,1.7483787999591343,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2001,1.939015644617549,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2002,1.8966789229018557,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2003,2.134356374062515,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2004,2.252674791710655,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2005,2.319728914159706,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2006,2.4161972999451287,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2007,2.551266071337101,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2008,2.788853811953704,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2009,2.941758985309456,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2010,3.2525251505159707,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2011,2.933725660398765,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2012,2.910608761847069,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2013,2.7737279498996434,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2014,2.954652106426302,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2015,3.110127612214575,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2016,3.1585687797913122,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+28,MS,Mississippi,2018,3.0038094069521426,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2019,3.5772961564044645,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2020,3.632357797721681,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+28,MS,Mississippi,2022,3.8459601596228286,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+28,MS,Mississippi,2023,4.009946627025299,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2000,3.1475125662419514,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2001,3.3179451962031803,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2002,3.3972853788442814,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2003,3.58321176487279,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2004,3.675704942167714,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2005,3.775452049116626,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2006,3.833841317307877,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2007,3.9370800929137313,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2008,4.026053036538668,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2009,4.145551952932082,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2010,4.2210847770938695,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2011,3.887089094956699,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2012,3.861416485521887,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2013,3.688902958453176,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2014,3.8716779471640317,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2015,4.008617688581069,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2016,4.089710975371115,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+29,MO,Missouri,2018,3.8054282200449037,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2019,4.470663914436587,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2020,4.489614466076934,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+29,MO,Missouri,2022,4.679814439238175,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+29,MO,Missouri,2023,4.895293146266815,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2000,4.610671042396708,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2001,4.897674762200359,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2002,5.568919353228756,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2003,6.048084555745246,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2004,6.19994000058064,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2005,6.28655188479548,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2006,6.403958467164625,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2007,6.507682133209496,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2008,6.758396788250898,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2009,6.9147606358652896,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2010,7.123030492667024,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2011,6.802884759974256,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2012,6.734928816692028,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2013,6.3836206981555135,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2014,6.872294425208061,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2015,7.043175197165279,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2016,7.101753416297473,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+30,MT,Montana,2018,6.761045678261246,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2019,7.675753161085221,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2020,7.658127079288198,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+30,MT,Montana,2022,7.717668348654083,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+30,MT,Montana,2023,8.009272500644414,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2000,3.5540488499375664,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2001,3.7509390430250327,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2002,3.862194582859841,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2003,4.098598734760385,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2004,4.224377918907949,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2005,4.241846565733578,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2006,4.332391451875762,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2007,4.385905889741174,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2008,4.42891195505623,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2009,4.518164510838354,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2010,4.615239143611879,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2011,4.306556417084122,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2012,4.184084618202279,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2013,4.065251983987678,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2014,4.259144500799221,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2015,4.78579156358232,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2016,4.846096188636353,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+31,NE,Nebraska,2018,4.5712516982496085,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2019,5.129436382932374,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2020,5.040562367026898,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+31,NE,Nebraska,2022,5.214271922603986,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+31,NE,Nebraska,2023,5.338714169529701,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2000,1.723846694548731,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2001,1.8299665602204347,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2002,1.880125550248391,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2003,2.0695021900082264,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2004,2.087611487744979,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2005,2.0537443727609768,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2006,2.085102300827143,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2007,2.1095148461864954,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2008,2.177394738527979,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2009,2.258009844803728,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2010,3.1607969411833485,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2011,2.118598776166427,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2012,2.081488849297001,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2013,2.0101146723246606,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2014,2.2228252868547873,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2015,2.3391763937708885,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2016,2.4229719940196364,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+32,NV,Nevada,2018,2.758415890587236,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2019,3.513686390871404,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2020,3.5380507343124163,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+32,NV,Nevada,2022,3.7741300255773473,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+32,NV,Nevada,2023,3.940609409124607,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2000,3.093036272806606,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2001,3.275941305454247,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2002,3.359102474294553,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2003,3.6051381422677835,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2004,3.676399345487749,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2005,3.708917729181235,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2006,3.7832785203788784,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2007,3.9480701540524477,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2008,4.170510659575988,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2009,4.356045352107967,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2010,4.515468098210293,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2011,4.26296003465501,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2012,4.255376971140889,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2013,4.079043330982647,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2014,4.2900280830454705,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2015,4.459132099171576,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2016,4.531537686407769,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+33,NH,New Hampshire,2018,4.328208852128017,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2019,4.915552295994292,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2020,4.875600383549164,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+33,NH,New Hampshire,2022,4.921361855549988,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+33,NH,New Hampshire,2023,5.019064886231201,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2000,2.354512200228192,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2001,2.5524360946043947,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2002,2.684316415405156,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2003,2.9255695757505578,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2004,3.0362863844496553,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2005,3.0975590079211983,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2006,3.2097702997305717,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2007,3.338140572270778,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2008,3.458350217940579,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2009,3.599638265878234,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2010,3.7136407714526736,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2011,3.399878032094051,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2012,3.40064648572166,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2013,3.312101249280156,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2014,3.5640027936422873,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2015,3.6619906943521263,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2016,3.7625157997039302,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+34,NJ,New Jersey,2018,3.583891998519973,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2019,4.251591844483649,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2020,4.130325810211647,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+34,NJ,New Jersey,2022,4.329963544253169,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+34,NJ,New Jersey,2023,4.4905515012042505,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2000,2.9063191163647786,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2001,3.048004847981918,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2002,3.1514965970628075,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2003,3.3319592197165067,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2004,3.3826940531818335,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2005,3.4120419774835247,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2006,3.4875240617755026,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2007,3.6059033099338214,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2008,3.6550151144250003,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2009,3.7018816752929347,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2010,3.768258860978372,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2011,3.4151853192208224,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2012,3.4065952488725713,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2013,3.301744573026132,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2014,3.54218375341349,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2015,3.6553782144242946,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2016,3.745182324956811,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+35,NM,New Mexico,2018,3.51951566420888,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2019,4.043561877927297,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2020,4.04628206532206,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+35,NM,New Mexico,2022,4.0719648578928735,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+35,NM,New Mexico,2023,4.152535198411253,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2000,2.8565218626886533,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2001,3.05001803190909,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2002,3.1831767496786467,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2003,3.4326350328920006,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2004,3.5542217284586073,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2005,3.625746827014192,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2006,3.7445894662922306,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2007,3.878303406249159,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2008,3.9468706623147627,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2009,4.072498638581336,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2010,4.153411481964186,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2011,3.828989871292299,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2012,3.8224489768810854,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2013,3.7417290347615935,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2014,3.9664321206816258,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2015,4.14446098733393,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2016,4.262952392830231,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+36,NY,New York,2018,4.082204254194796,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2019,4.754682070423305,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2020,4.664130942450798,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+36,NY,New York,2022,4.931124575564727,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+36,NY,New York,2023,5.088544319371877,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2000,2.2959522689403378,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2001,2.459524961992039,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2002,2.631932618489513,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2003,2.8783611898651005,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2004,2.9977252830301624,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2005,3.03776721754652,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2006,3.1073411481316593,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2007,3.2286554660833247,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2008,3.2948244305328918,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2009,3.412114376469776,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2010,3.5094990007923057,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2011,3.1650559436657106,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2012,3.1584905776466115,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2013,3.085698512509296,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2014,3.4437943122348686,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2015,3.621820309173319,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2016,3.6994422839571173,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+37,NC,North Carolina,2018,3.2683889824602326,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2019,3.8993907850622356,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2020,3.9906973647507726,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+37,NC,North Carolina,2022,4.214953956936097,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+37,NC,North Carolina,2023,4.333629182101669,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2000,4.02010519872341,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2001,4.232766147885495,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2002,4.281004375023505,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2003,4.395625038156467,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2004,4.481119271604842,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2005,4.5752210608755135,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2006,4.693404288736753,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2007,4.724105498895564,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2008,5.1112506824378885,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2009,5.2453651905054075,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2010,5.427179171013943,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2011,5.181422732325251,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2012,4.833194964021605,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2013,4.332440479071394,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2014,4.5144679560763254,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2015,4.63643739485955,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2016,4.762509357054625,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+38,ND,North Dakota,2018,4.568048396051902,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2019,5.170716122578313,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2020,5.132362618543978,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+38,ND,North Dakota,2022,5.43707119674623,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+38,ND,North Dakota,2023,5.744164627783745,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2000,2.6881580859068337,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2001,2.8463028096658376,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2002,2.9403336585760957,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2003,3.12703654846946,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2004,3.2292341479417455,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2005,3.3049762198036867,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2006,3.402863443087416,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2007,3.5195958981843174,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2008,3.754887697690856,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2009,3.8861483354520674,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2010,3.982772487663839,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2011,3.6908001093044316,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2012,3.6718125255443894,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2013,3.55700307054799,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2014,3.8437702498403277,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2015,3.8370152590082096,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2016,4.013810925373237,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+39,OH,Ohio,2018,3.7531380308969555,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2019,4.471676886099415,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2020,4.477003959556179,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+39,OH,Ohio,2022,4.6827737143227415,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+39,OH,Ohio,2023,4.838054850972791,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2000,2.872886912645305,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2001,3.0518300597040757,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2002,3.160431976337602,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2003,3.3470360855626935,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2004,3.4397726334684826,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2005,3.513501251339614,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2006,3.583939189057592,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2007,3.624858262098659,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2008,3.786070009724784,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2009,3.8584323316401137,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2010,3.9417406424550543,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2011,3.573404306982853,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2012,3.5045505482651365,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2013,3.3545318225139216,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2014,3.527027699360717,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2015,3.6908153855831887,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2016,3.7572461084028763,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+40,OK,Oklahoma,2018,3.511865637729847,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2019,4.110914399461103,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2020,4.1462874574363076,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+40,OK,Oklahoma,2022,4.18359448765709,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+40,OK,Oklahoma,2023,4.287063276550733,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2000,3.220099203780613,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2001,3.3754938454764316,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2002,3.4820733278989384,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2003,3.798582388785401,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2004,3.9089913524807516,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2005,3.920068681463145,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2006,3.98187575033037,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2007,4.100830186408454,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2008,4.162124928490841,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2009,4.288715013390747,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2010,4.383713421933525,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2011,4.125317093727535,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2012,4.107072071448388,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2013,4.031997064302479,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2014,4.235335890253987,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2015,4.307034740460595,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2016,4.349333332681857,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+41,OR,Oregon,2018,4.026018169310282,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2019,4.641001338672845,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2020,4.652719736238305,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+41,OR,Oregon,2022,4.814148487313826,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+41,OR,Oregon,2023,4.9558766350495285,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2000,2.503546636798424,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2001,2.639326707846267,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2002,2.7145337644516503,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2003,2.931070903131222,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2004,3.0457535024956646,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2005,3.0996812045632165,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2006,3.18908233672179,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2007,3.30485579480381,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2008,3.486521276675876,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2009,3.586603718143836,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2010,3.6845648703219767,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2011,3.4218892336832076,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2012,3.443541110849978,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2013,3.4325967026351027,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2014,3.5521112861457027,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2015,3.7228774907078575,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2016,3.8291529524881325,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+42,PA,Pennsylvania,2018,3.6750415153843274,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2019,4.259277938551356,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2020,4.270947499656996,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+42,PA,Pennsylvania,2022,4.501741469436192,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+42,PA,Pennsylvania,2023,4.647698913790747,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2000,3.329626342990551,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2001,3.6343272710761654,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2002,3.8987049657831414,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2003,4.136867592234786,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2004,4.238869361861715,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2005,4.319628135546242,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2006,3.9573095938654648,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2007,4.445222095591191,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2008,4.700460567410709,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2009,4.978901832304208,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2010,5.124317595735839,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2011,4.835699150431426,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2012,4.8232379966498975,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2013,4.855242714767517,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2014,5.122521204227878,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2015,5.1727433233101765,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2016,5.320395985691274,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+44,RI,Rhode Island,2018,5.1551063022378125,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2019,5.7609544132350745,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2020,5.61542586762297,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+44,RI,Rhode Island,2022,4.917529222684812,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+44,RI,Rhode Island,2023,4.587750305211312,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2000,2.273233864027913,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2001,2.611811330641243,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2002,2.7330964665958257,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2003,2.994002597886368,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2004,3.135893549178434,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2005,3.2572626254347035,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2006,3.344311996267882,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2007,3.4949629959654462,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2008,3.597265265855832,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2009,3.6794054387573336,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2010,3.750771703805519,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2011,3.5057157012447955,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2012,3.539924649721224,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2013,3.7262384377198297,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2014,3.903574540622492,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2015,4.03369603713721,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2016,4.116234615500085,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+45,SC,South Carolina,2018,3.867272672281292,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2019,4.508790930534567,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2020,4.593980184916616,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+45,SC,South Carolina,2022,4.71970705788711,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+45,SC,South Carolina,2023,4.882428857618467,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2000,3.7282825556596335,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2001,3.955291224477949,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2002,4.038051630220257,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2003,4.218773936828377,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2004,4.3198562817044746,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2005,4.366254756651576,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2006,4.476184273204322,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2007,4.502143065575407,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2008,5.071803624969341,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2009,5.151988620523451,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2010,5.289190179283577,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2011,5.044067302789715,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2012,4.73701189289796,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2013,4.425981102365942,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2014,4.667694516694716,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2015,4.683717441845499,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2016,4.778318221868187,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+46,SD,South Dakota,2018,4.5042791220237755,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2019,5.167242119786682,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2020,5.120222739826007,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+46,SD,South Dakota,2022,5.334833915651593,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+46,SD,South Dakota,2023,5.3920406214171805,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2000,2.7946678298843266,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2001,2.8903859974692168,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2002,3.029545966661364,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2003,3.24924946287603,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2004,3.331354472797209,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2005,3.35266381207857,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2006,3.4029883887802552,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2007,3.4831526717421286,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2008,3.563236034895095,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2009,3.6569823211760064,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2010,3.7421025320044725,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2011,3.4703071638226843,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2012,3.4875875033613433,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2013,3.3303355131790444,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2014,3.5381749611932984,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2015,3.697299644567979,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2016,3.7846867601514713,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+47,TN,Tennessee,2018,3.5407734819671357,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2019,4.165394765256411,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2020,4.178258703213689,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+47,TN,Tennessee,2022,4.346588781122251,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+47,TN,Tennessee,2023,4.457033470478941,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2000,2.2058775433110145,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2001,2.3400039644230093,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2002,2.4389215007151805,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2003,2.6450992924447903,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2004,2.7330506894629876,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2005,2.7640556686782314,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2006,2.8098536018198956,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2007,2.9112978135306657,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2008,2.955032488120983,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2009,3.0445821972076903,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2010,3.1397798667825954,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2011,2.8007248366029383,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2012,2.789091600560034,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2013,2.688215695934908,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2014,2.9369406149710127,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2015,3.06590840260078,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2016,3.127993114868548,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+48,TX,Texas,2018,2.863519598062699,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2019,3.521327677700404,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2020,3.5573549905879593,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+48,TX,Texas,2022,3.7388467633935414,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+48,TX,Texas,2023,3.8828584486642934,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2000,1.9799492270445735,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2001,2.075565471173067,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2002,2.1249002608809735,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2003,2.2702071955992382,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2004,2.301817969836524,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2005,2.2821974359151715,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2006,2.3266615376635262,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2007,2.3966931332008596,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2008,2.4130416904960477,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2009,2.4605083092184428,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2010,2.476388198801404,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2011,2.2150798085972094,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2012,2.1579134354023934,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2013,2.0843301631414395,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2014,2.222353060091678,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2015,2.341446280465447,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2016,2.4019123321708102,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+49,UT,Utah,2018,2.168516075131697,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2019,2.7143179569848503,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2020,2.6891133995253322,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+49,UT,Utah,2022,2.762599238858216,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+49,UT,Utah,2023,2.902215327465508,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2000,4.84893818752071,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2001,5.243187531340704,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2002,5.404246054055459,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2003,5.7327088101149455,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2004,5.950767841011744,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2005,6.0623133697673115,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2006,6.198506322123257,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2007,6.523053629541237,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2008,6.782012686032707,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2009,7.00525113753307,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2010,7.156255292497356,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2011,6.626307204913289,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2012,6.405251923411579,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2013,6.204885709133215,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2014,6.567118379141208,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2015,6.780013103018488,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2016,6.939839773466204,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+50,VT,Vermont,2018,6.654908274941501,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2019,7.54752053534515,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2020,7.408202371620192,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+50,VT,Vermont,2022,7.575219050856886,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+50,VT,Vermont,2023,7.798116960943002,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2000,2.493872273941195,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2001,2.6597717647431454,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2002,2.7571497403618808,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2003,3.0456183044958602,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2004,3.1449085856271926,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2005,3.1859133534509554,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2006,3.2985284200306895,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2007,3.4337504838085406,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2008,3.585627668667987,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2009,3.679943456527601,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2010,3.796608276865266,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2011,3.5172134013507295,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2012,3.547377842396955,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2013,3.437679001620788,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2014,3.6605443134029145,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2015,3.82775668575645,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2016,3.908810189445963,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+51,VA,Virginia,2018,3.6482542427845637,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2019,4.342825140984044,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2020,4.362644206283222,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+51,VA,Virginia,2022,4.592988281387273,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+51,VA,Virginia,2023,4.74959091056161,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2000,2.8965341750427034,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2001,3.052263369398044,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2002,3.1833921011494875,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2003,3.437353326403582,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2004,3.534270054356578,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2005,3.5604785127143397,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2006,3.6389732893427196,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2007,3.7597574713456616,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2008,3.799165253402387,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2009,3.8922066776594146,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2010,3.953872818499872,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2011,3.638678346722121,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2012,3.6005861479990355,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2013,3.43111331602704,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2014,3.6213797714809894,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2015,3.8119026069417896,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2016,3.8023490810430354,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+53,WA,Washington,2018,3.462032236039971,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2019,4.098095829485171,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2020,4.075180404957378,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+53,WA,Washington,2022,4.1176818943649005,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+53,WA,Washington,2023,4.208307307932542,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2000,2.5079952031548056,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2001,2.7299760585873516,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2002,2.8492079932912895,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2003,3.0215831307816883,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2004,3.1022253443277448,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2005,3.1573882225244603,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2006,3.2370267277636997,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2007,3.328695151500612,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2008,3.7689302345800435,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2009,3.8819661484758696,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2010,3.9875638056049163,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2011,3.5721095375109204,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2012,3.5317312051063667,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2013,3.3200917850642235,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2014,3.2649417557518796,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2015,3.829478357669698,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2016,3.955392687871603,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+54,WV,West Virginia,2018,3.776953220820254,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2019,4.387657964320549,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2020,4.44695745946833,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+54,WV,West Virginia,2022,4.572063121640779,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+54,WV,West Virginia,2023,4.742747607299369,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2000,2.7714928863961457,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2001,2.9283305297831355,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2002,3.125343194564276,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2003,3.319643386091006,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2004,3.4791275920715643,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2005,3.5428077702686864,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2006,3.6513552738561277,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2007,3.7518881081490525,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2008,4.002484667601253,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2009,4.103883678727962,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2010,4.236682014951838,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2011,3.9883698105800374,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2012,3.9616663680500626,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2013,3.598633115441376,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2014,3.954495577156292,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2015,4.193702262756409,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2016,4.29164855753164,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+55,WI,Wisconsin,2018,4.10271840813011,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2019,4.684285444738428,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2020,4.668034663455831,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+55,WI,Wisconsin,2022,4.80448067351346,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+55,WI,Wisconsin,2023,4.940487620020792,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2000,4.090633218693101,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2001,4.36666215175364,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2002,4.507846733211071,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2003,4.868378974800031,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2004,4.996994731941874,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2005,5.0354269221268995,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2006,5.1371140707180665,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2007,5.173161629985268,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2008,5.325587911574729,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2009,5.426443821659691,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2010,5.5107691163107075,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2011,5.101402489202472,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2012,5.004716850253878,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2013,4.826473516185507,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2014,5.473635835166738,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2015,5.602083258724157,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2016,5.821513456803413,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2017,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+56,WY,Wyoming,2018,5.4606306147613175,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2019,6.44353887843121,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2020,6.579949590073122,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2021,,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,MISSING
+56,WY,Wyoming,2022,6.906464430074841,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
+56,WY,Wyoming,2023,7.245868125884973,nonprofit_density,NCCS/IRS EO BMF + U.S. Census population,OBSERVED
