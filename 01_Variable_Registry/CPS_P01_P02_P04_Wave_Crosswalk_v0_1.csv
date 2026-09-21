@@ -1,0 +1,11 @@
+canonical_id,storage_series,year,cps_variable,measurement,status,valid_yes,valid_no,missing_codes,weight,notes
+P01/P02,P01_P02_officer_committee_combined_proxy,2008,PEQ6,"Officer or committee member in last 12 months",PROXY_COMBINED,1,2,"-1|-2|-3|-9",PWNRWGT,"Do not duplicate into P01 and P02"
+P01/P02,P01_P02_officer_committee_combined_proxy,2009,PEQ6,"Officer or committee member in last 12 months",PROXY_COMBINED,1,2,"-1|-2|-3|-9",PWNRWGT,"Official CPS Civic Engagement wave"
+P01/P02,P01_P02_officer_committee_combined_proxy,2010,PEQ6,"Officer or committee member in last 12 months",PROXY_COMBINED,1,2,"-1|-2|-3|-9",PWNRWGT,"Official CPS Civic Engagement wave"
+P01/P02,P01_P02_officer_committee_combined_proxy,2011,PES7,"Served on a committee or as an officer of any group or organization in last 12 months",PROXY_COMBINED,1,2,"-1|-2|-3|-9",PWNRWGT,"Edited variable; combined construct"
+P01/P02,P01_P02_officer_committee_combined_proxy,2013,PES7,"Officer or committee member",PROXY_COMBINED,1,2,"-1|-2|-3|-9",PWNRWGT,"Edited variable; combined construct"
+P04,P04_club_meeting_proxy,2008,PEQ7,"Attended a meeting of any group or organization in last 12 months",PROXY,1,2,"-1|-2|-3|-9",PWNRWGT,"Verified direct CPS proxy"
+P04,P04_club_meeting_proxy,2009,,"No corresponding group/organization meeting item verified",MISSING_WAVE_ITEM,,,,,"Do not impute"
+P04,P04_club_meeting_proxy,2010,,"PEQ7 absent; group/organization meeting item dropped",MISSING_WAVE_ITEM,,,,,"Do not impute"
+P04,P04_club_meeting_proxy,2011,,"No PES8 / corresponding item verified",MISSING_WAVE_ITEM,,,,,"Do not impute"
+P04,P04_club_meeting_proxy,2013,,"No PES8 / corresponding item verified",MISSING_WAVE_ITEM,,,,,"Do not impute"
