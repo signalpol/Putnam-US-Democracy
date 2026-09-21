@@ -1,0 +1,7 @@
+canonical_id,series,year,harmonized_variable,source_family,universe,canonical_status,notes
+P11,P11_visiting_friends_proxy,2011,CESOCCONTCT,CPS Civic Engagement,"Civilians age 18+",PROXY,"IPUMS harmonized name; retain original Census field in raw crosswalk"
+P11,P11_visiting_friends_proxy,2013,CESOCCONTCT,CPS Civic Engagement,"Civilians age 18+ in rotations 3,4,7,8",PROXY,"Official Census PES13 label: See or hear from family/friends, how often"
+P11,P11_visiting_friends_proxy,2017,CESOCCONTCT,CPS Volunteering and Civic Life,"Civilians age 16+",PROXY,"September VCL wave"
+P11,P11_visiting_friends_proxy,2019,CESOCCONTCT,CPS Volunteering and Civic Life,"Civilians age 16+",PROXY,"September VCL wave"
+P11,P11_visiting_friends_proxy,2021,CESOCCONTCT,CPS Volunteering and Civic Life,"Civilians age 16+",PROXY,"September VCL wave"
+P11,P11_visiting_friends_proxy,2023,CESOCCONTCT,CPS Volunteering and Civic Life,"Civilians age 16+",PROXY,"September VCL wave"
