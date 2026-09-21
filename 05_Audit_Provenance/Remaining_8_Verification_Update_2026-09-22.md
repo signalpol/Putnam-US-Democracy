@@ -72,9 +72,9 @@ Canonical handling:
 - do not silently pool wording changes.
 
 ## P04 Club Meetings
-Status: **CPS PROXY CONSTRUCT CONFIRMED; EXACT VARIABLE/WAVE CROSSWALK STILL OPEN**
+Status: **CPS PROXY CONFIRMED; 2008 VARIABLE/CODING VERIFIED; LATER-WAVE CROSSWALK OPEN**
 
-Contemporary documentation and CPS-based research confirm that the Civic Engagement instrument measured attendance at a meeting of a group or organization. This is a strong Putnam-compatible proxy for club-meeting participation, but exact wave-specific Census variable IDs and response coding must be crosswalked before state estimates are committed.
+The 2008 CPS Civic Engagement codebook identifies `PEQ7`: “In the last 12 months ... have you attended a meeting of any group or organization?” (1 Yes, 2 No; negative codes are non-substantive). This is a strong Putnam-compatible proxy for club-meeting participation. It is distinct from the public-meeting/political-issues item used for P07. Exact later-wave variable IDs and wording must still be crosswalked before pooling.
 
 Canonical handling:
 - classify as PROXY;
