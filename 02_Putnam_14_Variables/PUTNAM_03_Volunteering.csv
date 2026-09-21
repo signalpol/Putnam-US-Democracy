@@ -1,0 +1,1201 @@
+state_fips,state_abbr,state_name,year,value,variable,source_family,missing_status
+01,AL,Alabama,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2010,26.26576366257258,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2011,24.84880975099884,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2012,23.84249970211102,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2013,24.62763042939807,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2014,23.9216397166405,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2015,21.57447937456246,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2017,27.39893930988452,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2019,25.76427111044703,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2021,19.54344782108097,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+01,AL,Alabama,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+01,AL,Alabama,2023,17.10345775945247,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2010,29.07015825761961,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2011,33.4783654960116,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2012,36.86147508064381,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2013,32.00632159180991,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2014,34.20959471518867,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2015,31.3073838915437,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2017,40.62279129420494,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2019,35.4590991135773,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2021,27.29988342410172,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+02,AK,Alaska,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+02,AK,Alaska,2023,31.43843886242381,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2010,24.19178315829964,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2011,25.51422198361206,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2012,23.65864036080085,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2013,23.42723460023426,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2014,23.42045309475451,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2015,23.14537310418594,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2017,30.03733549941588,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2019,26.18758471294667,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2021,23.45180991479173,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+04,AZ,Arizona,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+04,AZ,Arizona,2023,26.92133244714305,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2010,21.11965935276674,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2011,23.14786530844724,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2012,20.85094896713715,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2013,19.27992814335784,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2014,21.15437562792843,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2015,20.98038914303496,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2017,29.98405232142241,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2019,29.7229036209718,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2021,20.87891658720208,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+05,AR,Arkansas,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+05,AR,Arkansas,2023,25.03364011444229,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2010,24.53073434187416,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2011,25.81449016815869,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2012,25.19144467432465,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2013,24.24840292315532,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2014,24.42643447806784,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2015,23.29934744242784,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2017,25.44226600742856,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2019,24.92800474529155,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2021,18.31301484118136,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+06,CA,California,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+06,CA,California,2023,21.38453617907211,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2010,32.55991191617784,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2011,32.68095058358917,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2012,32.96429563860422,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2013,29.44686070149439,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2014,29.86735147848857,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2015,28.32359067182647,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2017,32.405780397914,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2019,42.24517937303604,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2021,26.17374446860064,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+08,CO,Colorado,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+08,CO,Colorado,2023,30.98879217565093,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2010,31.22776084250273,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2011,28.71097128129406,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2012,31.23741552710266,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2013,28.02242998664042,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2014,27.75738035482685,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2015,29.56440775117862,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2017,31.75118753907044,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2019,31.40671934690392,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2021,28.80560253956541,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+09,CT,Connecticut,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+09,CT,Connecticut,2023,33.7300017707002,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2010,21.38270773724095,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2011,26.55396390593832,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2012,26.29333185022951,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2013,25.93567359481787,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2014,25.87682138039261,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2015,25.98996917873313,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2017,31.81320837291262,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2019,30.66738985161304,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2021,29.83987160841204,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+10,DE,Delaware,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+10,DE,Delaware,2023,28.55574451989401,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2010,20.37953595463203,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2011,23.10805462019599,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2012,21.16506254584995,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2013,19.24915275771409,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2014,19.82402402550324,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2015,18.30402612846546,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2017,22.81482503837135,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2019,24.17921075221365,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2021,15.85275860073465,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+12,FL,Florida,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+12,FL,Florida,2023,19.01132100349715,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2010,22.45227031002217,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2011,26.26387090915804,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2012,24.66325151993997,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2013,23.62333757425987,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2014,21.6498554318687,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2015,23.83791970409223,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2017,26.50442771490017,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2019,28.1883414479813,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2021,19.88758200153923,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+13,GA,Georgia,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+13,GA,Georgia,2023,23.99092417452417,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2010,22.48128798269935,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2011,20.79868847936315,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2012,25.10724251172464,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2013,21.77015829100248,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2014,23.44515261137299,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2015,20.93724804133127,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2017,27.98977824673779,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2019,32.09625299478643,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2021,19.74295431990853,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+15,HI,Hawaii,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+15,HI,Hawaii,2023,25.34980533697296,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2010,35.0242218019613,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2011,38.98880783662841,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2012,35.3451859891316,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2013,34.76910563865096,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2014,36.6387115115138,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2015,30.59274183621307,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2017,37.87081665152086,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2019,34.46885336416946,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2021,28.15912560281142,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+16,ID,Idaho,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+16,ID,Idaho,2023,31.05975953875476,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2010,27.69728516949599,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2011,27.27743274127277,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2012,27.27210338325534,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2013,25.78983053731231,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2014,24.89526697360577,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2015,24.1912729063549,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2017,28.13787963872868,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2019,33.03583273147488,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2021,28.28819923635964,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+17,IL,Illinois,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+17,IL,Illinois,2023,27.22382447612906,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2010,26.08012314220101,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2011,27.13607408194992,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2012,30.49918392784468,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2013,26.76124409743084,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2014,25.00895308250614,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2015,28.75690286381943,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2017,34.93511830566192,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2019,34.02208501967174,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2021,27.57793281296059,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+18,IN,Indiana,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+18,IN,Indiana,2023,28.45509881211672,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2010,37.02587222689675,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2011,38.3139662387008,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2012,32.50268708389381,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2013,32.97390442155901,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2014,33.17594843515118,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2015,31.46950950080273,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2017,41.5301432997265,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2019,33.12275825291853,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2021,29.92742290992129,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+19,IA,Iowa,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+19,IA,Iowa,2023,30.21277089242655,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2010,35.94532619947969,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2011,36.38323158510086,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2012,37.16918204557162,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2013,35.07166259589507,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2014,33.51704069420001,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2015,31.24403016017517,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2017,36.54618064001166,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2019,33.98669264652776,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2021,31.53889600055035,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+20,KS,Kansas,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+20,KS,Kansas,2023,35.42113122296962,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2010,22.81399072293001,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2011,25.27053319296084,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2012,22.96935411524265,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2013,23.74923033657637,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2014,24.93410231962672,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2015,21.98779558086677,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2017,28.12429408319469,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2019,26.21656971667086,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2021,22.61779152236113,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+21,KY,Kentucky,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+21,KY,Kentucky,2023,23.28167937563726,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2010,24.47013880788937,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2011,19.20430908654408,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2012,17.42157417520347,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2013,16.66271736480195,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2014,18.18814902609304,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2015,20.11087937330952,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2017,25.78047473396005,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2019,27.77841902658259,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2021,21.90357965270543,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+22,LA,Louisiana,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+22,LA,Louisiana,2023,19.82977648822202,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2010,32.54059456622859,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2011,32.91925065510859,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2012,32.57876354493292,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2013,32.35170647501704,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2014,30.92171215491891,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2015,31.59435482519833,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2017,38.68900151396429,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2019,35.69562751732879,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2021,34.88406229546912,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+23,ME,Maine,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+23,ME,Maine,2023,30.41839375350096,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2010,28.2888980555163,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2011,27.58502161079523,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2012,30.22278668496615,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2013,28.27531031049731,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2014,26.29685854148872,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2015,29.21635374444118,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2017,36.29287432921286,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2019,34.00992429953708,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2021,23.65420774233841,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+24,MD,Maryland,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+24,MD,Maryland,2023,29.70613431182819,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2010,28.39146184905178,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2011,25.76273730807014,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2012,25.67518548587317,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2013,26.51729687135783,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2014,23.98618119218392,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2015,24.31638768779958,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2017,32.56401346506799,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2019,30.67577202520477,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2021,23.08115498152072,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+25,MA,Massachusetts,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+25,MA,Massachusetts,2023,31.26918656938025,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2010,28.13181433280774,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2011,26.29346971636996,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2012,29.11621220628852,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2013,28.38431353734694,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2014,24.87999252521477,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2015,26.46992975991119,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2017,29.40332281319821,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2019,30.16972406642147,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2021,24.39865949710624,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+26,MI,Michigan,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+26,MI,Michigan,2023,24.41114312865311,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2010,39.01287663658582,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2011,38.07621357981227,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2012,35.96179695336751,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2013,34.96086033656084,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2014,34.96247409324755,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2015,36.38269340308582,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2017,45.11665662593676,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2019,40.09376504295133,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2021,35.48925396750596,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+27,MN,Minnesota,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+27,MN,Minnesota,2023,36.40687071831559,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2010,26.16083651461678,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2011,25.63199140085162,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2012,25.73086162672992,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2013,27.50526072290628,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2014,21.11153535427905,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2015,18.3335908058925,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2017,23.83309792280179,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2019,26.0326151328982,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2021,21.19524749369322,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+28,MS,Mississippi,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+28,MS,Mississippi,2023,16.23924761509359,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2010,29.62652709178666,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2011,31.99267379630334,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2012,31.31136546485217,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2013,31.92972068887669,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2014,27.45305434783678,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2015,22.8418237223136,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2017,31.9387736256129,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2019,36.50888127235671,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2021,30.45626073493834,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+29,MO,Missouri,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+29,MO,Missouri,2023,26.60903666556895,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2010,30.47818263985089,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2011,29.66660273560233,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2012,29.21080708627962,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2013,32.80815108013356,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2014,29.34441223767235,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2015,32.14504941325571,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2017,38.83643571664621,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2019,37.4362061881178,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2021,31.05863763988427,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+30,MT,Montana,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+30,MT,Montana,2023,34.45985447089777,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2010,36.80685626575184,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2011,36.69779060553495,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2012,34.70317206343297,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2013,32.72519175253736,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2014,36.23472119353701,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2015,32.23906177074255,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2017,40.15334259250098,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2019,43.54386628197818,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2021,33.90254244079626,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+31,NE,Nebraska,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+31,NE,Nebraska,2023,35.80851786288051,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2010,20.745235102962,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2011,22.44537267183538,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2012,19.26996167575033,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2013,19.67249909500998,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2014,19.50992256493633,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2015,19.93213033694539,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2017,24.35477405242024,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2019,21.78238779342106,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2021,16.82992771222223,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+32,NV,Nevada,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+32,NV,Nevada,2023,17.56514082498252,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2010,27.56850532791053,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2011,29.61986426926607,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2012,27.85562174481445,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2013,26.83587195343404,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2014,28.68303297412435,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2015,30.33745371562987,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2017,35.69871140993656,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2019,32.21093760258704,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2021,27.91510309132529,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+33,NH,New Hampshire,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+33,NH,New Hampshire,2023,27.43734511602223,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2010,22.03187728368391,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2011,22.57359711549111,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2012,24.30422250373125,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2013,20.92277597728143,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2014,22.80609318713855,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2015,22.1186392028443,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2017,26.13469876679049,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2019,26.14723569094346,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2021,19.90833886842016,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+34,NJ,New Jersey,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+34,NJ,New Jersey,2023,24.44026891646882,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2010,25.51364703064725,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2011,26.65348581727582,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2012,27.43343629556755,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2013,23.13025278197962,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2014,25.65064407069096,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2015,22.23004701307445,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2017,27.05358467666968,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2019,27.74839777795189,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2021,19.67479830450135,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+35,NM,New Mexico,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+35,NM,New Mexico,2023,17.14907598264886,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2010,21.38312486911888,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2011,20.61236527829357,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2012,19.63885194442046,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2013,18.7391395046114,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2014,19.07891333075445,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2015,19.75067325982172,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2017,25.28168026439329,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2019,22.65285144212084,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2021,21.718865500512,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+36,NY,New York,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+36,NY,New York,2023,22.47396124884783,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2010,23.5471876320866,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2011,26.2763262263378,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2012,27.48220810661972,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2013,25.96108852584664,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2014,25.43435486845745,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2015,25.73462444092725,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2017,35.05171247244729,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2019,30.38212957583172,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2021,22.82670964721762,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+37,NC,North Carolina,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+37,NC,North Carolina,2023,21.87335075524729,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2010,31.87407166216307,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2011,30.73089221982599,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2012,28.74316173772645,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2013,27.32057222911354,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2014,32.5783334836145,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2015,32.05361779478682,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2017,37.44826913432199,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2019,32.88530826120138,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2021,26.92270529840561,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+38,ND,North Dakota,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+38,ND,North Dakota,2023,26.93092804041252,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2010,28.38799479441639,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2011,26.70080983067985,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2012,27.46032339114245,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2013,24.75683496269792,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2014,27.54019516959208,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2015,27.34596179265747,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2017,33.24148397688476,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2019,37.10996056909757,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2021,24.33195067965947,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+39,OH,Ohio,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+39,OH,Ohio,2023,27.51309592164406,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2010,28.11412021760118,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2011,29.45172743182164,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2012,25.07738954217886,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2013,25.09843612140833,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2014,26.5464901917668,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2015,24.07234178543243,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2017,32.03731893565919,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2019,27.60639264586695,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2021,23.62198583698172,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+40,OK,Oklahoma,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+40,OK,Oklahoma,2023,26.58958074237889,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2010,30.80534575575161,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2011,36.20828754316013,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2012,35.89310678859753,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2013,31.10243308774723,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2014,31.8451340094129,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2015,31.13345791182201,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2017,43.22076984150239,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2019,37.03124814403373,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2021,28.01614590956446,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+41,OR,Oregon,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+41,OR,Oregon,2023,31.93583588895888,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2010,26.80668096891969,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2011,26.48245407064349,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2012,26.59060432253204,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2013,26.95088717365883,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2014,27.4804926223078,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2015,29.5638194381413,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2017,34.17313335925548,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2019,35.81269090378185,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2021,25.64971752969727,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+42,PA,Pennsylvania,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+42,PA,Pennsylvania,2023,27.18997938601721,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2010,25.10698875041274,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2011,25.27942938659722,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2012,23.15675098385619,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2013,23.08007862197843,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2014,24.87469685239919,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2015,21.04962750802533,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2017,30.70928257145286,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2019,25.60845277350879,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2021,20.14213416376725,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+44,RI,Rhode Island,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+44,RI,Rhode Island,2023,18.08532279125628,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2010,24.67773597557273,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2011,26.66542199702377,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2012,24.94617891552381,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2013,20.80585189563033,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2014,23.27672063086659,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2015,23.50617376331954,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2017,30.80472253290429,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2019,31.31519482562159,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2021,21.8271063263173,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+45,SC,South Carolina,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+45,SC,South Carolina,2023,24.87722247130792,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2010,37.27795512921893,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2011,36.72332064479589,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2012,33.0993295202063,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2013,33.86179107659034,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2014,35.11298944246368,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2015,36.65322475618045,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2017,36.26745322543838,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2019,46.85453131944544,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2021,34.22854921261391,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+46,SD,South Dakota,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+46,SD,South Dakota,2023,36.5208933569679,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2010,24.52626254743804,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2011,24.72942285116239,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2012,25.47163365833568,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2013,24.99655696259862,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2014,24.55907829713114,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2015,22.74495661159026,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2017,31.2676659626707,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2019,31.65061703756092,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2021,23.77560820920041,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+47,TN,Tennessee,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+47,TN,Tennessee,2023,28.24102172975766,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2010,23.99856547113563,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2011,24.59367459283389,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2012,23.12545676029956,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2013,23.14173468233568,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2014,23.01919685645435,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2015,22.55959250709538,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2017,28.35507885820164,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2019,26.44602963060315,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2021,21.28469035049324,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+48,TX,Texas,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+48,TX,Texas,2023,23.22016665457934,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2010,42.85017963450414,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2011,40.90794463953996,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2012,47.71742977100077,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2013,45.25881432980496,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2014,45.39363440481881,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2015,39.65663560522199,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2017,50.96934762246838,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2019,49.45370380651657,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2021,40.65080536712865,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+49,UT,Utah,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+49,UT,Utah,2023,44.88833098992693,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2010,35.20657069002654,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2011,31.81996399652051,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2012,35.66191847392969,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2013,32.8502781406336,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2014,35.00564662179369,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2015,31.04622805315759,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2017,35.95471900497371,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2019,37.44386666777493,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2021,29.06529985675151,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+50,VT,Vermont,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+50,VT,Vermont,2023,38.68621603408974,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2010,28.7864938920092,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2011,28.56002427403745,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2012,28.50427947492607,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2013,30.45329517836512,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2014,31.45213255431228,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2015,30.30757702471404,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2017,34.02061299323403,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2019,35.36672098133465,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2021,27.20899076080748,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+51,VA,Virginia,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+51,VA,Virginia,2023,29.61953615669553,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2010,33.10335416092337,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2011,34.35279831269167,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2012,36.04735499404035,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2013,33.25333952919583,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2014,29.19017109039142,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2015,28.99818016557074,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2017,35.72167255310724,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2019,33.78521695500528,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2021,25.00719023023483,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+53,WA,Washington,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+53,WA,Washington,2023,29.59362604682656,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2010,26.04223298514393,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2011,22.70415060060357,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2012,20.62799268008375,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2013,20.94201146564163,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2014,20.60954112830066,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2015,24.28299193957761,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2017,28.05395937840227,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2019,30.64019223116156,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2021,22.35593361531326,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+54,WV,West Virginia,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+54,WV,West Virginia,2023,19.79112311211005,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2010,37.05921342362272,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2011,33.98663712096678,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2012,35.99706798873223,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2013,35.38700175974492,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2014,34.67115707094974,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2015,35.49079569478172,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2017,37.40859405624361,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2019,37.48427113301368,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2021,24.92553215663719,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+55,WI,Wisconsin,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+55,WI,Wisconsin,2023,27.13345279117923,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2000,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2001,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2002,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2003,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2004,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2005,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2006,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2007,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2008,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2009,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2010,32.61773677903133,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2011,29.83934614798429,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2012,27.00712689883351,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2013,28.20384781659425,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2014,31.32675808569899,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2015,28.26151806726894,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2016,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2017,32.73345676593742,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2018,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2019,30.97513029966865,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2020,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2021,39.20092368690176,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
+56,WY,Wyoming,2022,,volunteer_rate,CPS Volunteering/Civic Engagement supplements,MISSING
+56,WY,Wyoming,2023,29.80699797026137,volunteer_rate,CPS Volunteering/Civic Engagement supplements,OBSERVED
