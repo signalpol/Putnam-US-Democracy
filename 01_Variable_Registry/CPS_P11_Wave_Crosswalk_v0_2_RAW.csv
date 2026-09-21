@@ -1,0 +1,7 @@
+variable_id,year,survey,raw_variable,record_location,scale,regime,universe,weight,canonical_status
+P11,2011,CPS Civic Engagement,PES13,975-976,"1=daily;2=few/week;3=few/month;4=monthly;5=less/month;6=not at all",A,"civilian 18+; 2011 supplement universe per technical documentation",PWNRWGT,PROXY
+P11,2013,CPS Civic Engagement,PES13,975-976,"1=daily;2=few/week;3=few/month;4=monthly;5=less/month;6=not at all",A,"civilian 18+; MIS 3,4,7,8",PWNRWGT,PROXY
+P11,2017,CPS Volunteering and Civic Life,PES1,1001-1002,"1=daily;2=few/week;3=few/month;4=monthly;5=less/month;6=not at all",B,"civilian 16+",PWNRWGT,PROXY
+P11,2019,CPS Volunteering and Civic Life,PES1,1001-1002,"1=daily;2=few/week;3=few/month;4=monthly;5=less/month;6=not at all",B,"supplement interview universe",PWNRWGT,PROXY
+P11,2021,CPS Volunteering and Civic Life,PES1,1001-1002,"1=daily;2=few/week;3=few/month;4=monthly;5=less/month;6=not at all",B,"supplement interview universe",PWNRWGT,PROXY
+P11,2023,CPS Civic Engagement and Volunteering,PES1,1001-1002,"1=daily;2=few/week;3=few/month;4=monthly;5=less/month;6=not at all",B,"supplement interview universe",PWNRWGT,PROXY
