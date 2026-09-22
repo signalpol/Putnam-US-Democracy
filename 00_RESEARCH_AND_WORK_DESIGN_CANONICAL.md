@@ -1,15 +1,21 @@
 # Canonical Research + Work Design
 
 ## Central Outcome
-Assess whether U.S. democratic performance shows a gradual long-run decline over 2000-2023 and estimate how that trajectory relates to Putnam-style social capital and economic conditions.
+Assess whether **American democracy as a national system** shows a gradual long-run decline over 2000-2023 and estimate how that national trajectory relates to changes in Putnam-style social capital and economic conditions. The 50 states are the disaggregated empirical foundation for measuring and testing that national trajectory.
 
 ## Design principle
 No single-event monocausal assumption. Trump-era and post-2021 periods are secondary break/interaction tests nested inside the long-run analysis.
 
 ## Unit and levels
-Primary inferential dataset: 50 states x 2000-2023 = 1,200 state-years.
-National series: aggregate state-year measures to describe U.S.-wide trajectories.
-The state panel supplies variation; the national series supplies the substantive long-run picture.
+**Substantive unit of inference / research target: the United States as a whole over 2000-2023.**
+The central object is the long-run change in the level and quality of American democracy, and its relationship to national change in Putnam-style social capital and economic conditions.
+
+**Empirical observation unit: U.S. states.**
+The 50 states x 2000-2023 = 1,200 state-years provide the disaggregated evidence base. State-level observations are not the ultimate research target or a state-ranking exercise. They are used to construct, validate, and explain the national trajectory with much stronger evidence than a 24-observation national time series alone.
+
+The national series is therefore a principal outcome of the measurement design, not merely a descriptive supplement. State-level heterogeneity and panel estimates serve as micro-level validation and mechanism tests for the U.S.-wide inference.
+
+Aggregation must not assume that an unweighted arithmetic sum of states literally equals the national population. National measures will report transparent aggregation alternatives (population-weighted and equal-state where theoretically relevant), with sensitivity checks.
 
 ## Variable blocks
 Y — Democracy:
