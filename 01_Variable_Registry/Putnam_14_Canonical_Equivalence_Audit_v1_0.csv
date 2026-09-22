@@ -1,0 +1,15 @@
+canonical_id,construct,original_source,original_statistic,current_candidate,canonical_status,action
+P01,Committee Service,Roper SPT,percent served on committee in last year,CPS combined officer-or-committee item,NON_EQUIVALENT,Keep combined item robustness-only; seek separate committee item
+P02,Officer Service,Roper SPT,percent served as officer in last year,CPS combined officer-or-committee item,NON_EQUIVALENT,Keep combined item robustness-only; seek separate officer item
+P03,Civic & Social Organization Density,US Dept Commerce,organizations per 1000 population,CBP NAICS 813410 establishments per 1000,COMPATIBLE_PENDING_VALIDATION,Validate industry continuity and denominator then canonical candidate
+P04,Club Meetings,DDB Needham,mean number club meetings attended last year,CPS binary meeting attendance,NON_EQUIVALENT,Remove binary item from canonical; seek frequency/count source
+P05,Group Memberships,GSS,mean number group memberships,CPS 2017+ number of groups question,CANDIDATE_EXACT,Collect count variable and state-weighted mean; legacy binary/rate not canonical
+P06,Presidential Turnout,Statistical Abstract,turnout presidential elections,UF Election Lab turnout,COMPATIBLE,Retain with denominator definition documented
+P07,Public Meeting Attendance,Roper SPT,percent attended town/school public meeting last year,CPS public/political meeting candidate,COMPATIBILITY_UNRESOLVED,Verify exact town/school wording before canonical retention
+P08,Nonprofit Density,Nonprofit Almanac,501c3 organizations per 1000 population,IRS EO BMF 501c3 density,COMPATIBLE,Retain with IRS entity/filter definition documented
+P09,Community Project,DDB Needham,mean number times worked on community project last year,CPS participation/rate candidate,NON_EQUIVALENT_UNLESS_COUNT,Legacy rate not canonical; seek annual frequency/count
+P10,Volunteer Work,DDB Needham,mean number times volunteered last year,CPS volunteer frequency candidate,COMPATIBILITY_UNRESOLVED,Use only if annual frequency can be converted to Putnam-equivalent mean count without unsupported assumptions
+P11,Visiting Friends,DDB Needham,percent agree spend a lot of time visiting friends,CPS contact frequency,NON_EQUIVALENT,Remove CPS contact frequency from canonical
+P12,Entertain at Home,DDB Needham,mean number times entertained at home last year,None,NOT_AVAILABLE,Structural missing unless exact modern item found
+P13,Generalized Trust,GSS,percent most people can be trusted,GSS exact item but state geography restricted,EXACT_CONSTRUCT_DATA_RESTRICTED,Canonical only with legitimate state identifiers
+P14,Perceived Honesty,DDB Needham,percent most people are honest,None,NOT_AVAILABLE,Structural missing unless exact modern item found
