@@ -116,3 +116,21 @@ The Bordandini project is the closest methodological precedent currently identif
 
 ## Verification rule
 Before final citation in the manuscript, each entry must receive bibliographic verification and, where possible, full-text review. Items with incomplete issue/page/year information remain working references rather than final bibliography entries.
+
+
+## K. Measurement architecture and direct methodological warnings
+76. Norris, Pippa (2001). “Making Democracies Work: Social Capital and Civic Engagement in 47 Societies.” Harvard Kennedy School Working Paper RWP01-036.
+- 47-society comparative test of Putnam-style social capital.
+- Operationalizes social capital from associational activism/networks and social trust.
+- Tests multiple alternative associational measures because operationalization is ambiguous.
+- Associational membership/activism measures are rarely significant across democracy-related indicators; the composite is only weakly related to political-system support.
+- Direct implication: do not assume associations and trust are interchangeable or that a composite necessarily predicts democracy.
+
+77. Paxton, Pamela (1999). “Is Social Capital Declining in the United States? A Multiple Indicator Assessment.” American Journal of Sociology 105(1):88–127.
+- U.S. national multiple-indicator assessment over roughly two decades.
+- Does not find a uniform decline across social-capital dimensions: some decline in a general measure and interpersonal trust, but no general decline in institutional trust or associations.
+- Direct implication: the present project must test dimensionality and measurement invariance before declaring a national social-capital trajectory.
+
+### Methodological consequence for the current project
+The social-capital measurement sequence is now:
+Indicator trajectories -> Associational/Civic dimension + Trust dimension -> test covariance/measurement model -> composite only if justified.
