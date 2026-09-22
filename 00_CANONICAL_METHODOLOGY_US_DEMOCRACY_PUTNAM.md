@@ -221,3 +221,18 @@ The intended contribution is not simply another 50-state comparison. It is a lon
 9. Estimate M1-M7 with appropriate dependence corrections.
 10. Conduct robustness and sensitivity analysis.
 11. Only then finalize causal language, results, abstract, and conclusions.
+
+
+## 13. Dimensionality rule for social capital — added after Paxton/Norris audit
+The analysis must not assume that all social-capital indicators form a single declining latent dimension.
+
+Required sequence:
+1. estimate and graph indicator-level trajectories;
+2. estimate an Associational-Civic dimension separately;
+3. estimate a Trust dimension separately where measurement permits;
+4. test whether these dimensions covary sufficiently to justify a higher-order/composite Social Capital measure;
+5. compare conclusions from dimensions with conclusions from the composite.
+
+A composite index must not conceal divergent trends. A decline in trust alongside stability or increase in associational activity is substantively different from a general decline in social capital.
+
+This rule follows the methodological warning from Paxton's U.S. multiple-indicator assessment and Norris's cross-national tests: conclusions about social capital and democracy are sensitive to operationalization and to the distinction between trust and associational networks.
