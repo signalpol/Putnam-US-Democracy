@@ -1,0 +1,15 @@
+canonical_id,construct,putnam_operational_definition,required_statistic,canonical_acceptance_rule
+P01,Committee Service,Served on committee of local organization in last year,Percent,Same committee-service behavior and 12-month reference
+P02,Officer Service,Served as officer of club or organization in last year,Percent,Same officer-service behavior and 12-month reference
+P03,Civic & Social Organization Density,Civic and social organizations per 1000 population,Density per 1000,Same organization class and population denominator
+P04,Club Meetings,Club meetings attended in last year,Mean count,Mean annual frequency; binary attendance is not canonical
+P05,Group Membership,Group memberships,Mean count,Mean number of memberships; binary membership is not canonical
+P06,Presidential Turnout,Turnout in presidential elections,Turnout rate,Presidential-election turnout
+P07,Public Meeting Attendance,Attended public meeting on town or school affairs in last year,Percent,Same town/school public-meeting behavior and 12-month reference
+P08,Nonprofit Organization Density,501(c)(3) nonprofit organizations per 1000 population,Density per 1000,501(c)(3) count with population denominator
+P09,Community Project,Worked on community project in last year,Mean count,Mean annual frequency; binary participation is not canonical
+P10,Volunteer Work,Did volunteer work in last year,Mean count,Mean annual frequency; binary participation is not canonical
+P11,Visiting Friends,"Agree: I spend a lot of time visiting friends",Percent agree,Same attitudinal item; contact-frequency substitute is not canonical
+P12,Entertain at Home,Entertained at home in last year,Mean count,Mean annual frequency
+P13,Generalized Trust,"Agree: most people can be trusted",Percent agree,Same generalized-trust item
+P14,Perceived Honesty,"Agree: most people are honest",Percent agree,Same honesty item; trust cannot substitute
