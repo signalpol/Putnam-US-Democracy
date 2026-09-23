@@ -1,0 +1,7 @@
+id,variable,original_source,exact_item_resolved,post1999_continuation_evidence,state_panel_data_acquired,current_status
+P01,Committee Service,Roper SPT,YES,1973-2002 cumulative archive candidate,NO,EXACT_SOURCE_AND_ITEM__ROPER_FILE_ACCESS_PENDING
+P02,Officer Service,Roper SPT,YES,1973-2002 cumulative archive candidate,NO,EXACT_SOURCE_AND_ITEM__ROPER_FILE_ACCESS_PENDING
+P11,Visiting Friends,DDB Needham Life Style,YES,YES through at least early/mid-2000s,NO,POST1999_CONTINUATION_CONFIRMED__MICRODATA_ACCESS_AND_STATE_ID_PENDING
+P12,Entertain at Home,DDB Needham Life Style,YES,YES through at least early/mid-2000s,NO,POST1999_CONTINUATION_CONFIRMED__MICRODATA_ACCESS_AND_STATE_ID_PENDING
+P13,Generalized Trust,GSS,YES,YES national GSS,NO,EXACT_NATIONAL_AVAILABLE__STATE_GEOCODE_RESTRICTED
+P14,Perceived Honesty,DDB Needham Life Style,YES,YES through at least 2006 evidence,NO,POST1999_CONTINUATION_CONFIRMED__MICRODATA_ACCESS_AND_STATE_ID_PENDING
