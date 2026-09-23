@@ -1,10 +1,10 @@
 block,id,measure,preferred_source,2000_2023_status,canonical_status,next_action
-Democracy,D1,State democratic performance,Berkeley State Democracy Index 2.0,VERIFY_DATASET_RANGE,PRIMARY_DV,"locate/download canonical dataset; inspect exact year coverage and components"
+Democracy,D1,State democratic performance,Berkeley State Democracy Index 2.0,AVAILABLE_FULL_PERIOD_50_STATES_2000_2023,PRIMARY_DV,"official SDI_2.0.csv endpoint verified; acquire and validate 1200 state-year keys; retain democracy_mcmc plus uncertainty and democracy_additive robustness"
 Democracy,D2,Independent national democracy,V-Dem,AVAILABLE_NATIONAL,EXTERNAL_VALIDATION,"select defensible national democracy indicators/index; document version"
 Economy,E1,Real GDP per capita / growth,BEA GDP by State,AVAILABLE_FULL_PERIOD,READY_FOR_ACQUISITION,"collect 2000-2023 state annual real GDP; merge population denominator if needed"
 Economy,E2,Real per-capita personal income,BEA state personal income / regional price parity real income,VERIFY_FULL_COMPARABILITY,READY_PENDING_DEFINITION,"choose nominal-per-capita deflated consistently vs BEA real personal income series; document exact concept"
-Economy,E3a,Unemployment rate,BLS LAUS / Geographic Profile,AVAILABLE_FULL_PERIOD,READY_FOR_ACQUISITION,"collect annual state averages 2000-2023"
-Economy,E3b,Employment-population ratio,BLS Geographic Profile,AVAILABLE_FULL_PERIOD,READY_FOR_ACQUISITION,"collect annual state averages 2000-2023"
+Economy,E3a,Unemployment rate,BLS LAUS / Geographic Profile,AVAILABLE_FULL_PERIOD_1976_PRESENT,READY_FOR_ACQUISITION,"collect annual state averages 2000-2023 from official annual state series"
+Economy,E3b,Employment-population ratio,BLS Geographic Profile,AVAILABLE_FULL_PERIOD_1976_PRESENT,READY_FOR_ACQUISITION,"collect annual state averages 2000-2023 from official annual state series"
 Economy,E4,Income inequality Gini,Census ACS B19083,PARTIAL_PERIOD,BRIDGE_REQUIRED,"map first comparable state annual year; do not backfill 2000-early ACS gap; investigate historical Census/CPS alternatives separately"
 Economy,E5,Industry structure / manufacturing share,BEA GDP by industry or BLS,LIKELY_FULL_PERIOD,VERIFY_SERIES_CONTINUITY,"choose stable numerator/denominator and industry classification across 2000-2023"
 SocialCapital,P01,Committee Service,Roper SPT updated cumulative 1973-2002,CANDIDATE_2000_2002,CANDIDATE_STRICT_ANCHOR,"inspect Roper.sav exact item/state/weight"
