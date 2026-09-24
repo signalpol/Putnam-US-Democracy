@@ -10,10 +10,10 @@ import hashlib,io,json,requests
 from pathlib import Path
 import pandas as pd
 
-URL="https://democracypolicylab.berkeley.edu/wp-content/uploads/2024/12/SDI_2.0.csv"
+URL="https://democracypolicylab.berkeley.edu/wp-content/uploads/2025/01/SDI_2.0.csv"
 YEARS=set(range(2000,2024))
 OUT=Path("04_Raw_Data/D_Democracy/Berkeley_SDI2"); OUT.mkdir(parents=True,exist_ok=True)
-r=requests.get(URL,timeout=90); r.raise_for_status()
+r=requests.get(URL,timeout=90,headers={"User-Agent":"Mozilla/5.0 Putnam-US-Democracy/1.0"}); r.raise_for_status()
 raw=r.content
 raw_path=OUT/"SDI_2.0.csv"; raw_path.write_bytes(raw)
 df=pd.read_csv(io.BytesIO(raw))
