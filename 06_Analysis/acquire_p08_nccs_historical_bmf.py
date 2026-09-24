@@ -55,7 +55,7 @@ def aggregate(v):
 if __name__=="__main__":
     allrows=[]; provenance=[]
     for year,v0 in sorted(VINTAGES.items()):
-        v=v0.replace("_","-")
+        v=v0
         rows,n,url=aggregate(v)
         allrows.extend(rows); provenance.append({"year":year,"snapshot":v,"source_url":url,"source_rows_scanned":n})
     x=pd.DataFrame(allrows)
