@@ -11,7 +11,9 @@ import pandas as pd
 YEARS=[y for y in range(2006,2024) if y != 2020]
 API="https://api.census.gov/data/{year}/acs/acs1"
 OUT=Path("04_Raw_Data/E_Economic/Census_ACS_Gini"); OUT.mkdir(parents=True,exist_ok=True)
-key=os.getenv("CENSUS_API_KEY")\nif not key: raise RuntimeError("CENSUS_API_KEY required by current Census Data API")\nrows=[]; raw={}; failures={"2020":"STRUCTURAL_MISSING: Census did not release standard ACS 1-year estimates; experimental estimates are not comparable to standard ACS series."}
+key=os.getenv("CENSUS_API_KEY")
+if not key: raise RuntimeError("CENSUS_API_KEY required by current Census Data API")
+rows=[]; raw={}; failures={"2020":"STRUCTURAL_MISSING: Census did not release standard ACS 1-year estimates; experimental estimates are not comparable to standard ACS series."}
 for y in YEARS:
     url=API.format(year=y)
     params={"get":"NAME,B19083_001E,B19083_001M","for":"state:*","key":key}
@@ -38,7 +40,11 @@ if not df.empty:
     csv=OUT/"E4_ACS1_Gini_50states_2006_2023.csv"; df.to_csv(csv,index=False)
     csv_hash=hashlib.sha256(csv.read_bytes()).hexdigest()
 else: csv_hash=None
-coverage=df.groupby("year").state_fips.nunique().to_dict() if not df.empty else {}\nfor y,n in coverage.items():\n    if n!=50: raise RuntimeError(f"{y}: expected 50 states, got {n}")\nexpected_years=set(YEARS)\nif set(coverage)!=expected_years: raise RuntimeError(f"available-year coverage failure: {sorted(expected_years-set(coverage))}")
+coverage=df.groupby("year").state_fips.nunique().to_dict() if not df.empty else {}
+for y,n in coverage.items():
+    if n!=50: raise RuntimeError(f"{y}: expected 50 states, got {n}")
+expected_years=set(YEARS)
+if set(coverage)!=expected_years: raise RuntimeError(f"available-year coverage failure: {sorted(expected_years-set(coverage))}")
 manifest={"source":"U.S. Census Bureau ACS 1-year B19083",
  "canonical_period":"2006-2023 excluding structurally missing 2020","earliest_acs_gini":2006,
  "expected_states_per_available_year":50,"coverage_by_year":coverage,
