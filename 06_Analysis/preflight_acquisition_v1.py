@@ -4,7 +4,9 @@ import os,sys,importlib.util,json,requests
 checks={}
 for pkg in ("pandas","requests","openpyxl","xlrd"):
     checks["pkg_"+pkg]="PASS" if importlib.util.find_spec(pkg) else "FAIL"
-checks["BEA_API_KEY"]="PASS" if os.getenv("BEA_API_KEY") else "MISSING"\nchecks["CENSUS_API_KEY"]="PASS" if os.getenv("CENSUS_API_KEY") else "MISSING"\nchecks["BLS_API_KEY"]="PASS" if os.getenv("BLS_API_KEY") else "OPTIONAL_UNREGISTERED_MODE"
+checks["BEA_API_KEY"]="PASS" if os.getenv("BEA_API_KEY") else "MISSING"
+checks["CENSUS_API_KEY"]="PASS" if os.getenv("CENSUS_API_KEY") else "OPTIONAL_PUBLIC_MODE"
+checks["BLS_API_KEY"]="PASS" if os.getenv("BLS_API_KEY") else "OPTIONAL_UNREGISTERED_MODE"
 urls={
 "CENSUS_2000_2010":"https://www2.census.gov/programs-surveys/popest/tables/2000-2010/intercensal/state/st-est00int-01.xls",
 "CENSUS_2010_2020":"https://www2.census.gov/programs-surveys/popest/tables/2010-2020/intercensal/national/nst-est2020int-pop.xlsx",
@@ -18,6 +20,7 @@ for k,u in urls.items():
                    "content_length":r.headers.get("content-length"),"content_type":r.headers.get("content-type")}
     except Exception as e: checks[k]={"status":"FAIL","reason":str(e)}
 # Missing BEA key is an execution blocker for E1/E2/E5 but not for public-source D/S collectors.
-checks["PUBLIC_SOURCE_PREFLIGHT"]="PASS" if all(checks[k]["status"]=="PASS" for k in urls) and all(checks["pkg_"+p]=="PASS" for p in ("pandas","requests","openpyxl","xlrd")) else "FAIL"\nchecks["FULL_PIPELINE_CREDENTIALS"]="PASS" if checks["BEA_API_KEY"]=="PASS" and checks["CENSUS_API_KEY"]=="PASS" else "MISSING_REQUIRED_KEY"
+checks["PUBLIC_SOURCE_PREFLIGHT"]="PASS" if all(checks[k]["status"]=="PASS" for k in urls) and all(checks["pkg_"+p]=="PASS" for p in ("pandas","requests","openpyxl","xlrd")) else "FAIL"
+checks["FULL_PIPELINE_CREDENTIALS"]="PASS" if checks["BEA_API_KEY"]=="PASS" else "MISSING_BEA_KEY"
 print(json.dumps(checks,indent=2))
 sys.exit(0 if checks["PUBLIC_SOURCE_PREFLIGHT"]=="PASS" else 2)
