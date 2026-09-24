@@ -8,7 +8,8 @@ from pathlib import Path
 
 YEARS=range(2000,2024)
 CENSUS_API_KEY=os.getenv("CENSUS_API_KEY")
-if not CENSUS_API_KEY: raise RuntimeError("CENSUS_API_KEY required by current Census Data API")
+# Census Data API key is optional below the public 500-query/IP/day limit.
+# This collector stays below that limit; attach a key only when supplied.
 NAICS="813410"
 OUT=Path("04_Raw_Data/P03_CBP")
 OUT.mkdir(parents=True,exist_ok=True)
@@ -39,7 +40,8 @@ def acquire_year(year):
     v,meta_url=variables(year)
     nvar=pick_naics_var(v)
     if "ESTAB" not in v: raise KeyError(f"{year}: ESTAB missing")
-    params={"get":f"NAME,{nvar},ESTAB","for":"state:*",nvar:NAICS,"key":CENSUS_API_KEY}
+    params={"get":f"NAME,{nvar},ESTAB","for":"state:*",nvar:NAICS}
+    if CENSUS_API_KEY: params["key"]=CENSUS_API_KEY
     data,url=api_json(f"https://api.census.gov/data/{year}/cbp",params)
     df=pd.DataFrame(data[1:],columns=data[0])
     df["year"]=year
@@ -48,7 +50,7 @@ def acquire_year(year):
     label=None
     if label_var in v:
         try:
-            ld,_=api_json(f"https://api.census.gov/data/{year}/cbp",{"get":f"{label_var}","for":"state:01",nvar:NAICS,"key":CENSUS_API_KEY})
+            ld,_=api_json(f"https://api.census.gov/data/{year}/cbp",dict({"get":f"{label_var}","for":"state:01",nvar:NAICS}, **({"key":CENSUS_API_KEY} if CENSUS_API_KEY else {})))
             if len(ld)>1: label=ld[1][0]
         except Exception: pass
     return df,{"year":year,"naics_variable":nvar,"naics_code":NAICS,"naics_label":label,
