@@ -4,17 +4,17 @@ Coverage is intentionally 2006-2023 only. No interpolation/backfill.
 2020 ACS 1-year standard estimates were not released; collector records failure/missing
 rather than substituting 5-year data silently.
 """
-import hashlib,json,requests
+import hashlib,json,requests,os
 from pathlib import Path
 import pandas as pd
 
 YEARS=[y for y in range(2006,2024) if y != 2020]
 API="https://api.census.gov/data/{year}/acs/acs1"
 OUT=Path("04_Raw_Data/E_Economic/Census_ACS_Gini"); OUT.mkdir(parents=True,exist_ok=True)
-rows=[]; raw={}; failures={"2020":"STRUCTURAL_MISSING: Census did not release standard ACS 1-year estimates; experimental estimates are not comparable to standard ACS series."}
+key=os.getenv("CENSUS_API_KEY")\nif not key: raise RuntimeError("CENSUS_API_KEY required by current Census Data API")\nrows=[]; raw={}; failures={"2020":"STRUCTURAL_MISSING: Census did not release standard ACS 1-year estimates; experimental estimates are not comparable to standard ACS series."}
 for y in YEARS:
     url=API.format(year=y)
-    params={"get":"NAME,B19083_001E,B19083_001M","for":"state:*"}
+    params={"get":"NAME,B19083_001E,B19083_001M","for":"state:*","key":key}
     try:
         r=requests.get(url,params=params,timeout=60); r.raise_for_status()
         data=r.json(); raw[str(y)]=data
