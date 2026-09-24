@@ -1,0 +1,1201 @@
+year,state,avg_unemployment
+2000,Alaska,6.3167
+2001,Alaska,6.2833
+2002,Alaska,7.1667
+2003,Alaska,7.6833
+2004,Alaska,7.4167
+2005,Alaska,6.9333
+2006,Alaska,6.6333
+2007,Alaska,6.2583
+2008,Alaska,6.475
+2009,Alaska,7.9833
+2010,Alaska,8.1333
+2011,Alaska,7.7333
+2012,Alaska,7.25
+2013,Alaska,6.9917
+2014,Alaska,6.7417
+2015,Alaska,6.275
+2016,Alaska,6.6
+2017,Alaska,6.5083
+2018,Alaska,6.0417
+2019,Alaska,5.6083
+2020,Alaska,8.35
+2021,Alaska,6.3833
+2022,Alaska,4.2333
+2023,Alaska,4.2167
+2000,Alabama,4.625
+2001,Alabama,5.1833
+2002,Alabama,5.925
+2003,Alabama,5.9833
+2004,Alabama,5.575
+2005,Alabama,4.4583
+2006,Alabama,4
+2007,Alabama,4.0417
+2008,Alabama,5.8833
+2009,Alabama,10.0833
+2010,Alabama,10.375
+2011,Alabama,9.5833
+2012,Alabama,8.1583
+2013,Alabama,7.325
+2014,Alabama,6.7333
+2015,Alabama,6.125
+2016,Alabama,5.9083
+2017,Alabama,4.5083
+2018,Alabama,3.9417
+2019,Alabama,3.1833
+2020,Alabama,6.4083
+2021,Alabama,3.375
+2022,Alabama,2.5167
+2023,Alabama,2.4917
+2000,Arkansas,4.175
+2001,Arkansas,4.7583
+2002,Arkansas,5.3333
+2003,Arkansas,5.7583
+2004,Arkansas,5.5833
+2005,Arkansas,5.2583
+2006,Arkansas,5.25
+2007,Arkansas,5.3917
+2008,Arkansas,5.4417
+2009,Arkansas,7.725
+2010,Arkansas,7.8583
+2011,Arkansas,7.9083
+2012,Arkansas,7.2667
+2013,Arkansas,7.0417
+2014,Arkansas,5.9
+2015,Arkansas,4.95
+2016,Arkansas,3.9833
+2017,Arkansas,3.7417
+2018,Arkansas,3.6583
+2019,Arkansas,3.4917
+2020,Arkansas,6.1833
+2021,Arkansas,4.0417
+2022,Arkansas,3.2083
+2023,Arkansas,3.225
+2000,Arizona,3.9833
+2001,Arizona,4.725
+2002,Arizona,6.1417
+2003,Arizona,5.7833
+2004,Arizona,4.9667
+2005,Arizona,4.6667
+2006,Arizona,4.3083
+2007,Arizona,3.75
+2008,Arizona,5.7917
+2009,Arizona,9.6667
+2010,Arizona,10.3
+2011,Arizona,9.4333
+2012,Arizona,8.35
+2013,Arizona,7.8167
+2014,Arizona,6.7917
+2015,Arizona,6.075
+2016,Arizona,5.4833
+2017,Arizona,4.975
+2018,Arizona,4.8083
+2019,Arizona,4.8083
+2020,Arizona,7.825
+2021,Arizona,5.0667
+2022,Arizona,3.775
+2023,Arizona,3.9083
+2000,California,4.925
+2001,California,5.4667
+2002,California,6.7583
+2003,California,6.8917
+2004,California,6.2167
+2005,California,5.3833
+2006,California,4.9167
+2007,California,5.3083
+2008,California,7.3
+2009,California,11.5417
+2010,California,12.4583
+2011,California,11.8917
+2012,California,10.525
+2013,California,9.0333
+2014,California,7.5667
+2015,California,6.225
+2016,California,5.5167
+2017,California,4.8333
+2018,California,4.2583
+2019,California,4.1
+2020,California,10.1917
+2021,California,7.325
+2022,California,4.275
+2023,California,4.7417
+2000,Colorado,2.7417
+2001,Colorado,3.8167
+2002,Colorado,5.6833
+2003,Colorado,6.1083
+2004,Colorado,5.5667
+2005,Colorado,5.075
+2006,Colorado,4.275
+2007,Colorado,3.7
+2008,Colorado,4.875
+2009,Colorado,7.875
+2010,Colorado,9.1417
+2011,Colorado,8.6917
+2012,Colorado,8
+2013,Colorado,6.75
+2014,Colorado,4.9833
+2015,Colorado,3.7417
+2016,Colorado,3.1333
+2017,Colorado,2.6083
+2018,Colorado,3.05
+2019,Colorado,2.6667
+2020,Colorado,6.7833
+2021,Colorado,5.4833
+2022,Colorado,3.0667
+2023,Colorado,3.15
+2000,Connecticut,2.1083
+2001,Connecticut,2.875
+2002,Connecticut,4.4
+2003,Connecticut,5.45
+2004,Connecticut,5.0917
+2005,Connecticut,4.8
+2006,Connecticut,4.425
+2007,Connecticut,4.45
+2008,Connecticut,5.65
+2009,Connecticut,8.325
+2010,Connecticut,9.5583
+2011,Connecticut,9.0167
+2012,Connecticut,8.3583
+2013,Connecticut,7.95
+2014,Connecticut,6.6167
+2015,Connecticut,5.6167
+2016,Connecticut,4.8667
+2017,Connecticut,4.4167
+2018,Connecticut,3.8833
+2019,Connecticut,3.5917
+2020,Connecticut,8
+2021,Connecticut,6.3833
+2022,Connecticut,4.0917
+2023,Connecticut,3.7083
+2000,Delaware,3.6083
+2001,Delaware,3.575
+2002,Delaware,4.2667
+2003,Delaware,4.4667
+2004,Delaware,4.3
+2005,Delaware,4.5083
+2006,Delaware,3.9083
+2007,Delaware,3.6083
+2008,Delaware,5.0333
+2009,Delaware,8.3417
+2010,Delaware,8.6583
+2011,Delaware,7.6083
+2012,Delaware,7.0667
+2013,Delaware,6.6083
+2014,Delaware,5.6083
+2015,Delaware,4.7917
+2016,Delaware,4.525
+2017,Delaware,4.4667
+2018,Delaware,3.7083
+2019,Delaware,3.55
+2020,Delaware,7.475
+2021,Delaware,5.475
+2022,Delaware,4.2333
+2023,Delaware,3.9833
+2000,Florida,3.7583
+2001,Florida,4.425
+2002,Florida,4.9583
+2003,Florida,4.4667
+2004,Florida,3.75
+2005,Florida,2.875
+2006,Florida,2.4667
+2007,Florida,3.3
+2008,Florida,5.6917
+2009,Florida,9.5583
+2010,Florida,10.825
+2011,Florida,10
+2012,Florida,8.6667
+2013,Florida,7.5333
+2014,Florida,6.4333
+2015,Florida,5.525
+2016,Florida,4.9167
+2017,Florida,4.3
+2018,Florida,3.65
+2019,Florida,3.25
+2020,Florida,8.1917
+2021,Florida,4.6917
+2022,Florida,2.9917
+2023,Florida,2.9083
+2000,Georgia,3.5333
+2001,Georgia,4.0917
+2002,Georgia,5.3083
+2003,Georgia,5.1417
+2004,Georgia,5.0833
+2005,Georgia,5.6833
+2006,Georgia,5.075
+2007,Georgia,4.9083
+2008,Georgia,6.7833
+2009,Georgia,10.4083
+2010,Georgia,10.6583
+2011,Georgia,10.1583
+2012,Georgia,9.0417
+2013,Georgia,8.1417
+2014,Georgia,7.1417
+2015,Georgia,6.075
+2016,Georgia,5.4667
+2017,Georgia,4.7583
+2018,Georgia,4
+2019,Georgia,3.575
+2020,Georgia,6.5
+2021,Georgia,3.9333
+2022,Georgia,3.1417
+2023,Georgia,3.2
+2000,Hawaii,4.25
+2001,Hawaii,4.275
+2002,Hawaii,4.05
+2003,Hawaii,3.9083
+2004,Hawaii,3.2917
+2005,Hawaii,2.825
+2006,Hawaii,2.55
+2007,Hawaii,2.725
+2008,Hawaii,4.0333
+2009,Hawaii,6.6583
+2010,Hawaii,6.825
+2011,Hawaii,6.8333
+2012,Hawaii,5.9
+2013,Hawaii,4.7583
+2014,Hawaii,4.2333
+2015,Hawaii,3.4167
+2016,Hawaii,2.8917
+2017,Hawaii,2.2167
+2018,Hawaii,2.4083
+2019,Hawaii,2.5167
+2020,Hawaii,11.7917
+2021,Hawaii,5.9583
+2022,Hawaii,3.2583
+2023,Hawaii,2.9333
+2000,Idaho,4.6583
+2001,Idaho,5.0833
+2002,Idaho,5.6167
+2003,Idaho,5.5667
+2004,Idaho,4.8667
+2005,Idaho,3.9917
+2006,Idaho,3.425
+2007,Idaho,3.025
+2008,Idaho,5.0333
+2009,Idaho,8.7083
+2010,Idaho,8.7583
+2011,Idaho,8.1667
+2012,Idaho,7.4
+2013,Idaho,6.8167
+2014,Idaho,4.3833
+2015,Idaho,3.8667
+2016,Idaho,3.675
+2017,Idaho,3.2167
+2018,Idaho,2.875
+2019,Idaho,2.8833
+2020,Idaho,5.5417
+2021,Idaho,3.55
+2022,Idaho,2.8417
+2023,Idaho,3.0833
+2000,Illinois,4.4417
+2001,Illinois,5.4333
+2002,Illinois,6.55
+2003,Illinois,6.725
+2004,Illinois,6.175
+2005,Illinois,5.7167
+2006,Illinois,4.6
+2007,Illinois,5.0667
+2008,Illinois,6.5083
+2009,Illinois,10.1833
+2010,Illinois,10.4667
+2011,Illinois,9.7583
+2012,Illinois,9.05
+2013,Illinois,9.075
+2014,Illinois,7.1667
+2015,Illinois,5.9917
+2016,Illinois,5.8833
+2017,Illinois,4.95
+2018,Illinois,4.4
+2019,Illinois,3.9667
+2020,Illinois,9.3083
+2021,Illinois,6.1
+2022,Illinois,4.5667
+2023,Illinois,4.4583
+2000,Indiana,3.05
+2001,Indiana,4.2417
+2002,Indiana,5.1917
+2003,Indiana,5.275
+2004,Indiana,5.4
+2005,Indiana,5.3917
+2006,Indiana,5
+2007,Indiana,4.625
+2008,Indiana,5.9417
+2009,Indiana,10.4333
+2010,Indiana,10.0833
+2011,Indiana,8.9083
+2012,Indiana,8.225
+2013,Indiana,7.5
+2014,Indiana,5.95
+2015,Indiana,4.7833
+2016,Indiana,4.3667
+2017,Indiana,3.4917
+2018,Indiana,3.4333
+2019,Indiana,3.3083
+2020,Indiana,7.35
+2021,Indiana,3.9167
+2022,Indiana,3.0667
+2023,Indiana,3.3417
+2000,Iowa,2.6833
+2001,Iowa,3.325
+2002,Iowa,4
+2003,Iowa,4.45
+2004,Iowa,4.525
+2005,Iowa,4.2917
+2006,Iowa,3.7
+2007,Iowa,3.7167
+2008,Iowa,4.1833
+2009,Iowa,6.4
+2010,Iowa,6.1167
+2011,Iowa,5.65
+2012,Iowa,5.0583
+2013,Iowa,4.725
+2014,Iowa,4.225
+2015,Iowa,3.6917
+2016,Iowa,3.575
+2017,Iowa,3.0583
+2018,Iowa,2.575
+2019,Iowa,2.6583
+2020,Iowa,5.2
+2021,Iowa,3.85
+2022,Iowa,2.8083
+2023,Iowa,2.9583
+2000,Kentucky,4.1417
+2001,Kentucky,5.2083
+2002,Kentucky,5.7917
+2003,Kentucky,6.1917
+2004,Kentucky,5.5
+2005,Kentucky,5.875
+2006,Kentucky,5.725
+2007,Kentucky,5.3667
+2008,Kentucky,6.525
+2009,Kentucky,10.7667
+2010,Kentucky,10.2667
+2011,Kentucky,9.375
+2012,Kentucky,8.2
+2013,Kentucky,7.9167
+2014,Kentucky,6.4167
+2015,Kentucky,5.2333
+2016,Kentucky,5.0333
+2017,Kentucky,4.775
+2018,Kentucky,4.2
+2019,Kentucky,4.0917
+2020,Kentucky,6.4667
+2021,Kentucky,4.4667
+2022,Kentucky,4.025
+2023,Kentucky,4.1583
+2000,Kansas,3.775
+2001,Kansas,4.2667
+2002,Kansas,5.0833
+2003,Kansas,5.55
+2004,Kansas,5.5083
+2005,Kansas,5.0667
+2006,Kansas,4.425
+2007,Kansas,4.2333
+2008,Kansas,4.6083
+2009,Kansas,6.8917
+2010,Kansas,6.9333
+2011,Kansas,6.3833
+2012,Kansas,5.7167
+2013,Kansas,5.3
+2014,Kansas,4.5083
+2015,Kansas,4.15
+2016,Kansas,4.0167
+2017,Kansas,3.6167
+2018,Kansas,3.3583
+2019,Kansas,3.1583
+2020,Kansas,5.8167
+2021,Kansas,3.35
+2022,Kansas,2.625
+2023,Kansas,2.65
+2000,Louisiana,5.15
+2001,Louisiana,5.6
+2002,Louisiana,5.9917
+2003,Louisiana,6.2833
+2004,Louisiana,5.7
+2005,Louisiana,7.0583
+2006,Louisiana,4.1333
+2007,Louisiana,4.0917
+2008,Louisiana,4.6667
+2009,Louisiana,6.7917
+2010,Louisiana,7.5167
+2011,Louisiana,7.4333
+2012,Louisiana,6.7667
+2013,Louisiana,6.4167
+2014,Louisiana,6.25
+2015,Louisiana,6.2917
+2016,Louisiana,6.0667
+2017,Louisiana,5.1083
+2018,Louisiana,4.825
+2019,Louisiana,4.625
+2020,Louisiana,8.6917
+2021,Louisiana,5.6
+2022,Louisiana,3.6333
+2023,Louisiana,3.6417
+2000,Maine,3.3333
+2001,Maine,3.75
+2002,Maine,4.4583
+2003,Maine,5.15
+2004,Maine,4.6583
+2005,Maine,4.8917
+2006,Maine,4.7167
+2007,Maine,4.6917
+2008,Maine,5.4
+2009,Maine,8.3917
+2010,Maine,8.4167
+2011,Maine,7.725
+2012,Maine,7.1917
+2013,Maine,6.6833
+2014,Maine,5.5583
+2015,Maine,4.3833
+2016,Maine,3.775
+2017,Maine,3.3583
+2018,Maine,3.175
+2019,Maine,2.9083
+2020,Maine,5.1167
+2021,Maine,4.6667
+2022,Maine,2.85
+2023,Maine,2.8333
+2000,Maryland,3.5167
+2001,Maryland,4.2083
+2002,Maryland,4.775
+2003,Maryland,4.8
+2004,Maryland,4.6167
+2005,Maryland,4.475
+2006,Maryland,4.175
+2007,Maryland,3.7333
+2008,Maryland,4.525
+2009,Maryland,7.55
+2010,Maryland,7.825
+2011,Maryland,7.3167
+2012,Maryland,6.8667
+2013,Maryland,6.5167
+2014,Maryland,5.7333
+2015,Maryland,4.9917
+2016,Maryland,4.2917
+2017,Maryland,4
+2018,Maryland,3.8167
+2019,Maryland,3.375
+2020,Maryland,6.4667
+2021,Maryland,5.225
+2022,Maryland,2.9833
+2023,Maryland,2.1
+2000,Massachusetts,2.8167
+2001,Massachusetts,3.7833
+2002,Massachusetts,5.2167
+2003,Massachusetts,5.7333
+2004,Massachusetts,5.1083
+2005,Massachusetts,4.8
+2006,Massachusetts,4.7
+2007,Massachusetts,4.5167
+2008,Massachusetts,5.3333
+2009,Massachusetts,8.075
+2010,Massachusetts,8.0583
+2011,Massachusetts,7.225
+2012,Massachusetts,6.7
+2013,Massachusetts,6.6417
+2014,Massachusetts,5.7417
+2015,Massachusetts,4.7917
+2016,Massachusetts,4.0417
+2017,Massachusetts,3.7917
+2018,Massachusetts,3.475
+2019,Massachusetts,3.025
+2020,Massachusetts,9.375
+2021,Massachusetts,5.4
+2022,Massachusetts,3.6583
+2023,Massachusetts,3.3417
+2000,Michigan,3.6917
+2001,Michigan,5.1583
+2002,Michigan,6.1917
+2003,Michigan,7.0917
+2004,Michigan,6.95
+2005,Michigan,6.7917
+2006,Michigan,7.0333
+2007,Michigan,7.0833
+2008,Michigan,8.2167
+2009,Michigan,13.1333
+2010,Michigan,12.1917
+2011,Michigan,10.0083
+2012,Michigan,9.0583
+2013,Michigan,8.725
+2014,Michigan,7.2333
+2015,Michigan,5.425
+2016,Michigan,5.0083
+2017,Michigan,4.575
+2018,Michigan,4.1583
+2019,Michigan,4.05
+2020,Michigan,10.05
+2021,Michigan,5.7667
+2022,Michigan,4.1333
+2023,Michigan,3.8917
+2000,Minnesota,3.0333
+2001,Minnesota,3.775
+2002,Minnesota,4.4667
+2003,Minnesota,4.7833
+2004,Minnesota,4.5833
+2005,Minnesota,4.1
+2006,Minnesota,4.0583
+2007,Minnesota,4.5833
+2008,Minnesota,5.4333
+2009,Minnesota,7.9083
+2010,Minnesota,7.3917
+2011,Minnesota,6.525
+2012,Minnesota,5.65
+2013,Minnesota,5.0417
+2014,Minnesota,4.2667
+2015,Minnesota,3.7917
+2016,Minnesota,3.875
+2017,Minnesota,3.4833
+2018,Minnesota,3.025
+2019,Minnesota,3.275
+2020,Minnesota,6.2833
+2021,Minnesota,3.7
+2022,Minnesota,2.5333
+2023,Minnesota,2.825
+2000,Missouri,3.4167
+2001,Missouri,4.4917
+2002,Missouri,5.2833
+2003,Missouri,5.6583
+2004,Missouri,5.875
+2005,Missouri,5.4
+2006,Missouri,4.875
+2007,Missouri,5.0833
+2008,Missouri,6.2167
+2009,Missouri,9.025
+2010,Missouri,9.5083
+2011,Missouri,8.6417
+2012,Missouri,7.1917
+2013,Missouri,6.775
+2014,Missouri,6.15
+2015,Missouri,5.1083
+2016,Missouri,4.55
+2017,Missouri,3.7417
+2018,Missouri,3.2417
+2019,Missouri,3.25
+2020,Missouri,6.2167
+2021,Missouri,4.1417
+2022,Missouri,2.6
+2023,Missouri,3.0583
+2000,Mississippi,5.325
+2001,Mississippi,5.4917
+2002,Mississippi,6.425
+2003,Mississippi,6.1417
+2004,Mississippi,6.1583
+2005,Mississippi,7.6
+2006,Mississippi,6.375
+2007,Mississippi,6.15
+2008,Mississippi,6.7083
+2009,Mississippi,9.3583
+2010,Mississippi,10.0833
+2011,Mississippi,9.775
+2012,Mississippi,8.825
+2013,Mississippi,8.4917
+2014,Mississippi,7.5917
+2015,Mississippi,6.4833
+2016,Mississippi,5.9667
+2017,Mississippi,5.2333
+2018,Mississippi,4.9583
+2019,Mississippi,5.5
+2020,Mississippi,8.0333
+2021,Mississippi,5.4583
+2022,Mississippi,3.7833
+2023,Mississippi,3.2
+2000,Montana,4.8333
+2001,Montana,4.6083
+2002,Montana,4.55
+2003,Montana,4.7417
+2004,Montana,4.5083
+2005,Montana,4.0667
+2006,Montana,3.3417
+2007,Montana,3.3583
+2008,Montana,4.725
+2009,Montana,7.1167
+2010,Montana,7.1833
+2011,Montana,6.625
+2012,Montana,5.8
+2013,Montana,5.3417
+2014,Montana,4.6667
+2015,Montana,4.2917
+2016,Montana,4.325
+2017,Montana,4.0917
+2018,Montana,3.75
+2019,Montana,3.5
+2020,Montana,5.8417
+2021,Montana,3.4
+2022,Montana,2.6833
+2023,Montana,2.8583
+2000,Nebraska,2.7917
+2001,Nebraska,3.15
+2002,Nebraska,3.6833
+2003,Nebraska,3.9417
+2004,Nebraska,3.9083
+2005,Nebraska,3.7583
+2006,Nebraska,3.0417
+2007,Nebraska,2.925
+2008,Nebraska,3.2583
+2009,Nebraska,4.6583
+2010,Nebraska,4.7
+2011,Nebraska,4.4
+2012,Nebraska,3.8833
+2013,Nebraska,3.675
+2014,Nebraska,3.25
+2015,Nebraska,2.9833
+2016,Nebraska,3.0667
+2017,Nebraska,2.975
+2018,Nebraska,2.925
+2019,Nebraska,3.125
+2020,Nebraska,4.275
+2021,Nebraska,2.5833
+2022,Nebraska,2.1417
+2023,Nebraska,2.2667
+2000,Nevada,4.1167
+2001,Nevada,5.1917
+2002,Nevada,5.6833
+2003,Nevada,5.2833
+2004,Nevada,4.4583
+2005,Nevada,4.125
+2006,Nevada,4.0667
+2007,Nevada,4.5917
+2008,Nevada,6.8833
+2009,Nevada,11.725
+2010,Nevada,13.7333
+2011,Nevada,13.3167
+2012,Nevada,11.6083
+2013,Nevada,9.9667
+2014,Nevada,8.1583
+2015,Nevada,6.85
+2016,Nevada,5.8083
+2017,Nevada,4.9833
+2018,Nevada,4.3833
+2019,Nevada,4.15
+2020,Nevada,13.7167
+2021,Nevada,6.8333
+2022,Nevada,5.2
+2023,Nevada,5.1417
+2000,New Hampshire,2.65
+2001,New Hampshire,3.3917
+2002,New Hampshire,4.4917
+2003,New Hampshire,4.4667
+2004,New Hampshire,3.8
+2005,New Hampshire,3.625
+2006,New Hampshire,3.5333
+2007,New Hampshire,3.525
+2008,New Hampshire,3.7667
+2009,New Hampshire,6.1417
+2010,New Hampshire,6.0833
+2011,New Hampshire,5.45
+2012,New Hampshire,5.4667
+2013,New Hampshire,5.25
+2014,New Hampshire,4.325
+2015,New Hampshire,3.3917
+2016,New Hampshire,2.8833
+2017,New Hampshire,2.8083
+2018,New Hampshire,2.625
+2019,New Hampshire,2.575
+2020,New Hampshire,6.7417
+2021,New Hampshire,3.4083
+2022,New Hampshire,2.275
+2023,New Hampshire,2.1667
+2000,New Jersey,3.65
+2001,New Jersey,4.2333
+2002,New Jersey,5.7667
+2003,New Jersey,5.8417
+2004,New Jersey,4.925
+2005,New Jersey,4.4417
+2006,New Jersey,4.6167
+2007,New Jersey,4.2083
+2008,New Jersey,5.45
+2009,New Jersey,8.9333
+2010,New Jersey,9.6583
+2011,New Jersey,9.375
+2012,New Jersey,9.3833
+2013,New Jersey,8.375
+2014,New Jersey,6.7333
+2015,New Jersey,5.7
+2016,New Jersey,4.9417
+2017,New Jersey,4.5333
+2018,New Jersey,4.0083
+2019,New Jersey,3.4583
+2020,New Jersey,9.475
+2021,New Jersey,6.7083
+2022,New Jersey,3.8667
+2023,New Jersey,4.4167
+2000,New Mexico,5.025
+2001,New Mexico,4.9583
+2002,New Mexico,5.4833
+2003,New Mexico,5.9
+2004,New Mexico,5.5583
+2005,New Mexico,5.1833
+2006,New Mexico,4.2333
+2007,New Mexico,3.5917
+2008,New Mexico,4.3
+2009,New Mexico,7.05
+2010,New Mexico,7.775
+2011,New Mexico,7.2167
+2012,New Mexico,6.9667
+2013,New Mexico,6.9083
+2014,New Mexico,6.5917
+2015,New Mexico,6.6
+2016,New Mexico,6.75
+2017,New Mexico,6.0417
+2018,New Mexico,4.925
+2019,New Mexico,4.9583
+2020,New Mexico,7.925
+2021,New Mexico,7.0667
+2022,New Mexico,4.0583
+2023,New Mexico,3.75
+2000,New York,4.5083
+2001,New York,4.875
+2002,New York,6.2
+2003,New York,6.4
+2004,New York,5.7917
+2005,New York,4.9583
+2006,New York,4.5333
+2007,New York,4.4333
+2008,New York,5.4083
+2009,New York,8.3667
+2010,New York,8.7167
+2011,New York,8.3583
+2012,New York,8.625
+2013,New York,7.7917
+2014,New York,6.2917
+2015,New York,5.2333
+2016,New York,4.875
+2017,New York,4.6333
+2018,New York,4.1
+2019,New York,3.8583
+2020,New York,9.8917
+2021,New York,7.0917
+2022,New York,4.325
+2023,New York,4.2083
+2000,North Carolina,3.7583
+2001,North Carolina,5.625
+2002,North Carolina,6.925
+2003,North Carolina,6.7167
+2004,North Carolina,5.8583
+2005,North Carolina,5.6
+2006,North Carolina,5.1333
+2007,North Carolina,5.0917
+2008,North Carolina,6.2083
+2009,North Carolina,11.0333
+2010,North Carolina,10.7167
+2011,North Carolina,10.2333
+2012,North Carolina,9.5167
+2013,North Carolina,7.7333
+2014,North Carolina,6.1083
+2015,North Carolina,5.6583
+2016,North Carolina,5.1
+2017,North Carolina,4.525
+2018,North Carolina,3.9917
+2019,North Carolina,3.8833
+2020,North Carolina,7.2833
+2021,North Carolina,4.8833
+2022,North Carolina,3.6833
+2023,North Carolina,3.4583
+2000,North Dakota,2.925
+2001,North Dakota,2.8333
+2002,North Dakota,3.375
+2003,North Dakota,3.475
+2004,North Dakota,3.3833
+2005,North Dakota,3.3083
+2006,North Dakota,3.1
+2007,North Dakota,3.0167
+2008,North Dakota,3.1083
+2009,North Dakota,3.9167
+2010,North Dakota,3.6917
+2011,North Dakota,3.3583
+2012,North Dakota,2.9333
+2013,North Dakota,2.8917
+2014,North Dakota,2.6167
+2015,North Dakota,2.7833
+2016,North Dakota,3.1
+2017,North Dakota,2.6083
+2018,North Dakota,2.4083
+2019,North Dakota,2.1417
+2020,North Dakota,4.95
+2021,North Dakota,3
+2022,North Dakota,2
+2023,North Dakota,1.8833
+2000,Ohio,4.1167
+2001,Ohio,4.375
+2002,Ohio,5.7917
+2003,Ohio,6.2167
+2004,Ohio,6.25
+2005,Ohio,5.9333
+2006,Ohio,5.4167
+2007,Ohio,5.6083
+2008,Ohio,6.6
+2009,Ohio,10.1417
+2010,Ohio,10.2667
+2011,Ohio,8.8167
+2012,Ohio,7.4083
+2013,Ohio,7.4583
+2014,Ohio,5.8
+2015,Ohio,4.95
+2016,Ohio,5.075
+2017,Ohio,4.9667
+2018,Ohio,4.5
+2019,Ohio,4.175
+2020,Ohio,8.2667
+2021,Ohio,5.1583
+2022,Ohio,3.9917
+2023,Ohio,3.525
+2000,Oklahoma,2.9917
+2001,Oklahoma,3.625
+2002,Oklahoma,4.625
+2003,Oklahoma,5.4083
+2004,Oklahoma,4.7083
+2005,Oklahoma,4.325
+2006,Oklahoma,3.9167
+2007,Oklahoma,3.9667
+2008,Oklahoma,3.6167
+2009,Oklahoma,6.5583
+2010,Oklahoma,6.5
+2011,Oklahoma,5.5917
+2012,Oklahoma,5.1167
+2013,Oklahoma,5.1167
+2014,Oklahoma,4.3333
+2015,Oklahoma,4.2917
+2016,Oklahoma,4.6583
+2017,Oklahoma,4.0333
+2018,Oklahoma,3.2917
+2019,Oklahoma,3.125
+2020,Oklahoma,6.3083
+2021,Oklahoma,4.0333
+2022,Oklahoma,3.0417
+2023,Oklahoma,3.2167
+2000,Oregon,5.1917
+2001,Oregon,6.375
+2002,Oregon,7.475
+2003,Oregon,8.0167
+2004,Oregon,7.3417
+2005,Oregon,6.1917
+2006,Oregon,5.3917
+2007,Oregon,5.1583
+2008,Oregon,6.275
+2009,Oregon,10.7917
+2010,Oregon,10.6917
+2011,Oregon,9.6083
+2012,Oregon,8.8083
+2013,Oregon,7.75
+2014,Oregon,6.6417
+2015,Oregon,5.4667
+2016,Oregon,4.75
+2017,Oregon,4.0583
+2018,Oregon,4.0417
+2019,Oregon,3.725
+2020,Oregon,7.6
+2021,Oregon,5.15
+2022,Oregon,3.9167
+2023,Oregon,3.7083
+2000,Pennsylvania,4.225
+2001,Pennsylvania,4.8083
+2002,Pennsylvania,5.5333
+2003,Pennsylvania,5.7
+2004,Pennsylvania,5.3583
+2005,Pennsylvania,4.9833
+2006,Pennsylvania,4.7083
+2007,Pennsylvania,4.5583
+2008,Pennsylvania,5.35
+2009,Pennsylvania,7.975
+2010,Pennsylvania,8.1667
+2011,Pennsylvania,7.7417
+2012,Pennsylvania,7.6583
+2013,Pennsylvania,7.1
+2014,Pennsylvania,5.9333
+2015,Pennsylvania,5.3917
+2016,Pennsylvania,5.3417
+2017,Pennsylvania,4.975
+2018,Pennsylvania,4.4167
+2019,Pennsylvania,4.3
+2020,Pennsylvania,8.875
+2021,Pennsylvania,5.925
+2022,Pennsylvania,4.05
+2023,Pennsylvania,3.4083
+2000,Rhode Island,4
+2001,Rhode Island,4.4417
+2002,Rhode Island,5.1083
+2003,Rhode Island,5.575
+2004,Rhode Island,5.25
+2005,Rhode Island,5.1083
+2006,Rhode Island,5.2167
+2007,Rhode Island,5.1083
+2008,Rhode Island,7.6
+2009,Rhode Island,11.3917
+2010,Rhode Island,11.625
+2011,Rhode Island,11.0167
+2012,Rhode Island,10.2167
+2013,Rhode Island,9.475
+2014,Rhode Island,7.7667
+2015,Rhode Island,6.025
+2016,Rhode Island,5.2417
+2017,Rhode Island,4.5083
+2018,Rhode Island,4.0333
+2019,Rhode Island,3.5333
+2020,Rhode Island,9.2417
+2021,Rhode Island,5.5167
+2022,Rhode Island,3.1667
+2023,Rhode Island,2.9417
+2000,South Carolina,3.7333
+2001,South Carolina,5.2833
+2002,South Carolina,6.4333
+2003,South Carolina,7.1917
+2004,South Carolina,7.4417
+2005,South Carolina,7.2917
+2006,South Carolina,6.875
+2007,South Carolina,6.0667
+2008,South Carolina,7.2917
+2009,South Carolina,11.4083
+2010,South Carolina,11.3
+2011,South Carolina,10.45
+2012,South Carolina,9.0333
+2013,South Carolina,7.425
+2014,South Carolina,6.275
+2015,South Carolina,5.9
+2016,South Carolina,4.9167
+2017,South Carolina,4.2
+2018,South Carolina,3.375
+2019,South Carolina,2.7667
+2020,South Carolina,5.9667
+2021,South Carolina,3.9417
+2022,South Carolina,3.2083
+2023,South Carolina,2.95
+2000,South Dakota,2.5333
+2001,South Dakota,3
+2002,South Dakota,3.2333
+2003,South Dakota,3.475
+2004,South Dakota,3.6083
+2005,South Dakota,3.55
+2006,South Dakota,3
+2007,South Dakota,2.825
+2008,South Dakota,3.0833
+2009,South Dakota,4.5833
+2010,South Dakota,4.9083
+2011,South Dakota,4.6
+2012,South Dakota,4.0583
+2013,South Dakota,3.7
+2014,South Dakota,3.3333
+2015,South Dakota,3.05
+2016,South Dakota,3.0167
+2017,South Dakota,3.05
+2018,South Dakota,2.7917
+2019,South Dakota,2.7667
+2020,South Dakota,4.1833
+2021,South Dakota,2.6167
+2022,South Dakota,1.9917
+2023,South Dakota,2
+2000,Tennessee,3.8667
+2001,Tennessee,4.5167
+2002,Tennessee,5.125
+2003,Tennessee,5.5083
+2004,Tennessee,5.35
+2005,Tennessee,5.525
+2006,Tennessee,5.275
+2007,Tennessee,4.6333
+2008,Tennessee,6.5167
+2009,Tennessee,10.1167
+2010,Tennessee,9.825
+2011,Tennessee,9.1083
+2012,Tennessee,7.9583
+2013,Tennessee,7.725
+2014,Tennessee,6.6
+2015,Tennessee,5.5667
+2016,Tennessee,4.7583
+2017,Tennessee,3.75
+2018,Tennessee,3.5
+2019,Tennessee,3.3333
+2020,Tennessee,7.5083
+2021,Tennessee,4.4667
+2022,Tennessee,3.3833
+2023,Tennessee,3.2917
+2000,Texas,4.3833
+2001,Texas,4.9583
+2002,Texas,6.3583
+2003,Texas,6.7333
+2004,Texas,6.0167
+2005,Texas,5.4583
+2006,Texas,5
+2007,Texas,4.3667
+2008,Texas,4.8667
+2009,Texas,7.5417
+2010,Texas,8.1917
+2011,Texas,8.0167
+2012,Texas,6.7083
+2013,Texas,6.3
+2014,Texas,5.1917
+2015,Texas,4.4833
+2016,Texas,4.65
+2017,Texas,4.3417
+2018,Texas,3.9
+2019,Texas,3.525
+2020,Texas,7.725
+2021,Texas,5.6417
+2022,Texas,3.9417
+2023,Texas,3.95
+2000,Utah,3.325
+2001,Utah,4.3667
+2002,Utah,5.6667
+2003,Utah,5.5667
+2004,Utah,5.0083
+2005,Utah,4.0417
+2006,Utah,2.8667
+2007,Utah,2.5583
+2008,Utah,3.3417
+2009,Utah,7.2583
+2010,Utah,7.9333
+2011,Utah,7.0583
+2012,Utah,4.775
+2013,Utah,4.2083
+2014,Utah,3.6333
+2015,Utah,3.5083
+2016,Utah,3.35
+2017,Utah,3.1667
+2018,Utah,2.9167
+2019,Utah,2.5417
+2020,Utah,4.8417
+2021,Utah,2.7583
+2022,Utah,2.3583
+2023,Utah,2.6417
+2000,Virginia,2.2833
+2001,Virginia,3.2833
+2002,Virginia,4.3583
+2003,Virginia,4.3417
+2004,Virginia,4.0833
+2005,Virginia,3.825
+2006,Virginia,3.3417
+2007,Virginia,3.2833
+2008,Virginia,4.275
+2009,Virginia,6.8333
+2010,Virginia,7.2917
+2011,Virginia,6.5417
+2012,Virginia,5.95
+2013,Virginia,5.55
+2014,Virginia,5.1167
+2015,Virginia,4.3667
+2016,Virginia,4
+2017,Virginia,3.6667
+2018,Virginia,3.0083
+2019,Virginia,2.7583
+2020,Virginia,6.4917
+2021,Virginia,3.85
+2022,Virginia,2.7583
+2023,Virginia,2.85
+2000,Vermont,2.8083
+2001,Vermont,3.2917
+2002,Vermont,3.8333
+2003,Vermont,4.3833
+2004,Vermont,3.675
+2005,Vermont,3.45
+2006,Vermont,3.7167
+2007,Vermont,3.9417
+2008,Vermont,4.5667
+2009,Vermont,6.1667
+2010,Vermont,6.3167
+2011,Vermont,5.5667
+2012,Vermont,4.8167
+2013,Vermont,4.4167
+2014,Vermont,3.9917
+2015,Vermont,3.5333
+2016,Vermont,3.125
+2017,Vermont,3.0083
+2018,Vermont,2.4833
+2019,Vermont,2.0667
+2020,Vermont,5.6583
+2021,Vermont,3.5833
+2022,Vermont,2.325
+2023,Vermont,2.0083
+2000,Washington,5.0917
+2001,Washington,6.0083
+2002,Washington,7.075
+2003,Washington,7.2333
+2004,Washington,6.3
+2005,Washington,5.5917
+2006,Washington,5
+2007,Washington,4.6
+2008,Washington,5.2917
+2009,Washington,8.2667
+2010,Washington,9.1333
+2011,Washington,8.525
+2012,Washington,7.6417
+2013,Washington,6.6333
+2014,Washington,5.925
+2015,Washington,5.4333
+2016,Washington,5.225
+2017,Washington,4.6417
+2018,Washington,4.425
+2019,Washington,4.1917
+2020,Washington,8.5333
+2021,Washington,5.2417
+2022,Washington,4.0667
+2023,Washington,4.075
+2000,Wisconsin,3.3917
+2001,Wisconsin,4.4333
+2002,Wisconsin,5.325
+2003,Wisconsin,5.6167
+2004,Wisconsin,4.975
+2005,Wisconsin,4.7417
+2006,Wisconsin,4.675
+2007,Wisconsin,4.825
+2008,Wisconsin,4.9833
+2009,Wisconsin,8.9583
+2010,Wisconsin,8.5
+2011,Wisconsin,7.5333
+2012,Wisconsin,6.925
+2013,Wisconsin,6.6417
+2014,Wisconsin,5.35
+2015,Wisconsin,4.425
+2016,Wisconsin,3.9083
+2017,Wisconsin,3.2583
+2018,Wisconsin,2.975
+2019,Wisconsin,3.2083
+2020,Wisconsin,6.4583
+2021,Wisconsin,3.8583
+2022,Wisconsin,2.8917
+2023,Wisconsin,3.05
+2000,West Virginia,5.575
+2001,West Virginia,5.3917
+2002,West Virginia,6.4583
+2003,West Virginia,6.5667
+2004,West Virginia,5.7667
+2005,West Virginia,5.425
+2006,West Virginia,5.2
+2007,West Virginia,4.825
+2008,West Virginia,4.75
+2009,West Virginia,8.3
+2010,West Virginia,8.6333
+2011,West Virginia,7.825
+2012,West Virginia,7.2583
+2013,West Virginia,6.7167
+2014,West Virginia,6.5
+2015,West Virginia,6.5833
+2016,West Virginia,6.0917
+2017,West Virginia,5.2083
+2018,West Virginia,5.1667
+2019,West Virginia,4.925
+2020,West Virginia,8.2833
+2021,West Virginia,5.15
+2022,West Virginia,3.875
+2023,West Virginia,3.9083
+2000,Wyoming,3.75
+2001,Wyoming,3.8167
+2002,Wyoming,4.0083
+2003,Wyoming,4.325
+2004,Wyoming,3.8417
+2005,Wyoming,3.5417
+2006,Wyoming,3.0083
+2007,Wyoming,2.6917
+2008,Wyoming,2.9333
+2009,Wyoming,6.2583
+2010,Wyoming,6.9417
+2011,Wyoming,6.1333
+2012,Wyoming,5.5
+2013,Wyoming,4.7333
+2014,Wyoming,4.3417
+2015,Wyoming,4.2083
+2016,Wyoming,5.3333
+2017,Wyoming,4.325
+2018,Wyoming,4.0583
+2019,Wyoming,3.7083
+2020,Wyoming,5.8583
+2021,Wyoming,4.5417
+2022,Wyoming,3.4167
+2023,Wyoming,2.9167
