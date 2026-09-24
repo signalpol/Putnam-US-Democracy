@@ -3,10 +3,10 @@ Acquire Putnam P03 modern continuation from official Census CBP API.
 Target: NAICS 813410 Civic and Social Organizations, state establishments,
 2000-2023. Fail closed on schema/coding changes. No interpolation.
 """
-import requests, pandas as pd, hashlib, json
+import requests, os, pandas as pd, hashlib, json
 from pathlib import Path
 
-YEARS=range(2000,2024)
+YEARS=range(2000,2024)\nCENSUS_API_KEY=os.getenv("CENSUS_API_KEY")\nif not CENSUS_API_KEY: raise RuntimeError("CENSUS_API_KEY required by current Census Data API")
 NAICS="813410"
 OUT=Path("04_Raw_Data/P03_CBP")
 OUT.mkdir(parents=True,exist_ok=True)
@@ -37,7 +37,7 @@ def acquire_year(year):
     v,meta_url=variables(year)
     nvar=pick_naics_var(v)
     if "ESTAB" not in v: raise KeyError(f"{year}: ESTAB missing")
-    params={"get":f"NAME,{nvar},ESTAB","for":"state:*",nvar:NAICS}
+    params={"get":f"NAME,{nvar},ESTAB","for":"state:*",nvar:NAICS,"key":CENSUS_API_KEY}
     data,url=api_json(f"https://api.census.gov/data/{year}/cbp",params)
     df=pd.DataFrame(data[1:],columns=data[0])
     df["year"]=year
@@ -46,7 +46,7 @@ def acquire_year(year):
     label=None
     if label_var in v:
         try:
-            ld,_=api_json(f"https://api.census.gov/data/{year}/cbp",{"get":f"{label_var}","for":"state:01",nvar:NAICS})
+            ld,_=api_json(f"https://api.census.gov/data/{year}/cbp",{"get":f"{label_var}","for":"state:01",nvar:NAICS,"key":CENSUS_API_KEY})
             if len(ld)>1: label=ld[1][0]
         except Exception: pass
     return df,{"year":year,"naics_variable":nvar,"naics_code":NAICS,"naics_label":label,
