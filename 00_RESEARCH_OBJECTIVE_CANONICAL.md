@@ -25,6 +25,18 @@ Economic conditions x Social Capital -> Democratic Performance
 
 The empirical analysis must distinguish correlation, temporal ordering, mediation, interaction, and causal identification. It must not label a relationship causal unless the research design supports that inference.
 
+## Central Hypothesis to Be Empirically Tested
+
+The central substantive hypothesis of this project is that changes in U.S. economic conditions weakened the social-capital foundations of American democracy and that this longer-run deterioration became politically consequential in the process surrounding the rise of Donald Trump, contributing to a sharper deterioration in U.S. democratic performance.
+
+The principal hypothesized sequence is:
+
+**Economic Conditions Change -> Social Capital Weakening -> Trump-Era Political Transformation -> Sharper Democratic Deterioration**
+
+This is the researcher's theoretical expectation and the central hypothesis to be tested empirically, not a conclusion assumed in advance. The analysis must therefore test whether the temporal ordering, statistical relationships, mediation/interaction patterns, and observed break in democratic performance are consistent with this mechanism, while allowing the evidence to reject any part or all of the proposed sequence.
+
+Accordingly, RQ7 is not a peripheral robustness question. It is a core test connecting the project's political-economy extension of Putnam to the observed trajectory of contemporary American democracy. The empirical design should determine whether the Trump-era deterioration is statistically distinguishable from the prior trajectory and whether pre-existing economic and social-capital changes help account for that shift.
+
 ## Core Research Questions
 RQ1. Has U.S. democratic performance gradually declined over 2000-2023?
 RQ2. Has Putnam-style social capital declined over the same period, and how closely does its trajectory correspond to democratic performance?
