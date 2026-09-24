@@ -38,7 +38,8 @@ manifest={"version":"v0.20_STRICT","rules":["No interpolation","No S2/S3 promoti
 if OLD.exists():
     old=norm(pd.read_csv(OLD))
     old=old.rename(columns={k:v for k,v in {"P05":"R_P05_legacy","P07":"R_P07_legacy","P09":"R_P09_legacy","P10":"R_P10_legacy"}.items() if k in old.columns})
-    cols=[c for c in old.columns if c not in ("state","year") and not c.startswith(("P01","P02","P03","P04","P05","P06","P07","P08","P09","P10","P11","P12","P13","P14"))]\n    # Legacy P-fields are excluded entirely from the strict analytic panel; they remain in v0.19 for audit only.
+    cols=[c for c in old.columns if c not in ("state","year") and not c.startswith(("P01","P02","P03","P04","P05","P06","P07","P08","P09","P10","P11","P12","P13","P14"))]
+    # Legacy P-fields are excluded entirely from the strict analytic panel; they remain in v0.19 for audit only.
     panel=panel.merge(old[["state","year"]+cols],on=["state","year"],how="left",validate="one_to_one")
     manifest["inputs"].append({"label":"legacy_quarantined","file":str(OLD),"sha256":sha(OLD)})
 
