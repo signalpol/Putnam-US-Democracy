@@ -69,7 +69,7 @@ inputs=[
  ("04_Raw_Data/E_Economic/BLS_LAUS/E3_BLS_LAUS_50states_2000_2023.csv","E3","full"),
  ("04_Raw_Data/E_Economic/Census_ACS_Gini/E4_ACS1_Gini_50states_2006_2023.csv","E4","sparse"),
  ("04_Raw_Data/E_Economic/BEA_Industry/E5_BEA_manufacturing_value_added_share_50states_2000_2023.csv","E5","full"),
- ("validated/P03_CBP_density_2000_2023.csv","P03","full"),
+ ("validated/P03_CBP_density_2000_2023.csv","P03","full"),\n ("02_Putnam_14_Variables/P08/S1_P08_501c3_density_observed_snapshots.csv","P08","sparse"),\n ("04_Raw_Data/S_Social_Capital/STRICT/P06_TURNOUT/UF_ELECTION_LAB/S1_P06_UF_VEP_presidential_waves_2000_2020.csv","P06","sparse"),
 ]
 for fn,label,coverage in inputs:
     p=ROOT/fn
