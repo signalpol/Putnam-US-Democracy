@@ -7,7 +7,7 @@ Fail closed: no interpolation, DC/territories excluded, exact 50-state keys requ
 The collector first queries BEA metadata so LineCode selection is label-driven and
 stored in the manifest rather than silently hard-coded.
 """
-import hashlib,json,re,requests
+import hashlib,json,re,requests,os
 from pathlib import Path
 import pandas as pd
 
@@ -17,7 +17,7 @@ OUT=Path("04_Raw_Data/E_Economic/BEA"); OUT.mkdir(parents=True,exist_ok=True)
 STATE_FIPS={"01","02","04","05","06","08","09","10","12","13","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","44","45","46","47","48","49","50","51","53","54","55","56"}
 
 def get(params):
-    p={"UserID":"samplekey","method":"GetData","datasetname":"Regional","ResultFormat":"JSON",**params}
+    key=os.getenv("BEA_API_KEY")\n    if not key: raise RuntimeError("BEA_API_KEY is required; obtain a free key from BEA")\n    p={"UserID":key,"method":"GetData","datasetname":"Regional","ResultFormat":"JSON",**params}
     r=requests.get(API,params=p,timeout=90); r.raise_for_status(); return r.json()
 
 def rows_from(obj):
@@ -54,11 +54,11 @@ if df.empty: raise RuntimeError("BEA returned no usable state-year records")
 csv=OUT/"BEA_E1_E2_long_50states_2000_2023.csv"; df.to_csv(csv,index=False)
 states=set(df.state_fips)
 if states!=STATE_FIPS: raise RuntimeError(f"state coverage failure: {len(states)}/50")
-if not set(YEARS).issubset(set(df.year)): raise RuntimeError("year coverage failure")
+if not set(YEARS).issubset(set(df.year)): raise RuntimeError("year coverage failure")\n# Construct guards from current BEA Regional metadata/documentation.\ndef guard(table,line,needle):\n    z=df[(df.table==table)&(df.line_code.astype(str)==str(line))]\n    if z.empty: raise RuntimeError(f"{table} line {line} absent")\n    desc=" ".join(z.description.dropna().astype(str).unique()).lower()\n    if needle not in desc: raise RuntimeError(f"{table} line {line} construct mismatch: {desc}")\n    if z.groupby(["state_fips","year"]).size().max()!=1: raise RuntimeError(f"{table} line {line} duplicate keys")\n    if len(z)!=1200: raise RuntimeError(f"{table} line {line} expected 1200 rows, got {len(z)}")\nguard("SAGDP9N",2,"real")\nguard("SAINC1",3,"per capita")
 manifest={"source":"U.S. Bureau of Economic Analysis Regional API",
- "tables":["SAGDP1N","SAINC1"],"target":"50 states x 2000-2023",
+ "tables":["SAGDP9N","SAINC1"],"target":"50 states x 2000-2023",
  "raw_sha256":hashlib.sha256(raw_path.read_bytes()).hexdigest(),
  "long_csv_sha256":hashlib.sha256(csv.read_bytes()).hexdigest(),
- "rule":"No interpolation; preserve table, line code, description, units; select canonical lines only after label audit."}
+ "canonical_expectation":{"E1":"SAGDP9N line 2 = real GDP (verify returned Description/units)","E2":"SAINC1 line 3 = per capita personal income (verify returned Description/units)"},\n "rule":"No interpolation; preserve table, line code, description, units; fail if canonical returned labels do not match expected constructs."}
 (OUT/"BEA_E1_E2_manifest.json").write_text(json.dumps(manifest,indent=2),encoding="utf-8")
 print(json.dumps(manifest,indent=2))
