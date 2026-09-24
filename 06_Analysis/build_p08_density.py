@@ -10,7 +10,7 @@ import pandas as pd
 BMF=Path("02_Putnam_14_Variables/P08/S1_P08_501c3_BMF_state_counts_observed_snapshots.csv")
 # Shared denominator produced by acquire_p03_population_denominator.py
 POP_CANDIDATES=[
- Path("04_Raw_Data/P03_POP/P03_state_population_2000_2023.csv"),
+ Path("04_Raw_Data/P03_population/P03_population_denominator_2000_2023.csv"),
  Path("04_Raw_Data/S_Social_Capital/COMMON_DENOMINATORS/state_population_2000_2023.csv")
 ]
 OUT=Path("02_Putnam_14_Variables/P08"); OUT.mkdir(parents=True,exist_ok=True)
