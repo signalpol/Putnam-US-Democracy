@@ -17,8 +17,8 @@ VINTAGES={
 2019:"2019_08",2020:"2020_04",2022:"2022_08",
 2023:"2023_06"}
 # Catalog-confirmed harmonized/transformed snapshots only.\n# 2017-09, 2017-12 and 2018-12 are explicitly known-bad upstream vintages in\n# current NCCS harmonization documentation and are excluded from canonical P08.
-# No harmonized monthly release is listed for 2007, 2008, 2017, 2021.
-# Raw-archive-only 2017 releases are NOT silently mixed into the harmonized series.
+# Canonical NCCS catalog lists harmonized releases for 2007 and 2008; selected vintages above use them.
+# No harmonized monthly release is listed for 2017 or 2021. Raw-archive-only 2017 releases are NOT silently mixed into the harmonized series.
 
 
 
