@@ -24,8 +24,10 @@ states={"Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connect
 x=x[x.STATE.isin(states)].copy()
 if len(x)!=300 or x.STATE.nunique()!=50 or x.YEAR.nunique()!=6: raise RuntimeError(f"grid failure {len(x)}")
 if x.duplicated(["STATE","YEAR"]).any(): raise RuntimeError("duplicate state-year")
-for c in ["VEP","VOTE_FOR_HIGHEST_OFFICE"]:
+for c in ["VEP","VOTE_FOR_HIGHEST_OFFICE","VEP_TURNOUT_RATE"]:
     x[c]=pd.to_numeric(x[c],errors="coerce")
+# Canonical P06 preserves the published UF Election Lab VEP turnout field under an explicit project name.
+x["P06_VEP_TURNOUT_PCT"]=x["VEP_TURNOUT_RATE"]
 x["P06_HIGHEST_OFFICE_OVER_VEP"]=100*x["VOTE_FOR_HIGHEST_OFFICE"]/x["VEP"]
 out=OUT/"S1_P06_UF_VEP_presidential_waves_2000_2020.csv"; x.to_csv(out,index=False)
 manifest={"source":"UF Election Lab / Michael McDonald","version":"1.2","license":"CC BY 4.0",
