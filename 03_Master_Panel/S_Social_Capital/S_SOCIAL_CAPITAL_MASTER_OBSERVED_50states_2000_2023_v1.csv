@@ -1,0 +1,1200 @@
+state,year,S_HAWES_COMPTON_socap_ma,S_CEV_formal_volunteering,S_CEV_organizational_membership,S_CEV_charitable_giving,S_CEV_informal_helping,S_CEV_talking_with_friends_and_family,S_CEV_talking_with_neighbors,S_CEV_learning_about_issues,S_CEV_discussing_issues_with_friends_and_family,S_CEV_discussing_issues_with_neighbors,S_CEV_posting_views_online,S_CEV_voting_in_local_elections,S_CEV_contacting_public_officials,S_CEV_donating_to_a_political_cause,S_CEV_attending_public_meetings,S_CEV_taking_action_with_neighbors,S_CEV_buycotting_or_boycotting,S_CEV_employer_promotes_volunteering,S_source_hawes_compton,S_source_cev,S_observed_any,S_series_note
+Alabama,2000,-0.9840144,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2001,-1.0707595,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2002,-0.66225195,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2003,-0.89120746,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2004,-0.72514385,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2005,-1.3341863,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2006,-1.5191938,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2007,-1.6990304,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2008,-1.5409486,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2009,-1.4975376,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2010,-1.4371125,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Alabama,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Alabama,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Alabama,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Alabama,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Alabama,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Alabama,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Alabama,2017,,0.27398939,0.22115905,0.49894461,0.47416642,0.9840864,0.76593989,0.8770315,0.7010269,0.3221135,0.1963986,0.5562794,0.0727482,0.0464582,0.0727567,0.1823462,0.0694331,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Alabama,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Alabama,2019,,0.25764271,0.22926222,0.50987243,0.49767599,0.97817557,0.71189145,0.82424142,0.64846014,0.30001605,0.20830828,0.62447834,0.08895217,0.06602825,0.09046351,0.1644158,0.10454094,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Alabama,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Alabama,2021,,0.19543448,0.18445939,0.40108137,0.46415856,0.97877132,0.68765636,0.74848113,0.67707534,0.31553512,0.18039748,0.49960748,0.07897876,0.0523123,0.07900686,0.15941605,0.09494937,0.34745277,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Alabama,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Alabama,2023,,0.1994202,0.1474839,0.4146908,0.4730907,0.9670348,0.6566281,0.8342356,0.6535252,0.2940658,0.1355387,0.5199717,0.0499533,0.041657,0.0633949,0.1831129,0.068009,0.3067537,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Alaska,2000,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2001,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2002,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2003,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2004,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2005,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2006,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2007,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2008,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2009,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2010,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2017,,0.40622791,0.36780831,0.54856098,0.5077662,0.98350642,0.70467679,0.874469,0.7799842,0.3387725,0.259737,0.6505188,0.216985,0.1024165,0.1673515,0.2451755,0.2181037,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Alaska,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2019,,0.35459099,0.31482671,0.50190811,0.56270869,0.98231062,0.71658874,0.87683584,0.73132552,0.33553803,0.26809621,0.65617908,0.16455897,0.08601464,0.16612853,0.26509321,0.16529309,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Alaska,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2021,,0.27299883,0.25729808,0.47676007,0.54963916,0.98856175,0.6649367,0.8465384,0.76054783,0.32940012,0.19123868,0.67152464,0.16534217,0.11027952,0.14243863,0.20734681,0.19226924,0.33217993,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Alaska,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Alaska,2023,,0.3360162,0.2834552,0.4881667,0.6075747,0.9763235,0.6897801,0.7850072,0.6588181,0.309768,0.1871216,0.6401849,0.1393779,0.0885359,0.1261431,0.2785641,0.2265396,0.3459615,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Arizona,2000,0.08363874,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2001,-0.006370814,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2002,-0.16865283,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2003,-0.08039311,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2004,-0.44193345,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2005,-0.2515623,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2006,-0.48514998,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2007,-0.33415607,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2008,-0.22186242,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2009,0.30606547,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2010,0.3625766,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arizona,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Arizona,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Arizona,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Arizona,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Arizona,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Arizona,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Arizona,2017,,0.30037335,0.25365473,0.51994809,0.47172193,0.97208314,0.64905807,0.848776,0.6981574,0.2496545,0.2538105,0.5279256,0.1134499,0.0737406,0.0656714,0.1560887,0.1587297,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Arizona,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Arizona,2019,,0.26187585,0.24043848,0.46569915,0.46904238,0.98152224,0.66310131,0.84793223,0.68208723,0.22278565,0.21502534,0.50964866,0.07862534,0.0670586,0.08724856,0.17470646,0.17413293,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Arizona,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Arizona,2021,,0.2345181,0.2289331,0.48510914,0.465799,0.98007615,0.6477308,0.87769866,0.68791092,0.25606871,0.18686125,0.5899102,0.08947653,0.08175834,0.0583371,0.15644343,0.19301261,0.40522914,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Arizona,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Arizona,2023,,0.2998256,0.2315749,0.4934512,0.5238702,0.9537827,0.6733648,0.7727563,0.6291738,0.2369221,0.1851728,0.5541019,0.0786708,0.0940182,0.0791832,0.2026567,0.205149,0.3387186,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Arkansas,2000,-0.26459432,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2001,-0.5014189,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2002,-0.4869876,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2003,-0.90440214,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2004,-1.0255421,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2005,-1.2284127,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2006,-1.3362135,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2007,-1.2038096,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2008,-1.2004324,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2009,-0.9078328,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2010,-0.91477305,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Arkansas,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Arkansas,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Arkansas,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Arkansas,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Arkansas,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Arkansas,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Arkansas,2017,,0.29984052,0.28623815,0.48931495,0.49849246,0.95975795,0.71723215,0.8764308,0.7055417,0.3004844,0.2364537,0.4985995,0.1317669,0.0614148,0.0897603,0.1697831,0.1371973,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Arkansas,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Arkansas,2019,,0.29722904,0.29938214,0.54344122,0.49767956,0.98365129,0.6749164,0.83575056,0.66401405,0.26148114,0.19445716,0.47891564,0.10272925,0.07751344,0.11578134,0.19557914,0.14162397,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Arkansas,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Arkansas,2021,,0.20878917,0.23134178,0.52439926,0.50704396,0.98348379,0.64969574,0.84187983,0.68718481,0.26805536,0.22213097,0.45516318,0.09579535,0.06026305,0.06849847,0.14412957,0.16648727,0.36033154,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Arkansas,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Arkansas,2023,,0.2822923,0.2575347,0.4646506,0.5203446,0.9859899,0.6753675,0.8129188,0.6492193,0.2549284,0.1532157,0.4496889,0.0882596,0.0553037,0.0704369,0.1702168,0.1653948,0.4225135,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+California,2000,-0.7051041,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2001,-0.8219869,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2002,-0.90958804,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2003,-0.79571307,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2004,-0.88797367,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2005,-0.70925814,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2006,-0.73556983,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2007,-0.6544801,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2008,-0.4237399,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2009,-0.25589922,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2010,-0.17324015,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+California,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+California,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+California,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+California,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+California,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+California,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+California,2017,,0.25442266,0.22452001,0.46954236,0.46153806,0.97111106,0.69000713,0.8383771,0.6778666,0.2823289,0.231096,0.4865851,0.091698,0.0891062,0.1045767,0.1786877,0.1371167,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+California,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+California,2019,,0.24928005,0.23009966,0.44058743,0.45668061,0.95229425,0.6496281,0.79482072,0.66132711,0.26770813,0.18681928,0.4889928,0.07783975,0.08640517,0.09870118,0.17789398,0.14539593,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+California,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+California,2021,,0.18313015,0.18326669,0.3903199,0.46076255,0.94947049,0.64014094,0.80710778,0.65495312,0.27168384,0.2278391,0.58413976,0.07704098,0.10083366,0.08185274,0.15197121,0.15640682,0.28999849,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+California,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+California,2023,,0.2407034,0.2112691,0.4200826,0.5082352,0.9620524,0.6699674,0.7855844,0.6544725,0.2700548,0.1902811,0.4909708,0.073048,0.0770777,0.0803877,0.1801377,0.1705692,0.3412228,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Colorado,2000,0.83338803,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2001,0.19755779,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2002,0.27905276,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2003,0.23778997,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2004,0.38651258,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2005,0.5823415,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2006,0.40015948,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2007,0.2884037,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2008,0.13212693,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2009,0.30512714,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2010,0.2877293,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Colorado,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Colorado,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Colorado,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Colorado,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Colorado,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Colorado,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Colorado,2017,,0.3240578,0.25560567,0.55476944,0.6125592,0.98438889,0.76006352,0.8968322,0.7681131,0.3418025,0.2068994,0.6019641,0.1425611,0.1269956,0.1111703,0.2127758,0.1544031,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Colorado,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Colorado,2019,,0.42245179,0.33363695,0.64981965,0.63577546,0.99416952,0.80091454,0.91983486,0.81318641,0.34902919,0.22987397,0.65852219,0.11410176,0.14217428,0.14461278,0.25315234,0.23671118,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Colorado,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Colorado,2021,,0.26173744,0.27358516,0.55509337,0.58861128,0.96428699,0.70658837,0.83334761,0.73644084,0.36292484,0.23641782,0.7197678,0.12905754,0.10709976,0.12248507,0.20733321,0.26631574,0.32754717,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Colorado,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Colorado,2023,,0.3465381,0.3229072,0.6199477,0.6741747,0.9882965,0.8047994,0.8212721,0.7873104,0.3786903,0.2516231,0.6664218,0.1005117,0.1514408,0.1137726,0.2219281,0.2413301,0.4778262,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Connecticut,2000,0.97483945,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2001,0.8133112,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2002,0.6485653,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2003,0.32070857,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2004,0.2726983,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2005,0.30153948,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2006,0.31096518,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2007,0.46931282,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2008,0.55253386,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2009,0.66602135,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2010,0.6805474,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Connecticut,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Connecticut,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Connecticut,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Connecticut,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Connecticut,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Connecticut,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Connecticut,2017,,0.31751188,0.26287278,0.53023674,0.47603668,0.98024833,0.73339913,0.8359991,0.7169171,0.3671092,0.2279267,0.5135213,0.1216133,0.0898126,0.117955,0.1805798,0.1491175,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Connecticut,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Connecticut,2019,,0.31406719,0.32618442,0.54604913,0.50470304,0.9911498,0.79910486,0.84889218,0.67295365,0.36081032,0.17179906,0.53363767,0.12743739,0.09055376,0.13270982,0.24175871,0.16165124,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Connecticut,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Connecticut,2021,,0.28805603,0.223919,0.61493533,0.50198316,0.9750259,0.70679212,0.8947517,0.78163664,0.30186048,0.19754463,0.56916429,0.10073433,0.13472326,0.09701527,0.20210198,0.2015195,0.40698291,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Connecticut,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Connecticut,2023,,0.3737887,0.3322204,0.5859021,0.5246509,0.9873265,0.7368222,0.8520027,0.7635678,0.3129978,0.1175291,0.5397179,0.1183532,0.0734266,0.1155324,0.1715302,0.2051042,0.4232728,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Delaware,2000,0.29608452,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2001,0.019847061,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2002,-0.0428824,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2003,0.07459678,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2004,0.24790098,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2005,0.41663507,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2006,0.24994844,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2007,0.28733307,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2008,0.27723685,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2009,0.44806406,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2010,0.45570484,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Delaware,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Delaware,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Delaware,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Delaware,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Delaware,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Delaware,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Delaware,2017,,0.31813208,0.28560473,0.61459745,0.57792029,0.94124759,0.80054359,0.8700636,0.6972445,0.3430826,0.2182472,0.5317285,0.1138995,0.1240352,0.122794,0.2436262,0.1116373,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Delaware,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Delaware,2019,,0.3066739,0.3227496,0.55589455,0.65761861,0.96694277,0.72650631,0.90574445,0.72730064,0.33510663,0.21410151,0.58222979,0.10917238,0.07692649,0.10407392,0.27666039,0.16997186,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Delaware,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Delaware,2021,,0.29839872,0.3091356,0.49295023,0.63933436,0.94610634,0.78105361,0.85221917,0.72205519,0.34813473,0.29746954,0.40308832,0.10202998,0.07500617,0.08836163,0.23392235,0.16115084,0.43207754,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Delaware,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Delaware,2023,,0.3196905,0.2990403,0.4822581,0.6477919,0.9676495,0.7633035,0.8362169,0.6793668,0.3449855,0.2372168,0.4630148,0.0899787,0.0740478,0.0893401,0.2199921,0.1674544,0.4208777,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Florida,2000,-0.7089519,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2001,-0.82117486,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2002,-0.8391341,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2003,-0.8170245,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2004,-0.87926644,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2005,-1.1146891,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2006,-1.1144876,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2007,-0.88520104,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2008,-0.52069783,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2009,-0.09925018,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2010,0.00063159066,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Florida,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Florida,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Florida,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Florida,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Florida,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Florida,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Florida,2017,,0.22814825,0.19152846,0.43167192,0.50852623,0.953841,0.75184193,0.8144927,0.634576,0.3128348,0.1838238,0.4973954,0.0835449,0.0739699,0.0849563,0.2361771,0.1102821,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Florida,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Florida,2019,,0.24179211,0.21001489,0.41352124,0.46865842,0.9600402,0.67472528,0.77097421,0.62032335,0.27309675,0.18328715,0.53389176,0.07594785,0.07974082,0.08802153,0.17758983,0.09999829,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Florida,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Florida,2021,,0.15852759,0.1781889,0.36807879,0.44574935,0.9321793,0.64215172,0.76488786,0.62824969,0.27913405,0.20234896,0.54387099,0.07021876,0.08305094,0.06624098,0.15464978,0.10785292,0.29208886,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Florida,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Florida,2023,,0.2038833,0.2073132,0.3952212,0.4750128,0.9385329,0.6709053,0.7603147,0.6262947,0.262651,0.1776913,0.4960463,0.0629162,0.0576121,0.0839998,0.2130895,0.1276705,0.3070354,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Georgia,2000,-0.56638813,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2001,-0.4264061,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2002,-0.69746757,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2003,-0.81682414,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2004,-1.1158159,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2005,-1.6317403,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2006,-1.8060126,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2007,-1.7472975,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2008,-1.2898318,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2009,-0.74436057,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2010,-0.59059966,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Georgia,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Georgia,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Georgia,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Georgia,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Georgia,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Georgia,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Georgia,2017,,0.26504428,0.20928037,0.46000691,0.43373539,0.96957007,0.6656816,0.8394332,0.7106653,0.3030356,0.2209735,0.495337,0.0834497,0.0826908,0.101368,0.1725173,0.1234459,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Georgia,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Georgia,2019,,0.28188341,0.22030854,0.4813987,0.45097909,0.96063559,0.63924423,0.80108636,0.67278881,0.28696785,0.17740534,0.53616129,0.09226408,0.07284259,0.10495565,0.18319809,0.12850101,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Georgia,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Georgia,2021,,0.19887582,0.22374326,0.46011902,0.40780444,0.93630597,0.5800645,0.79284118,0.67482157,0.28374127,0.18453277,0.54898641,0.09562917,0.09780828,0.08185764,0.14532689,0.14428337,0.33192327,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Georgia,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Georgia,2023,,0.2562863,0.226441,0.4435365,0.4731008,0.9612912,0.6393305,0.8180411,0.7019295,0.2724387,0.1876799,0.5686822,0.0703395,0.0688813,0.1152183,0.2427384,0.1039982,0.3918816,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Hawaii,2000,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2001,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2002,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2003,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2004,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2005,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2006,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2007,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2008,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2009,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2010,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2017,,0.27989778,0.24364988,0.50502291,0.44554848,0.95269906,0.72425725,0.8497063,0.6511411,0.3139895,0.202259,0.4856606,0.1100213,0.0728004,0.0997593,0.1971287,0.1148189,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Hawaii,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2019,,0.32096253,0.27092258,0.49238077,0.44139588,0.96469333,0.65487619,0.85898929,0.67432702,0.28397371,0.15998313,0.51152393,0.09244406,0.05503709,0.10827886,0.1759008,0.1086652,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Hawaii,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2021,,0.19742954,0.22812675,0.44968553,0.43523234,0.96306797,0.64541265,0.87249951,0.69875335,0.27749956,0.13744508,0.58872074,0.07704385,0.06723976,0.06824231,0.12547505,0.10585138,0.33703757,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Hawaii,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Hawaii,2023,,0.2938612,0.2399288,0.5759759,0.4830341,0.9779126,0.6748865,0.903201,0.7572066,0.3091586,0.1711055,0.5516905,0.0768553,0.0737842,0.1003458,0.1532963,0.119596,0.388143,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Idaho,2000,0.6753745,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2001,0.027471619,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2002,0.09677018,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2003,0.055883244,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2004,0.2157273,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2005,0.45391,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2006,0.28696668,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2007,0.17927258,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2008,0.0045575825,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2009,0.16405754,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2010,0.1405778,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Idaho,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Idaho,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Idaho,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Idaho,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Idaho,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Idaho,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Idaho,2017,,0.37870817,0.34116028,0.55509002,0.61080733,0.97249277,0.77862897,0.8821404,0.7616861,0.3705848,0.2763773,0.5019038,0.1408804,0.1091318,0.1275454,0.2982488,0.1609591,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Idaho,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Idaho,2019,,0.34468853,0.32417629,0.53000733,0.57465472,0.95048512,0.70566833,0.81003919,0.65043816,0.28854642,0.18034042,0.47527916,0.11317558,0.10742329,0.11445748,0.23431278,0.15621068,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Idaho,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Idaho,2021,,0.28159126,0.27437575,0.57006046,0.54292441,0.94824149,0.65161874,0.81887639,0.70047356,0.2993659,0.21849516,0.55793833,0.15504036,0.11944485,0.13146354,0.2125218,0.22848171,0.33535381,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Idaho,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Idaho,2023,,0.3442451,0.3066974,0.5678562,0.6083057,0.9903874,0.7340771,0.8363163,0.7109272,0.3114263,0.1645053,0.5823279,0.1124712,0.0734893,0.1157762,0.2289621,0.236378,0.3492647,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Illinois,2000,-0.35150155,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2001,-0.4632666,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2002,-0.40656438,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2003,-0.21012083,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2004,0.08935194,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2005,0.33867782,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2006,0.34608254,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2007,0.33639953,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2008,0.14186239,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2009,0.21853377,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2010,0.16345502,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Illinois,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Illinois,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Illinois,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Illinois,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Illinois,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Illinois,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Illinois,2017,,0.2813788,0.26753731,0.55056639,0.49817588,0.98192756,0.76510116,0.8892601,0.7582901,0.3542524,0.2176982,0.5520322,0.1316593,0.0781043,0.1283496,0.2168195,0.1421073,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Illinois,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Illinois,2019,,0.33035833,0.31724402,0.56593534,0.57341423,0.98115485,0.76301078,0.90180734,0.72928383,0.32633149,0.20077546,0.56201555,0.11301642,0.07726987,0.13092664,0.24218053,0.17545446,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Illinois,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Illinois,2021,,0.28288199,0.29585206,0.56103872,0.55565087,0.97912092,0.74733133,0.90763941,0.73475921,0.3148696,0.17933369,0.54736587,0.1159154,0.10266162,0.09287339,0.20326906,0.1823315,0.44844343,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Illinois,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Illinois,2023,,0.3033569,0.2791279,0.5001169,0.5610323,0.9777904,0.7299092,0.807572,0.669291,0.2771119,0.1655653,0.5520218,0.1134532,0.079095,0.1245904,0.2284437,0.1651965,0.4114639,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Indiana,2000,-0.45717922,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2001,-0.45443088,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2002,-0.6487555,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2003,-0.4542538,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2004,-0.4983454,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2005,-0.22396094,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2006,-0.24934939,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2007,-0.3508891,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2008,-0.24967326,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2009,-0.18158159,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2010,-0.11932529,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Indiana,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Indiana,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Indiana,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Indiana,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Indiana,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Indiana,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Indiana,2017,,0.34935118,0.34313581,0.54489765,0.5252824,0.97637577,0.75391825,0.9130752,0.7294562,0.3179778,0.2607636,0.5676763,0.1296524,0.0947925,0.1146068,0.184707,0.1215896,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Indiana,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Indiana,2019,,0.34022085,0.32731028,0.50616598,0.55286978,0.95992703,0.71382479,0.83061006,0.68561716,0.27970098,0.19854521,0.48677076,0.1036507,0.05770026,0.09599642,0.18336101,0.15799587,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Indiana,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Indiana,2021,,0.27577933,0.29415511,0.52161211,0.52183255,0.98686974,0.7171472,0.83331594,0.69529293,0.29428383,0.21228987,0.62180048,0.1051025,0.08071895,0.0830913,0.1728152,0.17778404,0.40701163,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Indiana,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Indiana,2023,,0.3311045,0.2747553,0.4921511,0.5537536,0.9697555,0.7099258,0.7817834,0.6586375,0.2623498,0.1798266,0.4848908,0.091741,0.0425772,0.0763925,0.226217,0.1790207,0.4819412,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Iowa,2000,1.0548084,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2001,0.94996554,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2002,0.7631562,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2003,0.775194,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2004,0.62226737,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2005,1.016365,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2006,1.387748,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2007,1.1548764,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2008,0.90205324,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2009,1.0169079,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2010,0.97393554,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Iowa,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Iowa,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Iowa,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Iowa,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Iowa,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Iowa,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Iowa,2017,,0.41530143,0.36337666,0.53525509,0.56688778,0.98082909,0.77646143,0.9048751,0.7371912,0.3321877,0.2440435,0.4142083,0.1681613,0.0684564,0.1341312,0.2487875,0.1551503,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Iowa,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Iowa,2019,,0.33122758,0.31785856,0.53522066,0.56607054,0.97912057,0.73227105,0.91236085,0.66621188,0.28634098,0.17673944,0.56107153,0.12392003,0.06437068,0.1164171,0.22415909,0.14086313,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Iowa,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Iowa,2021,,0.29927423,0.28692344,0.58219576,0.60267107,0.95300226,0.75655015,0.88578956,0.72493729,0.34442465,0.2652652,0.55132486,0.11555719,0.08355186,0.11488531,0.19970883,0.17919618,0.44953143,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Iowa,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Iowa,2023,,0.354776,0.2619836,0.5010436,0.6331382,0.9705474,0.7466364,0.8148581,0.6545656,0.3333996,0.1852262,0.5177952,0.0826348,0.0770676,0.1027764,0.1943748,0.1997588,0.4640196,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Kansas,2000,0.5324404,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2001,0.8539755,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2002,1.0807765,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2003,0.6827404,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2004,0.59226674,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2005,0.83708924,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2006,-0.007862959,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2007,-0.0017861257,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2008,0.018705947,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2009,0.50514984,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2010,0.5708638,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kansas,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Kansas,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Kansas,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Kansas,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Kansas,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Kansas,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Kansas,2017,,0.36546181,0.32464407,0.65116849,0.54075753,0.98842573,0.78218894,0.8805324,0.7220609,0.306469,0.1985297,0.5191072,0.1329367,0.0979184,0.1188654,0.2451161,0.1623082,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Kansas,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Kansas,2019,,0.33986693,0.35309939,0.59855519,0.58613764,0.97907038,0.74988763,0.86937294,0.68141223,0.26728222,0.20099732,0.51560791,0.13176145,0.08254519,0.11400486,0.20680385,0.18984339,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Kansas,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Kansas,2021,,0.31538896,0.33411679,0.5400723,0.57602773,0.96439248,0.65929601,0.80951458,0.74228159,0.31008896,0.21729258,0.51893969,0.11878411,0.10217134,0.08352137,0.15469158,0.19021949,0.39275762,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Kansas,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Kansas,2023,,0.3958573,0.3447054,0.5436128,0.5839795,0.9670317,0.7097895,0.8432988,0.6747369,0.2718151,0.1441977,0.5756234,0.1179036,0.0686941,0.1197777,0.205605,0.2418024,0.4586012,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Kentucky,2000,-0.5966758,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2001,-0.58833456,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2002,-0.7146099,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2003,-0.70715386,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2004,-1.0158132,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2005,-1.4173043,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2006,-1.3604358,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2007,-1.2685738,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2008,-0.65975577,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2009,-0.95963496,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2010,-0.7940184,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Kentucky,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Kentucky,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Kentucky,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Kentucky,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Kentucky,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Kentucky,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Kentucky,2017,,0.28124294,0.25792049,0.50948549,0.51236584,0.9755437,0.74912813,0.8635527,0.6990833,0.3287755,0.2174517,0.5959595,0.113596,0.0558025,0.0921599,0.1589614,0.1194561,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Kentucky,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Kentucky,2019,,0.2621657,0.22292474,0.45005949,0.53035611,0.94973971,0.7309359,0.76408786,0.5965841,0.30118871,0.19108117,0.53811223,0.09871976,0.06369135,0.07358862,0.17681849,0.11895585,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Kentucky,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Kentucky,2021,,0.22617792,0.20149304,0.44737321,0.51098844,0.96578694,0.70979831,0.83847457,0.70785151,0.30398207,0.21265617,0.66053682,0.08975766,0.0554423,0.05942973,0.12661171,0.15923537,0.37127954,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Kentucky,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Kentucky,2023,,0.2747921,0.2286845,0.4785626,0.5129475,0.9898289,0.6865567,0.7770633,0.6514941,0.3023778,0.2063319,0.5538096,0.093898,0.0673744,0.060027,0.1597311,0.1506155,0.4253424,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Louisiana,2000,-0.2483714,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2001,-0.48532888,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2002,-0.47869965,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2003,-0.8854956,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2004,-0.9999232,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2005,-1.2141705,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2006,-1.3289975,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2007,-1.1881876,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2008,-1.1625222,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2009,-0.8788332,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2010,-0.88016266,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Louisiana,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Louisiana,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Louisiana,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Louisiana,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Louisiana,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Louisiana,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Louisiana,2017,,0.25780475,0.21899219,0.45340704,0.50384227,0.97010959,0.72690595,0.8263981,0.6461491,0.3215135,0.1843754,0.5952672,0.0970793,0.0523127,0.0773329,0.1858504,0.0958368,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Louisiana,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Louisiana,2019,,0.27778419,0.24092167,0.49955036,0.52502026,0.97208594,0.71696723,0.79991897,0.62679644,0.29149428,0.15531746,0.64611242,0.10332548,0.08078874,0.081548,0.19953995,0.08785965,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Louisiana,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Louisiana,2021,,0.2190358,0.19594653,0.4176888,0.53415553,0.95862123,0.70433125,0.79209678,0.63409895,0.32135967,0.14942434,0.59543199,0.09129617,0.06583593,0.05664447,0.20139504,0.12622781,0.30463685,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Louisiana,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Louisiana,2023,,0.2354244,0.1809529,0.42808,0.5151769,0.9362135,0.6408689,0.7015591,0.5848886,0.2907194,0.1591138,0.5968817,0.083493,0.0770982,0.0571435,0.220996,0.1124524,0.3641158,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Maine,2000,0.62355804,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2001,0.85607743,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2002,0.6315155,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2003,0.5502542,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2004,0.9459431,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2005,1.3406622,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2006,1.5452769,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2007,1.6071684,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2008,1.7921981,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2009,2.2253163,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2010,2.3042493,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maine,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Maine,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Maine,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Maine,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Maine,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Maine,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Maine,2017,,0.38689002,0.34233387,0.5563046,0.56774533,0.99292028,0.79336898,0.9431545,0.8385802,0.4127558,0.2456646,0.6300678,0.2220638,0.1280125,0.1911995,0.2717165,0.1931795,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Maine,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Maine,2019,,0.35695628,0.32972695,0.54248543,0.62138578,0.98411877,0.75233417,0.86568196,0.76245429,0.34873133,0.24841195,0.60598503,0.16201278,0.09201213,0.18442511,0.24493433,0.18466622,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Maine,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Maine,2021,,0.34884062,0.38698686,0.53022464,0.65039238,0.9759434,0.76430847,0.89390777,0.78831917,0.3846516,0.2122764,0.61467448,0.17361045,0.10409593,0.19066729,0.23279294,0.25142793,0.39797294,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Maine,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Maine,2023,,0.3489662,0.3115403,0.5068201,0.6202756,0.9775603,0.7303666,0.8621936,0.7013593,0.3331522,0.1745242,0.5578518,0.1333032,0.0480925,0.1735775,0.278691,0.2675441,0.4502601,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Maryland,2000,0.23695242,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2001,-0.038138207,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2002,-0.09445297,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2003,0.017455213,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2004,0.1912562,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2005,0.37171474,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2006,0.22385907,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2007,0.25022498,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2008,0.24013533,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2009,0.4278672,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2010,0.43769956,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Maryland,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Maryland,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Maryland,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Maryland,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Maryland,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Maryland,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Maryland,2017,,0.36292874,0.32814127,0.58321813,0.52023232,0.96854261,0.75386306,0.8869296,0.7986631,0.3589434,0.2560599,0.6001404,0.1425481,0.12156,0.1227329,0.2452266,0.2093233,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Maryland,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Maryland,2019,,0.34009924,0.31575205,0.59318532,0.56696801,0.97900681,0.75445201,0.87845992,0.79307426,0.34715609,0.19302727,0.61194644,0.11348295,0.07249035,0.14057282,0.28672013,0.1943536,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Maryland,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Maryland,2021,,0.23654208,0.25228275,0.47359515,0.4933578,0.93757815,0.69692118,0.81918779,0.74828229,0.33132651,0.21775243,0.53360113,0.11266653,0.10961716,0.07481676,0.19297783,0.21244761,0.47433025,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Maryland,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Maryland,2023,,0.3283893,0.3095643,0.568483,0.5556601,0.982857,0.7445281,0.8431816,0.7307475,0.3422718,0.1989562,0.5977637,0.0786609,0.0958266,0.1048329,0.2777651,0.1741371,0.493873,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Massachusetts,2000,1.3070201,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2001,1.3255246,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2002,1.2117466,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2003,0.9659399,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2004,0.47937775,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2005,0.37645856,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2006,0.17153542,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2007,0.31130633,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2008,0.50270575,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2009,0.64904994,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2010,0.7083583,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Massachusetts,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Massachusetts,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Massachusetts,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Massachusetts,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Massachusetts,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Massachusetts,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Massachusetts,2017,,0.32564013,0.30474481,0.58029375,0.549903,0.98194503,0.80594141,0.9307097,0.7544061,0.3347727,0.1841889,0.5216451,0.1475448,0.1289343,0.1562453,0.223462,0.1662466,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Massachusetts,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Massachusetts,2019,,0.30675772,0.27856888,0.52574627,0.56046372,0.98202426,0.73056641,0.86519776,0.67108041,0.29832548,0.17234708,0.53930337,0.10544256,0.09440868,0.12448769,0.22623615,0.170836,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Massachusetts,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Massachusetts,2021,,0.23081155,0.25200082,0.53913543,0.52645446,0.96996652,0.69246152,0.87754858,0.7310059,0.33907628,0.19938953,0.52554022,0.11853311,0.14906835,0.10898658,0.19610451,0.2296398,0.35136889,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Massachusetts,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Massachusetts,2023,,0.3313904,0.3092543,0.5487855,0.5696181,0.9845978,0.7462595,0.9228348,0.7441134,0.322046,0.1800508,0.5239631,0.1117414,0.0921113,0.1404696,0.2189511,0.1890052,0.4346324,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Michigan,2000,0.09639942,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2001,-0.022761771,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2002,-0.07840959,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2003,-0.056865655,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2004,-0.071465686,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2005,0.2235123,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2006,0.073105365,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2007,0.13503958,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2008,-0.05734316,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2009,0.044844825,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2010,-0.0074615725,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Michigan,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Michigan,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Michigan,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Michigan,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Michigan,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Michigan,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Michigan,2017,,0.29403323,0.28733228,0.49334452,0.57683498,0.97972592,0.77402259,0.8665277,0.7073191,0.3034547,0.1875044,0.5248193,0.1196616,0.0631918,0.1048763,0.1957774,0.1445513,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Michigan,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Michigan,2019,,0.30169724,0.30971456,0.4690141,0.5582353,0.9681286,0.70684705,0.79953825,0.66208862,0.29131505,0.17297706,0.56639117,0.09988635,0.06981344,0.11656146,0.20204934,0.139089,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Michigan,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Michigan,2021,,0.24398659,0.27362416,0.51631686,0.56074394,0.97619237,0.71484068,0.86696887,0.71154928,0.30091471,0.19385053,0.56170033,0.10482525,0.08916545,0.09588632,0.19237831,0.17702856,0.41940707,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Michigan,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Michigan,2023,,0.2642445,0.2355046,0.4960683,0.5740782,0.9759385,0.7212675,0.8293612,0.6875547,0.26898,0.1595216,0.5740484,0.093485,0.0508751,0.0881404,0.1861855,0.2114596,0.4198919,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Minnesota,2000,1.1837246,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2001,1.0799118,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2002,0.89561284,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2003,0.8906128,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2004,0.7140907,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2005,1.0667335,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2006,1.431789,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2007,1.1932732,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2008,0.9356183,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2009,1.0656945,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2010,1.0211697,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Minnesota,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Minnesota,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Minnesota,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Minnesota,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Minnesota,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Minnesota,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Minnesota,2017,,0.45116657,0.35870583,0.64703899,0.61318157,0.98359423,0.83732983,0.9161698,0.7891133,0.4077391,0.2224391,0.6666013,0.1874927,0.1115024,0.1286713,0.2408918,0.2090047,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Minnesota,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Minnesota,2019,,0.40093765,0.34069039,0.60169262,0.62291241,0.98992917,0.82611821,0.89393636,0.78792228,0.39730627,0.17947346,0.59414377,0.1453525,0.09257858,0.13488137,0.29692852,0.18674277,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Minnesota,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Minnesota,2021,,0.35489254,0.3353425,0.61775596,0.61916506,0.98819817,0.78757049,0.91851136,0.78395932,0.4049223,0.2375031,0.65164729,0.11655054,0.1292496,0.09736518,0.26058904,0.22474372,0.40154312,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Minnesota,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Minnesota,2023,,0.4029917,0.3508036,0.5716034,0.6339486,0.9856388,0.7745323,0.885796,0.7010559,0.3513875,0.1806093,0.668636,0.1456697,0.0797631,0.1131333,0.3011619,0.2750256,0.4641532,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Mississippi,2000,-1.0465691,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2001,-1.1392922,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2002,-0.7375152,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2003,-0.9542964,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2004,-0.76895607,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2005,-1.3626068,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2006,-1.5451354,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2007,-1.7188159,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2008,-1.5601611,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2009,-1.5263942,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2010,-1.4666905,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Mississippi,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Mississippi,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Mississippi,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Mississippi,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Mississippi,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Mississippi,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Mississippi,2017,,0.23833098,0.19564879,0.46351259,0.48317667,0.95945047,0.74206472,0.8158142,0.6934069,0.3993691,0.187285,0.5677207,0.0881205,0.0463986,0.0843762,0.1840932,0.0626692,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Mississippi,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Mississippi,2019,,0.26032615,0.21594784,0.41434822,0.47358481,0.97547598,0.67727725,0.78693755,0.64032128,0.32827184,0.18222831,0.57348466,0.07156445,0.05704206,0.07780164,0.20121192,0.08023789,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Mississippi,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Mississippi,2021,,0.21195247,0.20856263,0.40910344,0.48027202,0.9549924,0.69938841,0.7972024,0.66490119,0.32290698,0.20199603,0.6048193,0.07486281,0.05506043,0.07700224,0.18099313,0.08571899,0.35027621,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Mississippi,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Mississippi,2023,,0.2087319,0.1778672,0.3734448,0.5029195,0.9592756,0.7002829,0.7447251,0.6153699,0.3695614,0.199771,0.5883937,0.0516407,0.0671889,0.0900227,0.2087051,0.063121,0.3468245,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Missouri,2000,0.22246704,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2001,-0.20203094,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2002,-0.19707197,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2003,-0.23735689,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2004,-0.0073209107,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2005,-0.12043203,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2006,0.2890751,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2007,0.059948742,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2008,0.26897424,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2009,0.038319528,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2010,0.11245973,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Missouri,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Missouri,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Missouri,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Missouri,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Missouri,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Missouri,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Missouri,2017,,0.31938774,0.29283881,0.55210218,0.55489725,0.98112799,0.77916345,0.8917086,0.7751315,0.3952475,0.2473063,0.5164427,0.1283128,0.0917484,0.1207929,0.2219312,0.1538985,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Missouri,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Missouri,2019,,0.36508881,0.30640809,0.53854403,0.52266598,0.98164524,0.73094643,0.8402004,0.67329139,0.26914488,0.23935997,0.55123203,0.13664126,0.07931041,0.12192666,0.22133856,0.17713786,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Missouri,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Missouri,2021,,0.30456261,0.28283995,0.5501034,0.54214467,0.9729929,0.72458724,0.84288899,0.71177364,0.28461671,0.20341221,0.52474616,0.09479432,0.07002098,0.06966072,0.16297474,0.18183048,0.40775195,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Missouri,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Missouri,2023,,0.2975348,0.261778,0.484147,0.5931834,0.9897813,0.7646393,0.8630609,0.7365629,0.2974276,0.1894349,0.482103,0.0978626,0.049002,0.1054941,0.2037654,0.189013,0.3776501,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Montana,2000,0.90483916,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2001,0.26820493,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2002,0.3393434,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2003,0.29223153,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2004,0.43339324,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2005,0.62135017,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2006,0.4427594,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2007,0.33351782,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2008,0.17090295,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2009,0.33986005,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2010,0.31943148,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Montana,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Montana,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Montana,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Montana,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Montana,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Montana,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Montana,2017,,0.38836436,0.35725277,0.53513704,0.67151461,0.98379644,0.84232068,0.9265905,0.8165256,0.4468371,0.2589331,0.6548078,0.1966093,0.1001249,0.1592749,0.2806985,0.2226752,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Montana,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Montana,2019,,0.37436206,0.35214448,0.54566309,0.65015036,0.97623914,0.78827092,0.89076868,0.77716146,0.36768702,0.22114662,0.6366024,0.16831816,0.1155262,0.13052822,0.24865749,0.20476158,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Montana,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Montana,2021,,0.31058638,0.28988958,0.56712328,0.68842755,0.97507205,0.80067305,0.87475245,0.7851616,0.36598715,0.21533859,0.68077056,0.18675351,0.10823271,0.12400504,0.22478424,0.27608876,0.33820501,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Montana,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Montana,2023,,0.372431,0.2991183,0.6049268,0.6797378,0.9894425,0.7912442,0.856099,0.7062883,0.3415738,0.1616198,0.6421627,0.197213,0.096558,0.1359065,0.2814832,0.298413,0.4293718,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Nebraska,2000,0.54551005,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2001,0.8665293,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2002,1.089606,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2003,0.694363,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2004,0.6084112,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2005,0.8439925,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2006,0.0077333916,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2007,0.01792664,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2008,0.046502993,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2009,0.5181863,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2010,0.5847717,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nebraska,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Nebraska,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Nebraska,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Nebraska,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Nebraska,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Nebraska,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Nebraska,2017,,0.40153343,0.36458901,0.58784827,0.54545211,0.97633317,0.7925661,0.8726935,0.7430351,0.3718222,0.2092999,0.6297383,0.1612301,0.0671143,0.1375539,0.2952576,0.1641208,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Nebraska,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Nebraska,2019,,0.43543866,0.39518611,0.61159253,0.61304369,0.98288321,0.76489811,0.87209729,0.71594229,0.29720821,0.18614993,0.53956065,0.14094562,0.07223675,0.10557768,0.22428914,0.19306707,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Nebraska,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Nebraska,2021,,0.33902542,0.32153113,0.61138524,0.66364382,0.98372936,0.78574105,0.88263074,0.79534292,0.38142607,0.21725904,0.68378022,0.15707931,0.05586343,0.10898049,0.2354024,0.24128004,0.45638446,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Nebraska,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Nebraska,2023,,0.4032386,0.3429598,0.5671687,0.6118664,0.97684,0.7356463,0.8828589,0.717215,0.2841304,0.1596346,0.6121173,0.1178879,0.0657673,0.1106478,0.2462333,0.2434585,0.4898885,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Nevada,2000,0.064262755,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2001,-0.019935897,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2002,-0.18777846,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2003,-0.109523304,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2004,-0.46853673,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2005,-0.23427126,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2006,-0.46369326,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2007,-0.30665714,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2008,-0.18963212,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2009,0.33557826,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2010,0.39459512,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Nevada,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Nevada,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Nevada,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Nevada,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Nevada,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Nevada,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Nevada,2017,,0.24354774,0.22916635,0.45555745,0.43173073,0.96343292,0.65653347,0.8437814,0.6740802,0.24815,0.1950657,0.4011292,0.1023971,0.0736151,0.0904063,0.1343759,0.1174041,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Nevada,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Nevada,2019,,0.21782388,0.17382791,0.37430248,0.44529539,0.96989081,0.64629333,0.79836551,0.74644147,0.27212629,0.19909633,0.44637321,0.07997486,0.03809792,0.0767203,0.16493624,0.1380584,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Nevada,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Nevada,2021,,0.16829928,0.20986168,0.41340125,0.36716666,0.95267662,0.59593554,0.80207962,0.70519061,0.21060456,0.24522542,0.53478311,0.10234665,0.09648386,0.06508234,0.13001757,0.1674841,0.3218617,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Nevada,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Nevada,2023,,0.1856878,0.1729108,0.3387454,0.457395,0.9752004,0.6452878,0.7852801,0.7330632,0.2995134,0.1603958,0.5433767,0.0673613,0.0448197,0.0759096,0.1691719,0.141846,0.3394621,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Hampshire,2000,0.6307299,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2001,0.8694762,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2002,0.6457345,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2003,0.56008303,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2004,0.94261014,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2005,1.3283079,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2006,1.5318563,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2007,1.6111801,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2008,1.8073212,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2009,2.2467449,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2010,2.3271406,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Hampshire,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+New Hampshire,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+New Hampshire,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+New Hampshire,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+New Hampshire,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+New Hampshire,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+New Hampshire,2017,,0.35698711,0.31499605,0.65552375,0.5431169,0.98885182,0.75960245,0.902519,0.7512665,0.347238,0.1739601,0.535324,0.1663908,0.1023026,0.1609351,0.2309315,0.1439188,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Hampshire,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+New Hampshire,2019,,0.32210938,0.33168781,0.59570566,0.58505195,0.99698762,0.70933865,0.87214871,0.73798696,0.30050184,0.18652031,0.55052082,0.11717473,0.08053191,0.18494154,0.27430881,0.17773005,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Hampshire,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+New Hampshire,2021,,0.27915103,0.2942177,0.59374652,0.52449016,0.96717287,0.67566794,0.84319079,0.75868583,0.33897372,0.17831218,0.53719904,0.11958216,0.08753665,0.11903574,0.21249521,0.20876937,0.39398832,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Hampshire,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+New Hampshire,2023,,0.2963946,0.2966554,0.5840593,0.5974772,0.9829012,0.7037384,0.8797522,0.695236,0.3045623,0.1731942,0.5224911,0.1171877,0.0555248,0.164519,0.2283486,0.2606235,0.4846367,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Jersey,2000,-0.0416767,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2001,-0.0763012,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2002,-0.053308934,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2003,0.21079783,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2004,0.10892465,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2005,0.17818774,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2006,-0.061680224,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2007,-0.07624923,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2008,-0.06637413,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2009,0.07292936,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2010,0.09364901,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Jersey,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+New Jersey,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+New Jersey,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+New Jersey,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+New Jersey,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+New Jersey,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+New Jersey,2017,,0.26134699,0.25193276,0.55811686,0.49423955,0.97510278,0.78751871,0.8859757,0.7246901,0.3756158,0.2167548,0.4875354,0.0926346,0.085062,0.117087,0.1999109,0.1153605,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Jersey,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+New Jersey,2019,,0.26147236,0.26506766,0.54415958,0.48930539,0.94270188,0.67362881,0.79571285,0.62656215,0.29058914,0.15732016,0.56351581,0.09409263,0.08188676,0.09659196,0.21145387,0.13483937,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Jersey,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+New Jersey,2021,,0.19908339,0.18033374,0.51101752,0.46975209,0.95177572,0.67868456,0.80355559,0.64154925,0.2976749,0.19085963,0.50824103,0.06492564,0.07801217,0.06298165,0.20945117,0.11593948,0.36482555,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Jersey,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+New Jersey,2023,,0.2565836,0.2279223,0.5712183,0.5436478,0.9770966,0.697782,0.8209287,0.6680069,0.2623517,0.1335098,0.5663548,0.0878705,0.0920158,0.1119282,0.2326863,0.1387715,0.4245964,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Mexico,2000,0.1034791,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2001,0.019376926,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2002,-0.13155778,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2003,-0.032605432,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2004,-0.39375812,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2005,-0.1956621,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2006,-0.44217017,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2007,-0.2877621,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2008,-0.17633797,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2009,0.3491247,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2010,0.40549105,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New Mexico,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+New Mexico,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+New Mexico,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+New Mexico,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+New Mexico,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+New Mexico,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+New Mexico,2017,,0.27053585,0.22018929,0.44143208,0.44095466,0.97591039,0.69577369,0.8655164,0.6530395,0.2689356,0.2009949,0.4913743,0.1221467,0.0953354,0.1225264,0.1525547,0.1277137,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Mexico,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+New Mexico,2019,,0.27748398,0.26338741,0.4267782,0.47541095,0.9675947,0.63659619,0.78579994,0.66434406,0.28600783,0.20572252,0.53964134,0.1080011,0.10402336,0.10692144,0.19326837,0.16848232,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Mexico,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+New Mexico,2021,,0.19674798,0.20312318,0.44313866,0.46188433,0.9815966,0.60889322,0.83718454,0.66032022,0.24750775,0.20710486,0.54351447,0.09074703,0.12486175,0.08244639,0.13581958,0.20756494,0.34551779,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New Mexico,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+New Mexico,2023,,0.2025419,0.1908333,0.3737651,0.4769614,0.988205,0.6130272,0.8010169,0.6500532,0.2419373,0.2046279,0.5399778,0.0925307,0.0645885,0.0912288,0.1378476,0.1875549,0.3749662,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New York,2000,-0.48124006,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2001,-0.3428209,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2002,-0.33825877,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2003,-0.29822472,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2004,-0.374484,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2005,-0.41002175,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2006,-0.48349676,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2007,-0.4722245,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2008,-0.370304,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2009,-0.11884115,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2010,-0.07471633,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+New York,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+New York,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+New York,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+New York,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+New York,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+New York,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+New York,2017,,0.2528168,0.25816271,0.48389429,0.4527826,0.96665927,0.73939847,0.855072,0.7219647,0.3622894,0.2392143,0.4506881,0.1069947,0.1325347,0.1218112,0.2097878,0.1111442,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New York,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+New York,2019,,0.22652851,0.21990095,0.45360457,0.44584969,0.97605481,0.67127917,0.84723699,0.68008395,0.27902682,0.18350259,0.51575567,0.07184894,0.08220932,0.08809593,0.18442125,0.11894185,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New York,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+New York,2021,,0.21718866,0.24035216,0.47662515,0.45147087,0.96226142,0.67676699,0.86153251,0.70463536,0.3280468,0.20032793,0.55683174,0.10176432,0.12445267,0.08595312,0.20376996,0.17385941,0.30185951,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+New York,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+New York,2023,,0.2550391,0.2394091,0.4399939,0.5100803,0.9604568,0.7136781,0.8398138,0.7237164,0.3216264,0.1857922,0.5222987,0.0750862,0.0854178,0.0946931,0.241832,0.1601508,0.3922215,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+North Carolina,2000,-0.4601851,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2001,-0.6034974,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2002,-0.645136,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2003,-0.39129576,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2004,-0.6956486,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2005,-0.8149792,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2006,-1.235501,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2007,-1.1269634,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2008,-0.99793184,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2009,-0.711547,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2010,-0.66248596,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Carolina,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+North Carolina,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+North Carolina,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+North Carolina,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+North Carolina,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+North Carolina,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+North Carolina,2017,,0.35051712,0.32228469,0.54684498,0.53669804,0.97268254,0.74797169,0.8829354,0.7309299,0.3461189,0.1957815,0.5938,0.1091805,0.0783319,0.0999095,0.2492981,0.1442038,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+North Carolina,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+North Carolina,2019,,0.3038213,0.26073795,0.49899212,0.48654672,0.9674202,0.67520113,0.8147749,0.64105203,0.27576665,0.14443646,0.49430739,0.08296738,0.06329279,0.08089007,0.21950543,0.10415863,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+North Carolina,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+North Carolina,2021,,0.2282671,0.24778925,0.47601488,0.48425029,0.97749516,0.68886905,0.81617164,0.69406903,0.30371981,0.18328516,0.59252708,0.0663124,0.06915701,0.06227292,0.19555747,0.16110736,0.37244956,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+North Carolina,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+North Carolina,2023,,0.2488197,0.2075656,0.4644727,0.4926466,0.9592662,0.6719733,0.8151438,0.6206004,0.2595355,0.1403145,0.4992506,0.0687617,0.0629452,0.0858877,0.2330959,0.1908364,0.3814309,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+North Dakota,2000,0.47298247,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2001,0.49062276,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2002,0.386986,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2003,1.4730353,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2004,0.38307875,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2005,0.18834068,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2006,-0.50083214,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2007,0.09975389,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2008,-0.22045925,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2009,0.14963807,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2010,-0.010279079,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+North Dakota,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+North Dakota,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+North Dakota,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+North Dakota,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+North Dakota,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+North Dakota,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+North Dakota,2017,,0.37448269,0.39655372,0.62643851,0.65165202,0.98010682,0.83210397,0.9044287,0.7721037,0.4294619,0.2129954,0.5809523,0.1463059,0.0713531,0.1396124,0.2548571,0.1564132,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+North Dakota,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+North Dakota,2019,,0.32885308,0.30739005,0.58137318,0.57601248,0.97885635,0.7772733,0.88276796,0.70455108,0.28649663,0.19446672,0.57397988,0.10772804,0.08449331,0.11635104,0.23743503,0.12362729,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+North Dakota,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+North Dakota,2021,,0.26922705,0.32324039,0.56678046,0.50295313,0.95925801,0.68774666,0.84312103,0.68818191,0.31191539,0.21290187,0.62970358,0.11319872,0.08835755,0.08353484,0.1821813,0.13709383,0.38264536,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+North Dakota,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+North Dakota,2023,,0.307131,0.2805086,0.5403471,0.5588594,0.9927807,0.7262943,0.8695069,0.6697831,0.320063,0.1593586,0.5639775,0.1098363,0.0517352,0.110057,0.2175097,0.1632623,0.4357009,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Ohio,2000,0.42608163,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2001,0.11333313,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2002,-0.036153987,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2003,0.1124016,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2004,0.14786118,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2005,-0.10240026,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2006,-0.2283861,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2007,-0.37378734,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2008,-0.37676594,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2009,-0.42187968,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2010,-0.4141867,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Ohio,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Ohio,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Ohio,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Ohio,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Ohio,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Ohio,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Ohio,2017,,0.33241484,0.32195317,0.59253038,0.57407558,0.99283679,0.77486455,0.8923829,0.7178925,0.3045338,0.202736,0.6049861,0.1209843,0.0877901,0.0930237,0.2080478,0.1371931,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Ohio,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Ohio,2019,,0.37109961,0.29255624,0.55042832,0.57441297,0.99007993,0.72920035,0.87190802,0.70000023,0.25906632,0.18392221,0.58385369,0.10866969,0.07412945,0.10097103,0.21698544,0.17355688,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Ohio,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Ohio,2021,,0.24331951,0.26656427,0.47131828,0.54761728,0.96302878,0.70718718,0.83445429,0.6853713,0.28408325,0.22683781,0.52484713,0.09532149,0.08209516,0.07021941,0.16830844,0.17354368,0.35677987,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Ohio,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Ohio,2023,,0.3025302,0.2720969,0.5285703,0.5793953,0.980982,0.7263577,0.8344554,0.7056726,0.2772151,0.1955158,0.5405091,0.0963562,0.0650797,0.0840211,0.2156259,0.2329911,0.4238931,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Oklahoma,2000,-0.22781093,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2001,-0.46671903,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2002,-0.4540705,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2003,-0.86960655,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2004,-0.9929481,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2005,-1.2135859,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2006,-1.3290353,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2007,-1.1927437,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2008,-1.1734543,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2009,-0.86993706,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2010,-0.8721161,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oklahoma,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Oklahoma,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Oklahoma,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Oklahoma,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Oklahoma,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Oklahoma,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Oklahoma,2017,,0.32037319,0.29396047,0.53809811,0.50500301,0.97028175,0.72081077,0.8701991,0.6770281,0.2804297,0.1847322,0.4489818,0.1272064,0.082526,0.1089681,0.1906714,0.1274576,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Oklahoma,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Oklahoma,2019,,0.27606393,0.25828801,0.45802363,0.46917261,0.9690604,0.6443486,0.82635992,0.62964601,0.22133756,0.22083377,0.45322078,0.09437459,0.07365792,0.07797858,0.18172763,0.14116427,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Oklahoma,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Oklahoma,2021,,0.23621986,0.20986963,0.46504042,0.52184068,0.97348644,0.6487673,0.7683007,0.62618589,0.22169617,0.1688107,0.47007047,0.10805134,0.07177506,0.07052644,0.16535798,0.14882576,0.33759433,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Oklahoma,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Oklahoma,2023,,0.3149675,0.2452796,0.5012917,0.5266026,0.9688581,0.6498901,0.7645308,0.6221232,0.2060251,0.1588814,0.4546495,0.0894622,0.0456778,0.0820493,0.1573978,0.1449035,0.4079165,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Oregon,2000,0.493176,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2001,0.52466166,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2002,0.38046592,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2003,0.45681,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2004,0.68543863,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2005,1.1498452,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2006,1.1859359,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2007,1.1615982,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2008,1.1287297,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2009,1.6148106,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2010,1.6427376,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Oregon,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Oregon,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Oregon,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Oregon,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Oregon,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Oregon,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Oregon,2017,,0.4322077,0.43077104,0.6219264,0.61912529,0.98916408,0.84599206,0.9376312,0.8018609,0.3979009,0.2858305,0.6314216,0.2132499,0.1575481,0.1749,0.3269492,0.2866647,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Oregon,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Oregon,2019,,0.37031248,0.35183017,0.61123315,0.59668257,0.98294558,0.7755036,0.90324257,0.75464279,0.29592773,0.18385013,0.61633145,0.13138938,0.10186798,0.10732057,0.24483574,0.24588078,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Oregon,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Oregon,2021,,0.28016146,0.32746886,0.57445971,0.57655684,0.98946302,0.73477698,0.87657733,0.77149913,0.33951671,0.20326408,0.71855218,0.1300878,0.149329,0.1023618,0.2032834,0.33719545,0.39285565,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Oregon,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Oregon,2023,,0.3571135,0.3331852,0.5519044,0.6133663,0.9848956,0.7628352,0.858066,0.7301707,0.3244913,0.1924424,0.6808588,0.1113964,0.0942987,0.0877989,0.2855176,0.3210065,0.4516519,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Pennsylvania,2000,0.06861814,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2001,-0.11080259,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2002,-0.037867166,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2003,0.08736683,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2004,0.11494533,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2005,0.44551405,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2006,0.08252591,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2007,-0.07254009,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2008,-0.18167527,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2009,0.08635531,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2010,0.105661936,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Pennsylvania,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Pennsylvania,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Pennsylvania,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Pennsylvania,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Pennsylvania,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Pennsylvania,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Pennsylvania,2017,,0.34173133,0.33418891,0.59824221,0.58905956,0.98750284,0.80397998,0.9156589,0.7151546,0.3368866,0.1859041,0.5405192,0.1276632,0.0735791,0.0987126,0.2208829,0.1569402,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Pennsylvania,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Pennsylvania,2019,,0.35812691,0.36157822,0.5947072,0.59208379,0.98858485,0.77822184,0.91453903,0.71528581,0.30379719,0.20344467,0.57710808,0.14037539,0.09843909,0.10815114,0.2270007,0.19600354,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Pennsylvania,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Pennsylvania,2021,,0.25649718,0.30228889,0.51894225,0.60115809,0.98355587,0.77785862,0.85507514,0.71953586,0.32375124,0.21895569,0.5624264,0.10865707,0.09977528,0.08291058,0.20044999,0.20040924,0.37014301,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Pennsylvania,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Pennsylvania,2023,,0.3097293,0.2950256,0.5466574,0.6225988,0.9794507,0.7384794,0.8209001,0.6847185,0.311881,0.1670633,0.5434263,0.1065845,0.069969,0.0934404,0.2340938,0.1861096,0.4267631,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Rhode Island,2000,1.0679702,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2001,0.93843067,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2002,0.78565437,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2003,0.4485859,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2004,0.3874519,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2005,0.39142534,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2006,0.39447346,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2007,0.54304516,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2008,0.6219376,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2009,0.7151378,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2010,0.72802395,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Rhode Island,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Rhode Island,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Rhode Island,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Rhode Island,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Rhode Island,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Rhode Island,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Rhode Island,2017,,0.30709283,0.28687654,0.60604052,0.53788033,0.98358893,0.78037818,0.8824526,0.6898821,0.3014501,0.1956084,0.5247677,0.1748294,0.0882726,0.1565902,0.1625853,0.1354054,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Rhode Island,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Rhode Island,2019,,0.25608453,0.2578654,0.60185443,0.55508322,0.99663907,0.74882951,0.85071836,0.67770695,0.27096895,0.1832852,0.60886737,0.13577744,0.10532647,0.15703769,0.20428661,0.16326565,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Rhode Island,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Rhode Island,2021,,0.20142134,0.27001254,0.54363833,0.52796658,0.94429876,0.72124041,0.9067157,0.74640362,0.35787792,0.24187126,0.54769558,0.12529204,0.09100631,0.09571854,0.1513157,0.20214235,0.36368649,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Rhode Island,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Rhode Island,2023,,0.1847029,0.2264467,0.5041363,0.5883638,0.9699397,0.7205121,0.839758,0.6738869,0.3241543,0.136592,0.4631124,0.0880643,0.0754742,0.0850868,0.1331524,0.1680018,0.3746112,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+South Carolina,2000,-0.5341958,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2001,-0.6822508,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2002,-0.73030216,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2003,-0.4762038,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2004,-0.7722584,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2005,-0.8581421,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2006,-1.2635895,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2007,-1.1575766,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2008,-1.0429605,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2009,-0.76273125,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2010,-0.71755505,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Carolina,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+South Carolina,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+South Carolina,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+South Carolina,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+South Carolina,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+South Carolina,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+South Carolina,2017,,0.30804723,0.26612996,0.51796832,0.52557329,0.97159035,0.78307782,0.8732372,0.7297962,0.3325806,0.1845669,0.5124334,0.0963287,0.0575274,0.0991372,0.2467985,0.1198114,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+South Carolina,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+South Carolina,2019,,0.31315195,0.34315202,0.53997125,0.6235667,0.97963161,0.79823988,0.87216651,0.70403353,0.34428815,0.15968365,0.51884532,0.10413673,0.08272839,0.11807228,0.22812378,0.13089879,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+South Carolina,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+South Carolina,2021,,0.21827106,0.22240559,0.51466926,0.56370379,0.96839823,0.75010103,0.82986394,0.70398374,0.38138825,0.22510495,0.58342566,0.10492476,0.13389479,0.09083204,0.23229727,0.17629461,0.40580923,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+South Carolina,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+South Carolina,2023,,0.2878728,0.2349642,0.4774295,0.5780595,0.9760926,0.7099662,0.8001184,0.6524788,0.2896031,0.1146882,0.4528928,0.060765,0.0526687,0.0952854,0.2131286,0.1398298,0.4711208,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+South Dakota,2000,0.38449648,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2001,0.4227019,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2002,0.33992302,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2003,1.4289767,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2004,0.34824976,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2005,0.18891394,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2006,-0.49091515,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2007,0.096934326,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2008,-0.24906372,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2009,0.11068696,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2010,-0.055419225,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+South Dakota,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+South Dakota,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+South Dakota,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+South Dakota,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+South Dakota,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+South Dakota,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+South Dakota,2017,,0.36267453,0.33184604,0.52236353,0.57859078,0.97361071,0.78516139,0.8605631,0.7316467,0.3334506,0.1800818,0.4403448,0.1084821,0.082408,0.1293024,0.2470285,0.0980032,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+South Dakota,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+South Dakota,2019,,0.46854531,0.40105395,0.6626586,0.67080436,0.9984539,0.82333907,0.884691,0.74054117,0.36424883,0.21893935,0.57814505,0.14231331,0.06351191,0.17666348,0.31371833,0.13876751,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+South Dakota,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+South Dakota,2021,,0.34228549,0.34730262,0.55822938,0.59874002,0.96088939,0.75149418,0.87270831,0.69312015,0.28555411,0.22468001,0.53340926,0.14173826,0.09275914,0.11337057,0.28052291,0.18129555,0.47476364,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+South Dakota,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+South Dakota,2023,,0.3783044,0.3016258,0.5488607,0.5738474,0.9496424,0.7269493,0.8231922,0.6377368,0.2617511,0.1620623,0.4870868,0.1226735,0.0685128,0.111661,0.2573572,0.1688474,0.4188574,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Tennessee,2000,-1.0306699,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2001,-1.3191775,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2002,-1.3844692,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2003,-1.2007211,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2004,-1.0269367,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2005,-1.012485,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2006,-0.96310824,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2007,-1.0801438,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2008,-1.0830741,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2009,-0.94357014,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2010,-0.9268923,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Tennessee,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Tennessee,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Tennessee,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Tennessee,2014,,,,,,,,,,,,,,,,,,,0,0,0,Tennessee,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Tennessee,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Tennessee,2017,,0.31267666,0.27391278,0.56818858,0.49458954,0.98246607,0.71334188,0.899891,0.7049269,0.2985981,0.1800165,0.491205,0.104812,0.0876287,0.0733093,0.1914339,0.1302573,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Tennessee,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Tennessee,2019,,0.31650617,0.28406187,0.53636614,0.45550174,0.97753144,0.70304295,0.84207411,0.65484069,0.27923073,0.19710546,0.5267635,0.0967173,0.09318093,0.09465612,0.19425976,0.13864948,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Tennessee,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Tennessee,2021,,0.23775608,0.20262751,0.46973321,0.54269639,0.96781144,0.70729808,0.8144125,0.63851294,0.29398371,0.21819696,0.57709815,0.09971945,0.08628636,0.07312079,0.16764586,0.14654822,0.37906211,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Tennessee,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Tennessee,2023,,0.3318289,0.284347,0.5515529,0.5679,0.9723037,0.7241819,0.7789659,0.6182502,0.3082447,0.1516561,0.4883458,0.1161458,0.0735671,0.1014408,0.2602342,0.2084502,0.4110731,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Texas,2000,-0.5818308,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2001,-0.7534392,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2002,-0.77420306,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2003,-0.85452443,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2004,-0.92546904,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2005,-1.2610483,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2006,-1.3473037,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2007,-1.1911932,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2008,-0.9975087,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2009,-1.0519857,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2010,-1.0202223,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Texas,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Texas,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Texas,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Texas,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Texas,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Texas,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Texas,2017,,0.28355079,0.22931262,0.4927223,0.47314033,0.97743025,0.71468914,0.8553437,0.7037055,0.2889989,0.2322091,0.440093,0.07519,0.0687786,0.0857338,0.1921837,0.1036572,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Texas,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Texas,2019,,0.2644603,0.20744991,0.45308303,0.47418898,0.97863206,0.65271373,0.81394021,0.66726232,0.26845558,0.17633976,0.42000637,0.06773443,0.07040246,0.07871978,0.16734058,0.09722599,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Texas,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Texas,2021,,0.2128469,0.18795944,0.4551093,0.48552133,0.95992485,0.64774054,0.82490518,0.65147912,0.24876826,0.22246954,0.48671459,0.0663547,0.07067575,0.06482033,0.15190794,0.12665445,0.33830641,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Texas,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Texas,2023,,0.2738269,0.2044866,0.4384869,0.49129,0.9565592,0.6459371,0.7859128,0.6006342,0.2463664,0.1715438,0.4576804,0.0570107,0.051854,0.0791394,0.1776895,0.1319997,0.3934396,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Utah,2000,0.009048354,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2001,-0.08471826,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2002,-0.24790029,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2003,-0.15326557,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2004,-0.51329786,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2005,-0.3103042,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2006,-0.55816495,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2007,-0.3999992,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2008,-0.27435744,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2009,0.25611335,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2010,0.31721333,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Utah,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Utah,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Utah,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Utah,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Utah,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Utah,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Utah,2017,,0.50969348,0.41953996,0.66941806,0.70363828,0.9775832,0.84547491,0.8811478,0.7860269,0.4592777,0.2586626,0.4925556,0.1538138,0.0751104,0.1563287,0.3960949,0.1615161,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Utah,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Utah,2019,,0.49453704,0.40662419,0.65662623,0.67806548,0.96948292,0.78067726,0.86533561,0.70444273,0.38570659,0.24768822,0.57723326,0.13614878,0.07512365,0.16771178,0.44901182,0.19410074,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Utah,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Utah,2021,,0.40650805,0.33546438,0.53005333,0.61609042,0.96936793,0.77533926,0.81883691,0.74409432,0.34787177,0.22641214,0.56056236,0.12735478,0.07338883,0.09559957,0.3577914,0.15137233,0.38535261,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Utah,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Utah,2023,,0.4661194,0.3933898,0.6410881,0.6817361,0.9832588,0.8180663,0.8090716,0.7646702,0.3957297,0.1735198,0.5441481,0.1418848,0.072068,0.1187479,0.4413279,0.2394328,0.4543541,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Vermont,2000,0.73177207,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2001,0.9880942,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2002,0.76866895,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2003,0.68329537,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2004,1.0704141,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2005,1.4453294,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2006,1.6511856,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2007,1.7123901,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2008,1.8957534,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2009,2.3227134,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2010,2.4001427,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Vermont,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Vermont,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Vermont,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Vermont,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Vermont,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Vermont,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Vermont,2017,,0.35954719,0.3332333,0.53566262,0.58031206,0.97386483,0.80734887,0.8858773,0.7601987,0.3935012,0.2501562,0.6554143,0.2162509,0.1555439,0.1929655,0.2583618,0.2258037,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Vermont,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Vermont,2019,,0.37443867,0.38914443,0.53998473,0.60205374,0.98078803,0.7802387,0.87135805,0.68531001,0.35723737,0.20240732,0.62869579,0.20792276,0.14654795,0.23735051,0.37027842,0.23073043,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Vermont,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Vermont,2021,,0.290653,0.32740307,0.49989359,0.63920201,0.97240802,0.77943676,0.88200491,0.71524505,0.41450306,0.21728314,0.70499443,0.1845068,0.15088549,0.17398025,0.31825944,0.2519551,0.33990479,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Vermont,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Vermont,2023,,0.4051264,0.4132962,0.5727212,0.6508214,0.9941559,0.7619868,0.9031035,0.7863122,0.3872162,0.1588721,0.6756558,0.203031,0.0994888,0.2330995,0.3252136,0.3084578,0.4199435,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Virginia,2000,0.1408226,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2001,0.061628576,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2002,0.28804556,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2003,-0.018298075,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2004,-0.17845981,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2005,-0.08923396,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2006,0.19790821,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2007,0.37618557,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2008,0.4551885,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2009,0.6415911,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2010,0.65172833,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Virginia,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Virginia,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Virginia,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Virginia,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Virginia,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Virginia,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Virginia,2017,,0.34020613,0.27521158,0.52455504,0.49742657,0.96139291,0.75055662,0.8680785,0.7137643,0.3229762,0.1924429,0.4838263,0.1237312,0.075315,0.0977214,0.1834718,0.1457929,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Virginia,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Virginia,2019,,0.35366721,0.30250949,0.55912682,0.48146538,0.98721248,0.69555365,0.88504129,0.70918224,0.3127878,0.22531882,0.50829622,0.09026234,0.08889914,0.08937929,0.20774574,0.14826056,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Virginia,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Virginia,2021,,0.27208991,0.28817351,0.54768399,0.49724082,0.96650595,0.72853586,0.84437627,0.74437456,0.32962761,0.16892608,0.58310232,0.0790789,0.08776334,0.08577477,0.18104717,0.17284926,0.37167871,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Virginia,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Virginia,2023,,0.3155414,0.283081,0.55207,0.5699173,0.9894898,0.7365952,0.8466598,0.6810898,0.298557,0.1360498,0.5829573,0.0908289,0.0734808,0.0923398,0.2311199,0.159253,0.4362632,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Washington,2000,0.41700017,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2001,0.43172154,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2002,0.28917387,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2003,0.37622198,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2004,0.62397105,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2005,1.128882,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2006,1.1850698,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2007,1.1739464,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2008,1.141642,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2009,1.6215855,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2010,1.6486219,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Washington,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Washington,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Washington,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Washington,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Washington,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Washington,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Washington,2017,,0.35721673,0.31305995,0.55678989,0.56416554,0.98708823,0.82270107,0.9223874,0.7777735,0.3544838,0.2528073,0.6018788,0.1653812,0.1125872,0.10854,0.2472519,0.2062498,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Washington,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Washington,2019,,0.33785217,0.28392321,0.5484721,0.59256387,0.99402094,0.76437405,0.91795818,0.75615729,0.30898826,0.22626278,0.619108,0.13006457,0.09547278,0.12481666,0.22386508,0.22414583,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Washington,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Washington,2021,,0.2500719,0.25031009,0.55075731,0.55298272,0.97476255,0.70599297,0.8905008,0.74895284,0.31946386,0.23224895,0.5824585,0.12023178,0.14065572,0.09722524,0.17373941,0.27665289,0.34713623,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Washington,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Washington,2023,,0.3276137,0.2944386,0.5714908,0.5947723,0.9794887,0.7409502,0.8599087,0.7583012,0.3028652,0.1541165,0.5975649,0.1184086,0.0633584,0.0991681,0.2049684,0.2597921,0.490725,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+West Virginia,2000,0.08849693,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2001,-0.17621714,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2002,-0.23236248,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2003,-0.11195022,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2004,0.088106915,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2005,0.31319603,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2006,0.18895806,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2007,0.21075204,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2008,0.1836944,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2009,0.32905352,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2010,0.33298165,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+West Virginia,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+West Virginia,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+West Virginia,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+West Virginia,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+West Virginia,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+West Virginia,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+West Virginia,2017,,0.28053959,0.23271217,0.48380494,0.58085837,0.97885919,0.77186454,0.8224452,0.6222341,0.291232,0.1756496,0.5092451,0.1117726,0.0591868,0.0899739,0.2554915,0.1009349,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+West Virginia,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+West Virginia,2019,,0.30640192,0.26505539,0.48043591,0.60186232,0.99127583,0.77345021,0.79742018,0.64027888,0.2833348,0.23666114,0.44301564,0.09377404,0.04212432,0.09089285,0.23403606,0.09443884,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+West Virginia,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+West Virginia,2021,,0.22355934,0.23594357,0.46182812,0.60490287,0.97436404,0.74619915,0.84094637,0.63554239,0.34065458,0.19077133,0.49619696,0.09339306,0.05547861,0.05434923,0.18468485,0.13103307,0.31019227,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+West Virginia,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+West Virginia,2023,,0.2300572,0.1918602,0.3546676,0.5827814,0.9790441,0.7627209,0.7448844,0.6427272,0.3314205,0.1967292,0.5505812,0.081899,0.0480734,0.08347,0.1710217,0.1249714,0.3746538,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Wisconsin,2000,0.46716166,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2001,0.68081737,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2002,0.62343127,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2003,0.6498287,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2004,0.69062966,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2005,0.5993298,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2006,0.23054072,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2007,0.22762835,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2008,0.17515145,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2009,0.40498197,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2010,0.40275285,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wisconsin,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Wisconsin,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Wisconsin,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Wisconsin,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Wisconsin,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Wisconsin,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Wisconsin,2017,,0.37408594,0.35828631,0.57069481,0.59595596,0.9942933,0.81348866,0.9176185,0.760844,0.3808464,0.2215058,0.5663078,0.1298098,0.0857206,0.1139281,0.1968674,0.1907727,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Wisconsin,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Wisconsin,2019,,0.37484271,0.33630323,0.5882746,0.60900632,0.98272532,0.76549102,0.89165759,0.71457676,0.3377124,0.23022331,0.61111152,0.15056562,0.08243572,0.1267403,0.17942825,0.20591904,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Wisconsin,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Wisconsin,2021,,0.24925532,0.27928567,0.52519674,0.58418972,0.98804373,0.79364885,0.86720486,0.74707016,0.3553235,0.2215671,0.51449702,0.12751865,0.06852895,0.10047019,0.17942933,0.22760433,0.36968667,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Wisconsin,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Wisconsin,2023,,0.3106504,0.267792,0.550543,0.627181,0.9852834,0.7541338,0.8645158,0.697878,0.313785,0.1522664,0.5794364,0.0996882,0.0591043,0.1082654,0.2009177,0.191645,0.4332134,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Wyoming,2000,0.86227554,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2001,0.22965744,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2002,0.30973855,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2003,0.2723021,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2004,0.42883873,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2005,0.6518687,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2006,0.48741007,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2007,0.37308255,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2008,0.2031724,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2009,0.33668303,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2010,0.31401068,,,,,,,,,,,,,,,,,,1,0,1,Hawes/Compton 3-year moving-average social-capital index; contiguous 48 states
+Wyoming,2011,,,,,,,,,,,,,,,,,,,0,0,0,
+Wyoming,2012,,,,,,,,,,,,,,,,,,,0,0,0,
+Wyoming,2013,,,,,,,,,,,,,,,,,,,0,0,0,
+Wyoming,2014,,,,,,,,,,,,,,,,,,,0,0,0,
+Wyoming,2015,,,,,,,,,,,,,,,,,,,0,0,0,
+Wyoming,2016,,,,,,,,,,,,,,,,,,,0,0,0,
+Wyoming,2017,,0.32733457,0.2982759,0.47198548,0.54047354,0.97393244,0.77173237,0.9142519,0.7497049,0.3272776,0.2479386,0.5972273,0.1682236,0.0637668,0.1663834,0.1973124,0.1554067,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Wyoming,2018,,,,,,,,,,,,,,,,,,,0,0,0,
+Wyoming,2019,,0.3097513,0.33801938,0.49224806,0.52260974,0.98205255,0.69694322,0.88715073,0.7308846,0.29352169,0.29101781,0.58157555,0.18125575,0.06829165,0.16809213,0.23522255,0.20080557,,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Wyoming,2020,,,,,,,,,,,,,,,,,,,0,0,0,
+Wyoming,2021,,0.39200924,0.35972858,0.52176462,0.58529189,0.98036602,0.74791789,0.88264453,0.79398232,0.39822721,0.26241656,0.65805027,0.18192813,0.08891182,0.16094603,0.2941292,0.25759336,0.37488044,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
+Wyoming,2022,,,,,,,,,,,,,,,,,,,0,0,0,
+Wyoming,2023,,0.334568,0.3084228,0.4908455,0.6053988,0.9872379,0.7462429,0.7961796,0.6985625,0.3080138,0.2028714,0.5668076,0.146508,0.0709439,0.1422541,0.2587212,0.2253434,0.3526348,0,1,1,CPS CEV observed state rates; separate modern indicators; not spliced to Hawes index
