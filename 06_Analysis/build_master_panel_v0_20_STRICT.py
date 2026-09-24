@@ -48,29 +48,7 @@ inputs=[
  ("04_Raw_Data/E_Economic/BLS_LAUS/E3_BLS_LAUS_50states_2000_2023.csv","E3","full"),
  ("04_Raw_Data/E_Economic/Census_ACS_Gini/E4_ACS1_Gini_50states_2006_2023.csv","E4","sparse"),
  ("04_Raw_Data/E_Economic/BEA_Industry/E5_BEA_manufacturing_value_added_share_50states_2000_2023.csv","E5","full"),
- ("validated/P03_CBP_density_2000_2023.csv","P03","full"),\n ("04_Raw_Data/S_Social_Capital/STRICT/P06_TURNOUT/UF_ELECTION_LAB/S1_P06_UF_VEP_presidential_waves_2000_2020.csv","P06","sparse"),\n ("02_Putnam_14_Variables/P08/S1_P08_501c3_density_observed_snapshots.csv","P08","sparse"),
- ("02_Putnam_14_Variables/P08/S1_P08_501c3_density_observed_snapshots.csv","P08","sparse"),
+ ("validated/P03_CBP_density_2000_2023.csv","P03","full"),
  ("04_Raw_Data/S_Social_Capital/STRICT/P06_TURNOUT/UF_ELECTION_LAB/S1_P06_UF_VEP_presidential_waves_2000_2020.csv","P06","sparse"),
+ ("02_Putnam_14_Variables/P08/S1_P08_501c3_density_observed_snapshots.csv","P08","sparse"),
 ]
-for fn,label,coverage in inputs:
-    p=ROOT/fn
-    if not p.exists(): continue
-    x=norm(pd.read_csv(p))
-    if coverage=="full": validate_full(x,label)
-    else:
-        if x.duplicated(["state","year"]).any(): raise ValueError(f"{label}: duplicate sparse keys")
-        if not set(x.state).issubset(FIPS) or not set(x.year).issubset(set(YEARS)): raise ValueError(f"{label}: keys outside master grid")
-    cols=[c for c in x.columns if c not in ("state","year")]
-    overlap=set(cols)&set(panel.columns)
-    if overlap: raise ValueError(f"{label}: overwrite collision {sorted(overlap)}")
-    panel=panel.merge(x[["state","year"]+cols],on=["state","year"],how="left",validate="one_to_one")
-    manifest["inputs"].append({"label":label,"coverage":coverage,"file":str(p),"sha256":sha(p)})
-
-validate_full(panel,"MASTER")
-OUT.parent.mkdir(parents=True,exist_ok=True); AUD.parent.mkdir(parents=True,exist_ok=True)
-panel.to_csv(OUT,index=False)
-manifest["rows"]=len(panel); manifest["columns"]=list(panel.columns)
-manifest["missing_by_column"]={c:int(panel[c].isna().sum()) for c in panel.columns}
-manifest["output_sha256"]=sha(OUT)
-AUD.write_text(json.dumps(manifest,indent=2),encoding="utf-8")
-print(f"WROTE {OUT} rows={len(panel)} sha256={manifest['output_sha256']}")
