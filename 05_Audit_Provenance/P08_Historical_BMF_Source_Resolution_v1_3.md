@@ -35,3 +35,7 @@ If current Unified BMF can reproduce historical snapshots from its 1989-present 
 
 ## Remaining task
 Acquire actual NCCS historical/Unified BMF bytes, inspect dictionary/coding, calculate state counts, and compare overlapping legacy vs Unified BMF snapshots. Numeric P08 panel is NOT yet claimed complete.
+
+
+## 2026-09-24 correction — 2018-12
+Current NCCS legacy harmonization documentation identifies 2017-09, 2017-12, and 2018-12 as known-bad upstream vintages: EIN contains sequence IDs rather than real IRS EINs and TAXPER is non-standard. Therefore 2018-12 is excluded from canonical P08 despite its prior catalog/quality availability. No substitute is inserted; 2018 remains missing unless a corrected compatible snapshot is independently validated.
