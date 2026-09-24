@@ -12,7 +12,7 @@ urls={
 "CENSUS_2010_2020":"https://www2.census.gov/programs-surveys/popest/tables/2010-2020/intercensal/national/nst-est2020int-pop.xlsx",
 "CENSUS_2020_2023":"https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/totals/NST-EST2023-ALLDATA.csv",
 "BERKELEY_SDI2":"https://democracypolicylab.berkeley.edu/wp-content/uploads/2025/01/SDI_2.0.csv",
-"NCCS_P08_SAMPLE":"https://nccsdata.s3.us-east-1.amazonaws.com/processed/bmf-legacy/2020-04/bmf_legacy_2020-04_processed.csv"}
+"NCCS_P08_SAMPLE":"https://nccsdata.s3.us-east-1.amazonaws.com/processed/bmf-legacy/2020_04/bmf_legacy_2020_04_processed.csv"}
 for k,u in urls.items():
     try:
         r=requests.head(u,timeout=20,allow_redirects=True,headers={"User-Agent":"Putnam-US-Democracy/1.0"})
