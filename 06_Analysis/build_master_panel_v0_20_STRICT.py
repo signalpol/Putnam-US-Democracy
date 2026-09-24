@@ -62,24 +62,30 @@ if OLD.exists():
     manifest["inputs"].append({"file":str(OLD),"sha256":sha(OLD)})
     manifest["rules"].append("P05/P07/P09/P10 legacy values moved to R_* robustness columns.")
 
-# Optional validated inputs. Merge only if each file itself passes 50x24.
+# Canonical/validated inputs. Full-grid sources require 50x24. E4 is sparse by
+# design (2006-2019, 2021-2023); it is merged without manufacturing observations.
 inputs=[
- ("validated/D1_SDI2_2000_2023.csv","D1"),
- ("validated/E3a_unemployment_2000_2023.csv","E3a"),
- ("validated/E3b_employment_population_2000_2023.csv","E3b"),
- ("validated/P03_CBP_density_2000_2023.csv","P03"),
+ ("04_Raw_Data/D_Democracy/Berkeley_SDI2/D_SDI2_50states_2000_2023.csv","D_SDI2","full"),
+ ("04_Raw_Data/E_Economic/BLS_LAUS/E3_BLS_LAUS_50states_2000_2023.csv","E3","full"),
+ ("04_Raw_Data/E_Economic/Census_ACS_Gini/E4_ACS1_Gini_50states_2006_2023.csv","E4","sparse"),
+ ("04_Raw_Data/E_Economic/BEA_Industry/E5_BEA_manufacturing_value_added_share_50states_2000_2023.csv","E5","full"),
+ ("validated/P03_CBP_density_2000_2023.csv","P03","full"),
 ]
-for fn,label in inputs:
+for fn,label,coverage in inputs:
     p=ROOT/fn
     if not p.exists(): continue
     x=normkeys(pd.read_csv(p))
-    validate_grid(x)
+    if coverage=="full":
+        validate_grid(x)
+    else:
+        if x.duplicated(["state","year"]).any(): raise ValueError(f"{label}: duplicate keys")
+        if not set(x["state"]).issubset(set(STATE_FIPS)) or not set(x["year"]).issubset(set(YEARS)):
+            raise ValueError(f"{label}: keys outside canonical grid")
     cols=[c for c in x.columns if c not in ("state","year")]
-    # protect against accidental overwrites
     overlap=set(cols)&set(panel.columns)
     if overlap: raise ValueError(f"{label}: overwrite collision {overlap}")
     panel=panel.merge(x,on=["state","year"],how="left",validate="one_to_one")
-    manifest["inputs"].append({"label":label,"file":str(p),"sha256":sha(p)})
+    manifest["inputs"].append({"label":label,"file":str(p),"sha256":sha(p),"coverage":coverage})
 
 validate_grid(panel)
 OUT.parent.mkdir(parents=True,exist_ok=True)
