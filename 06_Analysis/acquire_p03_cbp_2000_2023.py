@@ -42,7 +42,16 @@ def acquire_year(year):
     df=pd.DataFrame(data[1:],columns=data[0])
     df["year"]=year
     df["ESTAB"]=pd.to_numeric(df["ESTAB"],errors="raise")
-    return df,{"year":year,"naics_variable":nvar,"query_url":url,"metadata_url":meta_url}
+    label_var=nvar+"_LABEL"
+    label=None
+    if label_var in v:
+        try:
+            ld,_=api_json(f"https://api.census.gov/data/{year}/cbp",{"get":f"{label_var}","for":"state:01",nvar:NAICS})
+            if len(ld)>1: label=ld[1][0]
+        except Exception: pass
+    return df,{"year":year,"naics_variable":nvar,"naics_code":NAICS,"naics_label":label,
+               "query_url":url,"metadata_url":meta_url,
+               "comparability_note":"Preserve NAICS vintage; cross-vintage continuity must be audited before canonical density use."}
 
 def validate_counts(df):
     # Census API may include DC/PR/territories; canonical panel retains only 50 states.
