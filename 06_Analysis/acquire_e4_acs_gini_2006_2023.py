@@ -8,10 +8,10 @@ import hashlib,json,requests
 from pathlib import Path
 import pandas as pd
 
-YEARS=range(2006,2024)
+YEARS=[y for y in range(2006,2024) if y != 2020]
 API="https://api.census.gov/data/{year}/acs/acs1"
 OUT=Path("04_Raw_Data/E_Economic/Census_ACS_Gini"); OUT.mkdir(parents=True,exist_ok=True)
-rows=[]; raw={}; failures={}
+rows=[]; raw={}; failures={"2020":"STRUCTURAL_MISSING: Census did not release standard ACS 1-year estimates; experimental estimates are not comparable to standard ACS series."}
 for y in YEARS:
     url=API.format(year=y)
     params={"get":"NAME,B19083_001E,B19083_001M","for":"state:*"}
@@ -38,12 +38,12 @@ if not df.empty:
     csv=OUT/"E4_ACS1_Gini_50states_2006_2023.csv"; df.to_csv(csv,index=False)
     csv_hash=hashlib.sha256(csv.read_bytes()).hexdigest()
 else: csv_hash=None
-coverage=df.groupby("year").state_fips.nunique().to_dict() if not df.empty else {}
+coverage=df.groupby("year").state_fips.nunique().to_dict() if not df.empty else {}\nfor y,n in coverage.items():\n    if n!=50: raise RuntimeError(f"{y}: expected 50 states, got {n}")\nexpected_years=set(YEARS)\nif set(coverage)!=expected_years: raise RuntimeError(f"available-year coverage failure: {sorted(expected_years-set(coverage))}")
 manifest={"source":"U.S. Census Bureau ACS 1-year B19083",
- "canonical_period":"2006-2023","earliest_acs_gini":2006,
+ "canonical_period":"2006-2023 excluding structurally missing 2020","earliest_acs_gini":2006,
  "expected_states_per_available_year":50,"coverage_by_year":coverage,
  "failures":failures,"no_interpolation":True,
- "note_2020":"Do not silently substitute ACS 5-year for missing/unreleased ACS 1-year standard estimates.",
+ "note_2020":"Structural missing year. Census says 2020 experimental 1-year estimates should NOT be compared with standard ACS estimates; do not substitute experimental or 5-year data into canonical E4.",
  "raw_sha256":hashlib.sha256(raw_path.read_bytes()).hexdigest(),"csv_sha256":csv_hash}
 (OUT/"E4_ACS_Gini_manifest.json").write_text(json.dumps(manifest,indent=2),encoding="utf-8")
 print(json.dumps(manifest,indent=2))
