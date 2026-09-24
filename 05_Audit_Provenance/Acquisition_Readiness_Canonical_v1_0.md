@@ -20,12 +20,12 @@ No item is marked acquired unless a validated numeric artifact exists.
 ## S — Social capital strict layer
 - P01 Committee service: BLOCKED_SOURCE.
 - P02 Officer service: BLOCKED_SOURCE.
-- P03 Civic/social organization density: PARTIAL_COLLECTOR. CBP numerator ready; canonical July-1 population acquisition not yet wired.
+- P03 Civic/social organization density: COLLECTORS_READY. CBP numerator plus official Census 2000-2010/2010-2020 intercensal and Vintage 2023 July-1 population collector implemented; numeric execution still required.
 - P04 Club meetings: MISSING_STRICT; binary proxy prohibited.
 - P05 Group memberships: PENDING_SOURCE.
 - P06 Presidential turnout: COLLECTOR_READY; election waves only (2000, 2004, 2008, 2012, 2016, 2020); never annualize.
 - P07 Public meeting attendance: PENDING_EQUIVALENCE.
-- P08 501(c)(3) density: ACQUISITION_SCAFFOLD. Snapshot map resolved; actual NCCS download/filter/aggregation not yet wired.
+- P08 501(c)(3) density: COLLECTOR_READY. NCCS harmonized/transformed monthly BMF is streamed and aggregated by state for subsection 03 unique EINs; 2017-09, 2017-12, 2018-12 known-bad vintages excluded; numeric execution still required.
 - P09 Community project: MISSING_STRICT; rate proxy prohibited.
 - P10 Volunteer work: PENDING_EQUIVALENCE.
 - P11 Visiting friends: BLOCKED_SOURCE (DDB post-1998 exact microdata not acquired).
@@ -39,3 +39,4 @@ No item is marked acquired unless a validated numeric artifact exists.
 - No interpolation.
 - A written master panel does not imply complete acquisition.
 - Pipeline PASS requires executable acquisition/validation gates; otherwise PARTIAL.
+\n## Credential/runtime gates\n- BEA API: registered 36-character UserID required by current BEA API guide; E1/E2/E5 correctly fail without BEA_API_KEY.\n- Census population/CBP: public official files/API; no BEA-style credential requirement introduced.\n- NCCS P08: public S3 monthly harmonized/transformed products; large files require streaming and sufficient runtime/network.\n
