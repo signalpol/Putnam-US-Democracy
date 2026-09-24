@@ -19,3 +19,7 @@ VINTAGES={
 # Catalog-confirmed harmonized/transformed snapshots only.
 # No harmonized monthly release is listed for 2007, 2008, 2017, 2021.
 # Raw-archive-only 2017 releases are NOT silently mixed into the harmonized series.
+
+
+if __name__=="__main__":
+    raise RuntimeError("NOT_IMPLEMENTED: NCCS historical BMF download/filter/aggregation logic is not yet wired; no P08 counts produced")
