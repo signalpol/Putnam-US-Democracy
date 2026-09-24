@@ -8,7 +8,7 @@ Fail-closed design:
 - use current-dollar numerator and denominator from the same table/vintage;
 - preserve raw response, labels, hashes, coverage and missingness.
 """
-import hashlib,json,re,requests
+import hashlib,json,re,requests,os
 from pathlib import Path
 import pandas as pd
 
@@ -18,7 +18,7 @@ STATE_FIPS={"01","02","04","05","06","08","09","10","12","13","15","16","17","18
 OUT=Path("04_Raw_Data/E_Economic/BEA_Industry"); OUT.mkdir(parents=True,exist_ok=True)
 
 def req(params):
-    p={"UserID":"samplekey","method":"GetData","datasetname":"Regional","ResultFormat":"JSON",**params}
+    key=os.getenv("BEA_API_KEY")\n    if not key: raise RuntimeError("BEA_API_KEY is required; obtain a free key from BEA")\n    p={"UserID":key,"method":"GetData","datasetname":"Regional","ResultFormat":"JSON",**params}
     r=requests.get(API,params=p,timeout=90); r.raise_for_status()
     obj=r.json()
     if "Error" in json.dumps(obj.get("BEAAPI",{}))[:1000]:
@@ -83,7 +83,7 @@ if wide.duplicated(["state_fips","year"]).any(): raise RuntimeError("duplicate k
 expected={(f,y) for f in STATE_FIPS for y in YEARS}
 observed=set(map(tuple,wide[["state_fips","year"]].itertuples(index=False,name=None)))
 if observed!=expected: raise RuntimeError(f"coverage {len(observed)}/1200, missing sample={list(expected-observed)[:20]}")
-if wide.E5_MFG_VA_SHARE.isna().any(): raise RuntimeError("missing primary E5 share")
+if wide.E5_MFG_VA_SHARE.isna().any(): raise RuntimeError("missing primary E5 share")\nif (wide.all_industry_gdp_current<=0).any(): raise RuntimeError("nonpositive all-industry current-dollar GDP")\nif ((wide.E5_MFG_VA_SHARE<0)|(wide.E5_MFG_VA_SHARE>100)).any(): raise RuntimeError("manufacturing share outside 0-100")\n# Both numerator and denominator must come from the exact same SAGDP2N response/vintage.\nif set(sel.unit_mult.dropna().astype(str).unique()) and len(set(sel.unit_mult.dropna().astype(str).unique()))!=1:\n    raise RuntimeError("numerator/denominator unit multiplier mismatch")
 out=OUT/"E5_BEA_manufacturing_value_added_share_50states_2000_2023.csv"
 wide.to_csv(out,index=False)
 manifest={"source":"U.S. BEA Regional GDP by state/industry","table":"SAGDP2N",
