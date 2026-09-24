@@ -40,3 +40,8 @@ No item is marked acquired unless a validated numeric artifact exists.
 - A written master panel does not imply complete acquisition.
 - Pipeline PASS requires executable acquisition/validation gates; otherwise PARTIAL.
 \n## Credential/runtime gates\n- BEA API: registered 36-character UserID required by current BEA API guide; E1/E2/E5 correctly fail without BEA_API_KEY.\n- Census population/CBP: public official files/API; no BEA-style credential requirement introduced.\n- NCCS P08: public S3 monthly harmonized/transformed products; large files require streaming and sufficient runtime/network.\n
+## 2026-09-25 execution audit
+- E3 BLS bug fixed: BLS_API_KEY is optional; registered mode uses 50-series/20-year limits, unregistered mode uses 25-series/10-year limits. Undefined-key terminal failure removed.
+- E4 ACS and P03 CBP now explicitly require CENSUS_API_KEY because current Census Data API requires a key for all queries.
+- P06 v1.2 published VEP turnout percent strings are normalized to numeric percentage points; highest-office/VEP is computed only where the source field is genuinely numeric.
+- Strict master v0.20 excludes every legacy P01-P14 column from v0.19. Only validated S1 artifacts may repopulate canonical P-fields.
