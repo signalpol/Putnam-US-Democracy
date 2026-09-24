@@ -6,7 +6,9 @@ Target: NAICS 813410 Civic and Social Organizations, state establishments,
 import requests, os, pandas as pd, hashlib, json
 from pathlib import Path
 
-YEARS=range(2000,2024)\nCENSUS_API_KEY=os.getenv("CENSUS_API_KEY")\nif not CENSUS_API_KEY: raise RuntimeError("CENSUS_API_KEY required by current Census Data API")
+YEARS=range(2000,2024)
+CENSUS_API_KEY=os.getenv("CENSUS_API_KEY")
+if not CENSUS_API_KEY: raise RuntimeError("CENSUS_API_KEY required by current Census Data API")
 NAICS="813410"
 OUT=Path("04_Raw_Data/P03_CBP")
 OUT.mkdir(parents=True,exist_ok=True)
