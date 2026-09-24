@@ -64,9 +64,9 @@ for name in ["la.series","la.data.2.AllStatesU"]:
 # E3b annual-average ZIP URL is intentionally resolved from official BLS page
 # in acquisition environment if the linked filename changes; do not hard-code a guessed filename.
 
-# P03: invoke repository collector after Census API key is available if required.
-# Census API now documents API-key requirements; set CENSUS_API_KEY in Colab secrets/env.
-manifest["P03"]="RUN acquire_p03_cbp_2000_2023.py WITH OFFICIAL CENSUS API KEY"
+# P03: repository collector supports the public Census API without a key at normal request volume.
+# CENSUS_API_KEY may be supplied for higher-volume use but is not a normal execution prerequisite.
+manifest["P03"]="RUN acquire_p03_cbp_2000_2023.py; CENSUS_API_KEY OPTIONAL"
 
 (ROOT/"manifest.json").write_text(json.dumps(manifest,indent=2))
 print(json.dumps(manifest,indent=2))
