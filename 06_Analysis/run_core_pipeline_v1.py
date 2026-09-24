@@ -36,8 +36,11 @@ m["steps"]["P03_DENSITY"]=run("06_Analysis/build_P03_density_population.py")
 m["steps"]["MASTER_V020_STRICT"]=run("06_Analysis/build_master_panel_v0_20_STRICT.py")
 
 # PIPELINE_COMPLETE is deliberately stricter than "a master file was written".
-required=("PREFLIGHT","ECONOMIC_GATE","D_SDI2","SOCIAL_GATE","P03_DENSITY","MASTER_V020_STRICT")
-m["status"]="PASS" if all(m["steps"].get(k,{}).get("status")=="PASS" for k in required) else "PARTIAL"
-m["interpretation"]="PARTIAL means at least one acquisition/validation block is not executable or not acquired; it is not evidence failure and triggers no imputation."
+# SOCIAL_GATE intentionally returns process exit 0 while its internal manifest can be PARTIAL
+# because several strict Putnam continuations are structurally unavailable. Pipeline status
+# therefore distinguishes executable completion from substantive S1 completeness.
+required_exec=("PREFLIGHT","ECONOMIC_GATE","D_SDI2","SOCIAL_GATE","P03_DENSITY","MASTER_V020_STRICT")
+m["status"]="EXECUTED" if all(m["steps"].get(k,{}).get("status")=="PASS" for k in required_exec) else "PARTIAL"
+m["interpretation"]="EXECUTED means all pipeline programs completed successfully; it does not mean all P01-P14 strict continuations exist. PARTIAL means at least one acquisition/validation program failed or was unavailable. Neither status triggers imputation."
 LOG.write_text(json.dumps(m,indent=2),encoding="utf-8")
 print(json.dumps(m,indent=2))
