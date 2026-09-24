@@ -46,25 +46,28 @@ for state,fips in STATE_FIPS.items():
         series_map[sid(fips,m)]=(state,m)
 
 rows=[]; raw_batches=[]
-# BLS API 2.0 supports up to 20 years; use two periods and <=50 series/request.
+key=os.getenv("BLS_API_KEY")
+# Official BLS limits: registered v2 = 50 series / 20 years; unregistered
+# v1-compatible requests = 25 series / 10 years.
+periods=((2000,2019),(2020,2023)) if key else ((2000,2009),(2010,2019),(2020,2023))
+batch_size=50 if key else 25
 ids=list(series_map)
-for start,end in ((2000,2019),(2020,2023)):
-    for i in range(0,len(ids),50):
-        batch=ids[i:i+50]
+for start,end in periods:
+    for i in range(0,len(ids),batch_size):
+        batch=ids[i:i+batch_size]
         payload={"seriesid":batch,"startyear":str(start),"endyear":str(end)}
-        resp=requests.post(API,json=payload,timeout=60)
+        if key: payload["registrationkey"]=key
+        resp=requests.post(API,json=payload,timeout=60,headers={"Content-Type":"application/json"})
         resp.raise_for_status()
         obj=resp.json()
-        if obj.get("status")!="REQUEST_SUCCEEDED":
-            raise RuntimeError(obj)
-        raw_batches.append({"payload":payload,"response":obj})
+        if obj.get("status")!="REQUEST_SUCCEEDED": raise RuntimeError(obj)
+        raw_batches.append({"payload":{k:v for k,v in payload.items() if k!="registrationkey"},"response":obj})
         for s in obj["Results"]["series"]:
             state,measure=series_map[s["seriesID"]]
             for x in s["data"]:
-                if x["period"]=="M13":  # annual average
-                    rows.append({"state":state,"year":int(x["year"]),
-                                 "measure":measure,"value":float(x["value"]),
-                                 "series_id":s["seriesID"]})
+                if x["period"]=="M13":
+                    rows.append({"state":state,"year":int(x["year"]),"measure":measure,
+                                 "value":float(x["value"]),"series_id":s["seriesID"]})
         time.sleep(.2)
 
 raw_path=OUT/"E3_BLS_LAUS_API_raw_2000_2023.json"
