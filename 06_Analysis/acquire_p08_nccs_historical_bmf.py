@@ -15,10 +15,10 @@ VINTAGES={
 2008:"2008_06",2009:"2009_07",2010:"2010_07",2011:"2011_07",
 2012:"2012_07",2013:"2013_07",2014:"2014_06",2015:"2015_07",
 2016:"2016_08",2017:"2017_09",2018:"2018_12",2019:"2019_08",
-2020:"2020_04",2022:"2022_08"}
-# 2021 and 2023 require catalog verification before insertion.
+2020:"2020_04",2022:"2022_08",2023:"2023_06"}
+# 2021 has no monthly BMF snapshot in the NCCS catalog; preserve as missing.
 
-BASE="https://nccsdata.s3.us-east-1.amazonaws.com/processed/bmf-legacy/{v}/"
+BASE_LEGACY="https://nccsdata.s3.us-east-1.amazonaws.com/processed/bmf-legacy/{v}/"\nBASE_MODERN="https://nccsdata.s3.us-east-1.amazonaws.com/processed/bmf/{v}/"
 OUT=Path("04_Raw_Data/S_Social_Capital/STRICT/P08_501C3_BMF")
 OUT.mkdir(parents=True,exist_ok=True)
 AGG=Path("02_Putnam_14_Variables/P08"); AGG.mkdir(parents=True,exist_ok=True)
@@ -30,7 +30,7 @@ def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
 rows=[]; manifest=[]
 for year,v in VINTAGES.items():
     fn=f"bmf_{v}_processed.csv"
-    url=BASE.format(v=v)+fn
+    url=(BASE_MODERN if year>=2023 else BASE_LEGACY).format(v=v)+fn
     p=OUT/fn
     if not p.exists():
         with requests.get(url,stream=True,timeout=180) as r:
@@ -63,7 +63,7 @@ if out.duplicated(["year","state"]).any(): raise RuntimeError("duplicate state-y
 outp=AGG/"S1_P08_501c3_BMF_state_counts_observed_snapshots.csv"
 out.to_csv(outp,index=False)
 m={"source":"NCCS harmonized legacy IRS BMF","rule":"Observed snapshots only; no interpolation",
-   "years":sorted(VINTAGES),"missing_study_years":[2021,2023],
+   "years":sorted(VINTAGES),"missing_study_years":[2021],
    "rows":len(out),"processed_sha256":sha(outp),"snapshots":manifest}
 (AGG/"S1_P08_BMF_manifest.json").write_text(json.dumps(m,indent=2),encoding="utf-8")
-print(json.dumps({"rows":len(out),"years":len(VINTAGES),"missing":[2021,2023]},indent=2))
+print(json.dumps({"rows":len(out),"years":len(VINTAGES),"missing":[2021]},indent=2))
