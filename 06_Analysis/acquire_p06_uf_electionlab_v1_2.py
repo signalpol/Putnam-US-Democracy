@@ -30,7 +30,7 @@ x["P06_HIGHEST_OFFICE_OVER_VEP"]=100*x["VOTE_FOR_HIGHEST_OFFICE"]/x["VEP"]
 out=OUT/"S1_P06_UF_VEP_presidential_waves_2000_2020.csv"; x.to_csv(out,index=False)
 manifest={"source":"UF Election Lab / Michael McDonald","version":"1.2","license":"CC BY 4.0",
 "waves":sorted(WAVES),"expected_rows":300,"actual_rows":len(x),
-"published_vep_turnout_missing":int(x.VEP_TURNOUT_RATE.isna().sum()),
+"published_vep_turnout_missing":int(x.P06_VEP_TURNOUT_PCT.isna().sum()),
 "rule":"No imputation. Preserve published VEP turnout; highest-office/VEP is separately named alternative.",
 "raw_sha256":hashlib.sha256(rp.read_bytes()).hexdigest(),"doc_sha256":hashlib.sha256(dp.read_bytes()).hexdigest(),
 "processed_sha256":hashlib.sha256(out.read_bytes()).hexdigest()}
