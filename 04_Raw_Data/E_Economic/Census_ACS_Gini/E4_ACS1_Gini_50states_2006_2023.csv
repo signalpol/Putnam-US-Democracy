@@ -1,0 +1,851 @@
+state,year,gini_index
+Alabama,2006,0.472
+Alaska,2006,0.417
+Arizona,2006,0.454
+Arkansas,2006,0.460
+California,2006,0.466
+Colorado,2006,0.450
+Connecticut,2006,0.480
+Delaware,2006,0.434
+Florida,2006,0.467
+Georgia,2006,0.461
+Hawaii,2006,0.438
+Idaho,2006,0.421
+Illinois,2006,0.462
+Indiana,2006,0.432
+Iowa,2006,0.424
+Kansas,2006,0.441
+Kentucky,2006,0.460
+Louisiana,2006,0.475
+Maine,2006,0.428
+Maryland,2006,0.433
+Massachusetts,2006,0.461
+Michigan,2006,0.444
+Minnesota,2006,0.430
+Mississippi,2006,0.471
+Missouri,2006,0.449
+Montana,2006,0.426
+Nebraska,2006,0.430
+Nevada,2006,0.434
+New Hampshire,2006,0.417
+New Jersey,2006,0.458
+New Mexico,2006,0.457
+New York,2006,0.495
+North Carolina,2006,0.458
+North Dakota,2006,0.434
+Ohio,2006,0.449
+Oklahoma,2006,0.460
+Oregon,2006,0.444
+Pennsylvania,2006,0.455
+Rhode Island,2006,0.442
+South Carolina,2006,0.462
+South Dakota,2006,0.439
+Tennessee,2006,0.468
+Texas,2006,0.474
+Utah,2006,0.410
+Vermont,2006,0.420
+Virginia,2006,0.456
+Washington,2006,0.443
+West Virginia,2006,0.447
+Wisconsin,2006,0.424
+Wyoming,2006,0.413
+Alabama,2007,0.471
+Alaska,2007,0.409
+Arizona,2007,0.448
+Arkansas,2007,0.462
+California,2007,0.469
+Colorado,2007,0.452
+Connecticut,2007,0.481
+Delaware,2007,0.435
+Florida,2007,0.469
+Georgia,2007,0.464
+Hawaii,2007,0.422
+Idaho,2007,0.436
+Illinois,2007,0.466
+Indiana,2007,0.429
+Iowa,2007,0.426
+Kansas,2007,0.444
+Kentucky,2007,0.465
+Louisiana,2007,0.478
+Maine,2007,0.440
+Maryland,2007,0.442
+Massachusetts,2007,0.467
+Michigan,2007,0.448
+Minnesota,2007,0.436
+Mississippi,2007,0.480
+Missouri,2007,0.450
+Montana,2007,0.443
+Nebraska,2007,0.429
+Nevada,2007,0.437
+New Hampshire,2007,0.417
+New Jersey,2007,0.464
+New Mexico,2007,0.459
+New York,2007,0.500
+North Carolina,2007,0.465
+North Dakota,2007,0.440
+Ohio,2007,0.448
+Oklahoma,2007,0.463
+Oregon,2007,0.442
+Pennsylvania,2007,0.460
+Rhode Island,2007,0.457
+South Carolina,2007,0.459
+South Dakota,2007,0.423
+Tennessee,2007,0.471
+Texas,2007,0.473
+Utah,2007,0.409
+Vermont,2007,0.428
+Virginia,2007,0.456
+Washington,2007,0.444
+West Virginia,2007,0.454
+Wisconsin,2007,0.428
+Wyoming,2007,0.437
+Alabama,2008,0.467
+Alaska,2008,0.403
+Arizona,2008,0.453
+Arkansas,2008,0.459
+California,2008,0.473
+Colorado,2008,0.457
+Connecticut,2008,0.486
+Delaware,2008,0.447
+Florida,2008,0.471
+Georgia,2008,0.467
+Hawaii,2008,0.428
+Idaho,2008,0.419
+Illinois,2008,0.467
+Indiana,2008,0.437
+Iowa,2008,0.428
+Kansas,2008,0.442
+Kentucky,2008,0.467
+Louisiana,2008,0.477
+Maine,2008,0.436
+Maryland,2008,0.438
+Massachusetts,2008,0.471
+Michigan,2008,0.451
+Minnesota,2008,0.445
+Mississippi,2008,0.478
+Missouri,2008,0.448
+Montana,2008,0.449
+Nebraska,2008,0.427
+Nevada,2008,0.431
+New Hampshire,2008,0.419
+New Jersey,2008,0.462
+New Mexico,2008,0.460
+New York,2008,0.503
+North Carolina,2008,0.463
+North Dakota,2008,0.451
+Ohio,2008,0.450
+Oklahoma,2008,0.458
+Oregon,2008,0.447
+Pennsylvania,2008,0.457
+Rhode Island,2008,0.460
+South Carolina,2008,0.464
+South Dakota,2008,0.446
+Tennessee,2008,0.471
+Texas,2008,0.474
+Utah,2008,0.411
+Vermont,2008,0.434
+Virginia,2008,0.460
+Washington,2008,0.442
+West Virginia,2008,0.453
+Wisconsin,2008,0.426
+Wyoming,2008,0.441
+Alabama,2009,0.471
+Alaska,2009,0.402
+Arizona,2009,0.451
+Arkansas,2009,0.461
+California,2009,0.467
+Colorado,2009,0.453
+Connecticut,2009,0.480
+Delaware,2009,0.434
+Florida,2009,0.469
+Georgia,2009,0.469
+Hawaii,2009,0.425
+Idaho,2009,0.421
+Illinois,2009,0.469
+Indiana,2009,0.434
+Iowa,2009,0.431
+Kansas,2009,0.444
+Kentucky,2009,0.464
+Louisiana,2009,0.473
+Maine,2009,0.432
+Maryland,2009,0.448
+Massachusetts,2009,0.468
+Michigan,2009,0.453
+Minnesota,2009,0.439
+Mississippi,2009,0.470
+Missouri,2009,0.450
+Montana,2009,0.431
+Nebraska,2009,0.440
+Nevada,2009,0.433
+New Hampshire,2009,0.431
+New Jersey,2009,0.465
+New Mexico,2009,0.453
+New York,2009,0.502
+North Carolina,2009,0.464
+North Dakota,2009,0.450
+Ohio,2009,0.453
+Oklahoma,2009,0.460
+Oregon,2009,0.443
+Pennsylvania,2009,0.460
+Rhode Island,2009,0.457
+South Carolina,2009,0.462
+South Dakota,2009,0.452
+Tennessee,2009,0.467
+Texas,2009,0.474
+Utah,2009,0.414
+Vermont,2009,0.428
+Virginia,2009,0.456
+Washington,2009,0.439
+West Virginia,2009,0.463
+Wisconsin,2009,0.432
+Wyoming,2009,0.415
+Alabama,2010,0.472
+Alaska,2010,0.422
+Arizona,2010,0.455
+Arkansas,2010,0.458
+California,2010,0.471
+Colorado,2010,0.457
+Connecticut,2010,0.486
+Delaware,2010,0.440
+Florida,2010,0.474
+Georgia,2010,0.468
+Hawaii,2010,0.433
+Idaho,2010,0.433
+Illinois,2010,0.465
+Indiana,2010,0.440
+Iowa,2010,0.427
+Kansas,2010,0.445
+Kentucky,2010,0.466
+Louisiana,2010,0.475
+Maine,2010,0.437
+Maryland,2010,0.443
+Massachusetts,2010,0.475
+Michigan,2010,0.451
+Minnesota,2010,0.440
+Mississippi,2010,0.468
+Missouri,2010,0.455
+Montana,2010,0.435
+Nebraska,2010,0.432
+Nevada,2010,0.448
+New Hampshire,2010,0.425
+New Jersey,2010,0.464
+New Mexico,2010,0.464
+New York,2010,0.499
+North Carolina,2010,0.464
+North Dakota,2010,0.433
+Ohio,2010,0.452
+Oklahoma,2010,0.454
+Oregon,2010,0.449
+Pennsylvania,2010,0.461
+Rhode Island,2010,0.467
+South Carolina,2010,0.461
+South Dakota,2010,0.442
+Tennessee,2010,0.468
+Texas,2010,0.469
+Utah,2010,0.419
+Vermont,2010,0.444
+Virginia,2010,0.459
+Washington,2010,0.441
+West Virginia,2010,0.451
+Wisconsin,2010,0.430
+Wyoming,2010,0.423
+Alabama,2011,0.474
+Alaska,2011,0.410
+Arizona,2011,0.460
+Arkansas,2011,0.468
+California,2011,0.481
+Colorado,2011,0.459
+Connecticut,2011,0.486
+Delaware,2011,0.440
+Florida,2011,0.481
+Georgia,2011,0.477
+Hawaii,2011,0.430
+Idaho,2011,0.432
+Illinois,2011,0.472
+Indiana,2011,0.446
+Iowa,2011,0.434
+Kansas,2011,0.444
+Kentucky,2011,0.471
+Louisiana,2011,0.484
+Maine,2011,0.451
+Maryland,2011,0.447
+Massachusetts,2011,0.477
+Michigan,2011,0.461
+Minnesota,2011,0.444
+Mississippi,2011,0.474
+Missouri,2011,0.461
+Montana,2011,0.435
+Nebraska,2011,0.447
+Nevada,2011,0.453
+New Hampshire,2011,0.435
+New Jersey,2011,0.469
+New Mexico,2011,0.482
+New York,2011,0.503
+North Carolina,2011,0.472
+North Dakota,2011,0.445
+Ohio,2011,0.459
+Oklahoma,2011,0.461
+Oregon,2011,0.459
+Pennsylvania,2011,0.461
+Rhode Island,2011,0.467
+South Carolina,2011,0.465
+South Dakota,2011,0.432
+Tennessee,2011,0.476
+Texas,2011,0.477
+Utah,2011,0.425
+Vermont,2011,0.431
+Virginia,2011,0.463
+Washington,2011,0.445
+West Virginia,2011,0.472
+Wisconsin,2011,0.437
+Wyoming,2011,0.408
+Alabama,2012,0.473
+Alaska,2012,0.423
+Arizona,2012,0.461
+Arkansas,2012,0.463
+California,2012,0.482
+Colorado,2012,0.458
+Connecticut,2012,0.491
+Delaware,2012,0.436
+Florida,2012,0.483
+Georgia,2012,0.481
+Hawaii,2012,0.426
+Idaho,2012,0.430
+Illinois,2012,0.472
+Indiana,2012,0.442
+Iowa,2012,0.433
+Kansas,2012,0.450
+Kentucky,2012,0.467
+Louisiana,2012,0.486
+Maine,2012,0.445
+Maryland,2012,0.447
+Massachusetts,2012,0.481
+Michigan,2012,0.462
+Minnesota,2012,0.444
+Mississippi,2012,0.487
+Missouri,2012,0.461
+Montana,2012,0.450
+Nebraska,2012,0.434
+Nevada,2012,0.452
+New Hampshire,2012,0.430
+New Jersey,2012,0.472
+New Mexico,2012,0.471
+New York,2012,0.501
+North Carolina,2012,0.469
+North Dakota,2012,0.460
+Ohio,2012,0.461
+Oklahoma,2012,0.464
+Oregon,2012,0.456
+Pennsylvania,2012,0.464
+Rhode Island,2012,0.465
+South Carolina,2012,0.468
+South Dakota,2012,0.433
+Tennessee,2012,0.473
+Texas,2012,0.477
+Utah,2012,0.424
+Vermont,2012,0.439
+Virginia,2012,0.466
+Washington,2012,0.450
+West Virginia,2012,0.464
+Wisconsin,2012,0.440
+Wyoming,2012,0.417
+Alabama,2013,0.475
+Alaska,2013,0.408
+Arizona,2013,0.468
+Arkansas,2013,0.469
+California,2013,0.490
+Colorado,2013,0.461
+Connecticut,2013,0.499
+Delaware,2013,0.451
+Florida,2013,0.484
+Georgia,2013,0.484
+Hawaii,2013,0.440
+Idaho,2013,0.438
+Illinois,2013,0.482
+Indiana,2013,0.455
+Iowa,2013,0.443
+Kansas,2013,0.459
+Kentucky,2013,0.472
+Louisiana,2013,0.491
+Maine,2013,0.453
+Maryland,2013,0.455
+Massachusetts,2013,0.484
+Michigan,2013,0.464
+Minnesota,2013,0.446
+Mississippi,2013,0.479
+Missouri,2013,0.460
+Montana,2013,0.462
+Nebraska,2013,0.445
+Nevada,2013,0.454
+New Hampshire,2013,0.439
+New Jersey,2013,0.480
+New Mexico,2013,0.476
+New York,2013,0.510
+North Carolina,2013,0.476
+North Dakota,2013,0.455
+Ohio,2013,0.465
+Oklahoma,2013,0.462
+Oregon,2013,0.460
+Pennsylvania,2013,0.470
+Rhode Island,2013,0.477
+South Carolina,2013,0.466
+South Dakota,2013,0.443
+Tennessee,2013,0.478
+Texas,2013,0.481
+Utah,2013,0.426
+Vermont,2013,0.454
+Virginia,2013,0.467
+Washington,2013,0.457
+West Virginia,2013,0.465
+Wisconsin,2013,0.445
+Wyoming,2013,0.418
+Alabama,2014,0.476
+Alaska,2014,0.417
+Arizona,2014,0.468
+Arkansas,2014,0.471
+California,2014,0.489
+Colorado,2014,0.458
+Connecticut,2014,0.500
+Delaware,2014,0.449
+Florida,2014,0.483
+Georgia,2014,0.480
+Hawaii,2014,0.432
+Idaho,2014,0.454
+Illinois,2014,0.476
+Indiana,2014,0.445
+Iowa,2014,0.443
+Kansas,2014,0.460
+Kentucky,2014,0.470
+Louisiana,2014,0.490
+Maine,2014,0.459
+Maryland,2014,0.449
+Massachusetts,2014,0.486
+Michigan,2014,0.460
+Minnesota,2014,0.454
+Mississippi,2014,0.476
+Missouri,2014,0.463
+Montana,2014,0.454
+Nebraska,2014,0.435
+Nevada,2014,0.443
+New Hampshire,2014,0.441
+New Jersey,2014,0.476
+New Mexico,2014,0.477
+New York,2014,0.511
+North Carolina,2014,0.475
+North Dakota,2014,0.466
+Ohio,2014,0.464
+Oklahoma,2014,0.466
+Oregon,2014,0.462
+Pennsylvania,2014,0.469
+Rhode Island,2014,0.483
+South Carolina,2014,0.469
+South Dakota,2014,0.447
+Tennessee,2014,0.481
+Texas,2014,0.483
+Utah,2014,0.428
+Vermont,2014,0.441
+Virginia,2014,0.466
+Washington,2014,0.454
+West Virginia,2014,0.455
+Wisconsin,2014,0.440
+Wyoming,2014,0.427
+Alabama,2015,0.481
+Alaska,2015,0.432
+Arizona,2015,0.470
+Arkansas,2015,0.477
+California,2015,0.488
+Colorado,2015,0.458
+Connecticut,2015,0.492
+Delaware,2015,0.452
+Florida,2015,0.487
+Georgia,2015,0.480
+Hawaii,2015,0.435
+Idaho,2015,0.453
+Illinois,2015,0.482
+Indiana,2015,0.452
+Iowa,2015,0.439
+Kansas,2015,0.460
+Kentucky,2015,0.478
+Louisiana,2015,0.491
+Maine,2015,0.452
+Maryland,2015,0.452
+Massachusetts,2015,0.485
+Michigan,2015,0.467
+Minnesota,2015,0.449
+Mississippi,2015,0.476
+Missouri,2015,0.463
+Montana,2015,0.462
+Nebraska,2015,0.447
+Nevada,2015,0.455
+New Hampshire,2015,0.435
+New Jersey,2015,0.483
+New Mexico,2015,0.480
+New York,2015,0.514
+North Carolina,2015,0.478
+North Dakota,2015,0.466
+Ohio,2015,0.464
+Oklahoma,2015,0.470
+Oregon,2015,0.462
+Pennsylvania,2015,0.469
+Rhode Island,2015,0.473
+South Carolina,2015,0.470
+South Dakota,2015,0.444
+Tennessee,2015,0.479
+Texas,2015,0.482
+Utah,2015,0.425
+Vermont,2015,0.445
+Virginia,2015,0.468
+Washington,2015,0.456
+West Virginia,2015,0.458
+Wisconsin,2015,0.441
+Wyoming,2015,0.437
+Alabama,2016,0.485
+Alaska,2016,0.408
+Arizona,2016,0.471
+Arkansas,2016,0.472
+California,2016,0.490
+Colorado,2016,0.459
+Connecticut,2016,0.495
+Delaware,2016,0.452
+Florida,2016,0.485
+Georgia,2016,0.481
+Hawaii,2016,0.442
+Idaho,2016,0.450
+Illinois,2016,0.481
+Indiana,2016,0.453
+Iowa,2016,0.445
+Kansas,2016,0.455
+Kentucky,2016,0.481
+Louisiana,2016,0.499
+Maine,2016,0.452
+Maryland,2016,0.450
+Massachusetts,2016,0.479
+Michigan,2016,0.470
+Minnesota,2016,0.450
+Mississippi,2016,0.483
+Missouri,2016,0.465
+Montana,2016,0.467
+Nebraska,2016,0.448
+Nevada,2016,0.458
+New Hampshire,2016,0.430
+New Jersey,2016,0.481
+New Mexico,2016,0.477
+New York,2016,0.513
+North Carolina,2016,0.478
+North Dakota,2016,0.453
+Ohio,2016,0.468
+Oklahoma,2016,0.465
+Oregon,2016,0.458
+Pennsylvania,2016,0.469
+Rhode Island,2016,0.478
+South Carolina,2016,0.474
+South Dakota,2016,0.450
+Tennessee,2016,0.479
+Texas,2016,0.480
+Utah,2016,0.426
+Vermont,2016,0.454
+Virginia,2016,0.470
+Washington,2016,0.459
+West Virginia,2016,0.471
+Wisconsin,2016,0.450
+Wyoming,2016,0.436
+Alabama,2017,0.477
+Alaska,2017,0.424
+Arizona,2017,0.467
+Arkansas,2017,0.472
+California,2017,0.487
+Colorado,2017,0.455
+Connecticut,2017,0.494
+Delaware,2017,0.481
+Florida,2017,0.486
+Georgia,2017,0.483
+Hawaii,2017,0.445
+Idaho,2017,0.448
+Illinois,2017,0.482
+Indiana,2017,0.450
+Iowa,2017,0.438
+Kansas,2017,0.454
+Kentucky,2017,0.478
+Louisiana,2017,0.493
+Maine,2017,0.453
+Maryland,2017,0.453
+Massachusetts,2017,0.485
+Michigan,2017,0.467
+Minnesota,2017,0.452
+Mississippi,2017,0.479
+Missouri,2017,0.462
+Montana,2017,0.454
+Nebraska,2017,0.439
+Nevada,2017,0.461
+New Hampshire,2017,0.439
+New Jersey,2017,0.479
+New Mexico,2017,0.478
+New York,2017,0.516
+North Carolina,2017,0.476
+North Dakota,2017,0.455
+Ohio,2017,0.464
+Oklahoma,2017,0.466
+Oregon,2017,0.459
+Pennsylvania,2017,0.478
+Rhode Island,2017,0.472
+South Carolina,2017,0.480
+South Dakota,2017,0.449
+Tennessee,2017,0.482
+Texas,2017,0.478
+Utah,2017,0.422
+Vermont,2017,0.453
+Virginia,2017,0.467
+Washington,2017,0.456
+West Virginia,2017,0.469
+Wisconsin,2017,0.447
+Wyoming,2017,0.433
+Alabama,2018,0.486
+Alaska,2018,0.432
+Arizona,2018,0.461
+Arkansas,2018,0.485
+California,2018,0.491
+Colorado,2018,0.456
+Connecticut,2018,0.501
+Delaware,2018,0.459
+Florida,2018,0.489
+Georgia,2018,0.482
+Hawaii,2018,0.445
+Idaho,2018,0.445
+Illinois,2018,0.485
+Indiana,2018,0.451
+Iowa,2018,0.441
+Kansas,2018,0.463
+Kentucky,2018,0.479
+Louisiana,2018,0.494
+Maine,2018,0.452
+Maryland,2018,0.454
+Massachusetts,2018,0.487
+Michigan,2018,0.468
+Minnesota,2018,0.454
+Mississippi,2018,0.483
+Missouri,2018,0.466
+Montana,2018,0.454
+Nebraska,2018,0.449
+Nevada,2018,0.469
+New Hampshire,2018,0.453
+New Jersey,2018,0.484
+New Mexico,2018,0.489
+New York,2018,0.513
+North Carolina,2018,0.478
+North Dakota,2018,0.443
+Ohio,2018,0.467
+Oklahoma,2018,0.469
+Oregon,2018,0.458
+Pennsylvania,2018,0.475
+Rhode Island,2018,0.470
+South Carolina,2018,0.476
+South Dakota,2018,0.445
+Tennessee,2018,0.478
+Texas,2018,0.482
+Utah,2018,0.427
+Vermont,2018,0.447
+Virginia,2018,0.475
+Washington,2018,0.457
+West Virginia,2018,0.474
+Wisconsin,2018,0.448
+Wyoming,2018,0.455
+Alabama,2019,0.474
+Alaska,2019,0.438
+Arizona,2019,0.459
+Arkansas,2019,0.475
+California,2019,0.487
+Colorado,2019,0.455
+Connecticut,2019,0.502
+Delaware,2019,0.451
+Florida,2019,0.481
+Georgia,2019,0.480
+Hawaii,2019,0.440
+Idaho,2019,0.434
+Illinois,2019,0.480
+Indiana,2019,0.458
+Iowa,2019,0.442
+Kansas,2019,0.450
+Kentucky,2019,0.476
+Louisiana,2019,0.498
+Maine,2019,0.449
+Maryland,2019,0.456
+Massachusetts,2019,0.480
+Michigan,2019,0.463
+Minnesota,2019,0.443
+Mississippi,2019,0.490
+Missouri,2019,0.463
+Montana,2019,0.460
+Nebraska,2019,0.440
+Nevada,2019,0.471
+New Hampshire,2019,0.441
+New Jersey,2019,0.478
+New Mexico,2019,0.477
+New York,2019,0.515
+North Carolina,2019,0.474
+North Dakota,2019,0.456
+Ohio,2019,0.465
+Oklahoma,2019,0.474
+Oregon,2019,0.450
+Pennsylvania,2019,0.475
+Rhode Island,2019,0.463
+South Carolina,2019,0.475
+South Dakota,2019,0.436
+Tennessee,2019,0.475
+Texas,2019,0.475
+Utah,2019,0.427
+Vermont,2019,0.447
+Virginia,2019,0.469
+Washington,2019,0.458
+West Virginia,2019,0.464
+Wisconsin,2019,0.439
+Wyoming,2019,0.435
+Alabama,2021,0.482
+Alaska,2021,0.439
+Arizona,2021,0.463
+Arkansas,2021,0.475
+California,2021,0.492
+Colorado,2021,0.460
+Connecticut,2021,0.498
+Delaware,2021,0.455
+Florida,2021,0.487
+Georgia,2021,0.479
+Hawaii,2021,0.455
+Idaho,2021,0.458
+Illinois,2021,0.482
+Indiana,2021,0.448
+Iowa,2021,0.449
+Kansas,2021,0.460
+Kentucky,2021,0.476
+Louisiana,2021,0.499
+Maine,2021,0.466
+Maryland,2021,0.463
+Massachusetts,2021,0.489
+Michigan,2021,0.466
+Minnesota,2021,0.449
+Mississippi,2021,0.481
+Missouri,2021,0.471
+Montana,2021,0.469
+Nebraska,2021,0.456
+Nevada,2021,0.473
+New Hampshire,2021,0.435
+New Jersey,2021,0.485
+New Mexico,2021,0.486
+New York,2021,0.514
+North Carolina,2021,0.480
+North Dakota,2021,0.453
+Ohio,2021,0.469
+Oklahoma,2021,0.462
+Oregon,2021,0.461
+Pennsylvania,2021,0.472
+Rhode Island,2021,0.468
+South Carolina,2021,0.476
+South Dakota,2021,0.452
+Tennessee,2021,0.482
+Texas,2021,0.478
+Utah,2021,0.445
+Vermont,2021,0.453
+Virginia,2021,0.472
+Washington,2021,0.470
+West Virginia,2021,0.486
+Wisconsin,2021,0.446
+Wyoming,2021,0.464
+Alabama,2022,0.485
+Alaska,2022,0.428
+Arizona,2022,0.466
+Arkansas,2022,0.480
+California,2022,0.495
+Colorado,2022,0.457
+Connecticut,2022,0.501
+Delaware,2022,0.441
+Florida,2022,0.490
+Georgia,2022,0.474
+Hawaii,2022,0.457
+Idaho,2022,0.443
+Illinois,2022,0.484
+Indiana,2022,0.456
+Iowa,2022,0.451
+Kansas,2022,0.463
+Kentucky,2022,0.485
+Louisiana,2022,0.491
+Maine,2022,0.460
+Maryland,2022,0.459
+Massachusetts,2022,0.498
+Michigan,2022,0.469
+Minnesota,2022,0.456
+Mississippi,2022,0.481
+Missouri,2022,0.469
+Montana,2022,0.465
+Nebraska,2022,0.461
+Nevada,2022,0.469
+New Hampshire,2022,0.447
+New Jersey,2022,0.481
+New Mexico,2022,0.480
+New York,2022,0.521
+North Carolina,2022,0.477
+North Dakota,2022,0.468
+Ohio,2022,0.469
+Oklahoma,2022,0.474
+Oregon,2022,0.468
+Pennsylvania,2022,0.478
+Rhode Island,2022,0.464
+South Carolina,2022,0.476
+South Dakota,2022,0.449
+Tennessee,2022,0.469
+Texas,2022,0.480
+Utah,2022,0.426
+Vermont,2022,0.445
+Virginia,2022,0.475
+Washington,2022,0.474
+West Virginia,2022,0.480
+Wisconsin,2022,0.451
+Wyoming,2022,0.444
+Alabama,2023,0.477
+Alaska,2023,0.449
+Arizona,2023,0.465
+Arkansas,2023,0.474
+California,2023,0.487
+Colorado,2023,0.458
+Connecticut,2023,0.495
+Delaware,2023,0.456
+Florida,2023,0.483
+Georgia,2023,0.479
+Hawaii,2023,0.451
+Idaho,2023,0.440
+Illinois,2023,0.481
+Indiana,2023,0.454
+Iowa,2023,0.446
+Kansas,2023,0.452
+Kentucky,2023,0.476
+Louisiana,2023,0.497
+Maine,2023,0.451
+Maryland,2023,0.456
+Massachusetts,2023,0.488
+Michigan,2023,0.466
+Minnesota,2023,0.454
+Mississippi,2023,0.484
+Missouri,2023,0.461
+Montana,2023,0.460
+Nebraska,2023,0.463
+Nevada,2023,0.463
+New Hampshire,2023,0.445
+New Jersey,2023,0.479
+New Mexico,2023,0.477
+New York,2023,0.516
+North Carolina,2023,0.473
+North Dakota,2023,0.445
+Ohio,2023,0.470
+Oklahoma,2023,0.474
+Oregon,2023,0.464
+Pennsylvania,2023,0.477
+Rhode Island,2023,0.466
+South Carolina,2023,0.471
+South Dakota,2023,0.462
+Tennessee,2023,0.476
+Texas,2023,0.479
+Utah,2023,0.422
+Vermont,2023,0.455
+Virginia,2023,0.472
+Washington,2023,0.470
+West Virginia,2023,0.468
+Wisconsin,2023,0.448
+Wyoming,2023,0.445
