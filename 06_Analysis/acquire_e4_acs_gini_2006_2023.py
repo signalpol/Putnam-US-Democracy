@@ -12,11 +12,13 @@ YEARS=[y for y in range(2006,2024) if y != 2020]
 API="https://api.census.gov/data/{year}/acs/acs1"
 OUT=Path("04_Raw_Data/E_Economic/Census_ACS_Gini"); OUT.mkdir(parents=True,exist_ok=True)
 key=os.getenv("CENSUS_API_KEY")
-if not key: raise RuntimeError("CENSUS_API_KEY required by current Census Data API")
+# Census Data API key is optional below the public 500-query/IP/day limit.
+# This collector uses far fewer requests; attach a key only when supplied.
 rows=[]; raw={}; failures={"2020":"STRUCTURAL_MISSING: Census did not release standard ACS 1-year estimates; experimental estimates are not comparable to standard ACS series."}
 for y in YEARS:
     url=API.format(year=y)
-    params={"get":"NAME,B19083_001E,B19083_001M","for":"state:*","key":key}
+    params={"get":"NAME,B19083_001E,B19083_001M","for":"state:*"}
+    if key: params["key"]=key
     try:
         r=requests.get(url,params=params,timeout=60); r.raise_for_status()
         data=r.json(); raw[str(y)]=data
