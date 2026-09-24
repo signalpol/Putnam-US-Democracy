@@ -1,0 +1,5 @@
+# Runtime dependencies for acquisition/validation scripts
+pandas>=2.0
+requests>=2.31
+openpyxl>=3.1
+xlrd>=2.0.1
