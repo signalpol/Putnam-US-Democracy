@@ -29,7 +29,7 @@ def normkeys(d):
     ren={}
     for c in d.columns:
         lc=c.lower()
-        if lc in ("state_fips","statefips","fips") and "state" not in d.columns: ren[c]="state"
+        if lc in ("state","state_fips","statefips","fips") and c!="state": ren[c]="state"
         if lc=="year" and c!="year": ren[c]="year"
     d=d.rename(columns=ren)
     if "state" not in d or "year" not in d: raise ValueError("state/year keys absent")
