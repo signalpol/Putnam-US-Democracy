@@ -1,56 +1,43 @@
-"""Build P03 density after CBP establishments are collected.
-Denominator: Census resident population estimate for each state/year.
-2000-2009: 2000-2010 intercensal characteristics file, total demographic row only.
-2010-2020: Vintage 2020 state totals.
-2021-2023: Vintage 2023 state totals.
-Density = NAICS 813410 establishments / resident population * 1,000.
-No interpolation.
+#!/usr/bin/env python3
+"""Build strict Putnam P03 density from observed Census CBP NAICS 813410
+establishments and the canonical Census July-1 resident-population denominator.
+No interpolation and no proxy substitution.
 """
-import pandas as pd, requests, io
+from pathlib import Path
+import pandas as pd, hashlib, json
 
-FIPS={1,2,4,5,6,8,9,10,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,44,45,46,47,48,49,50,51,53,54,55,56}
-URL00="https://www2.census.gov/programs-surveys/popest/datasets/2000-2010/intercensal/state/st-est00int-alldata.csv"
-URL20="https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/state/totals/nst-est2020-alldata.csv"
-URL23="https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/totals/NST-EST2023-ALLDATA.csv"
+CBP=Path("04_Raw_Data/P03_CBP/P03_CBP_813410_establishments_2000_2023.csv")
+POP=Path("04_Raw_Data/P03_population/P03_population_denominator_2000_2023.csv")
+OUT=Path("02_Putnam_14_Variables/P03")
+OUT.mkdir(parents=True,exist_ok=True)
 
-def read_csv(url):
-    r=requests.get(url,timeout=180); r.raise_for_status()
-    return pd.read_csv(io.BytesIO(r.content))
+def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
 
-def population_panel():
-    out=[]
-    a=read_csv(URL00)
-    # File layout: total resident population is SEX=0, ORIGIN=0, RACE=0, AGEGRP=0.
-    a=a[(a.STATE.isin(FIPS))&(a.SEX==0)&(a.ORIGIN==0)&(a.RACE==0)&(a.AGEGRP==0)]
-    assert len(a)==50
-    for y in range(2000,2010):
-        for _,r in a.iterrows(): out.append((y,int(r.STATE),r.NAME,int(r[f"POPESTIMATE{y}"]),URL00))
-    b=read_csv(URL20)
-    b=b[b.STATE.isin(FIPS)]
-    assert len(b)==50
-    for y in range(2010,2021):
-        for _,r in b.iterrows(): out.append((y,int(r.STATE),r.NAME,int(r[f"POPESTIMATE{y}"]),URL20))
-    c=read_csv(URL23)
-    c=c[c.STATE.isin(FIPS)]
-    assert len(c)==50
-    for y in range(2021,2024):
-        for _,r in c.iterrows(): out.append((y,int(r.STATE),r.NAME,int(r[f"POPESTIMATE{y}"]),URL23))
-    p=pd.DataFrame(out,columns=["year","state_fips","state_name","population","population_source"])
-    assert len(p)==1200 and not p.duplicated(["year","state_fips"]).any()
-    return p
+if not CBP.exists(): raise FileNotFoundError(CBP)
+if not POP.exists(): raise FileNotFoundError(POP)
 
-def build(establishment_csv):
-    e=pd.read_csv(establishment_csv,dtype={"state_fips":int})
-    p=population_panel()
-    z=e.merge(p,on=["year","state_fips"],how="validate",validate="one_to_one")
-    assert len(z)==1200
-    z["p03_density_per_1000"]=z["establishments"]/z["population"]*1000
-    z["variable_id"]="P03"
-    z["proxy_flag"]="PUTNAM_COMPATIBLE_ADMIN_REPLICATION"
-    z["no_interpolation"]=True
-    return z
+e=pd.read_csv(CBP,dtype={"state":str})
+p=pd.read_csv(POP,dtype={"state":str})
+e["state"]=e["state"].astype(str).str.zfill(2)
+p["state"]=p["state"].astype(str).str.zfill(2)
 
-if __name__=="__main__":
-    z=build("P03_CBP_813410_establishments_2000_2023.csv")
-    z.to_csv("P03_Civic_Social_Organization_Density_2000_2023.csv",index=False)
-    print("OK",z.shape)
+if "ESTAB" not in e.columns: raise RuntimeError("CBP ESTAB column missing")
+if not {"state","year","population"}.issubset(p.columns): raise RuntimeError("population schema mismatch")
+if e.duplicated(["state","year"]).any() or p.duplicated(["state","year"]).any():
+    raise RuntimeError("duplicate state-year keys")
+
+x=e.merge(p[["state","year","population"]],on=["state","year"],how="left",validate="one_to_one")
+if len(x)!=1200 or x["state"].nunique()!=50 or x["year"].nunique()!=24:
+    raise RuntimeError(f"P03 grid failure: rows={len(x)} states={x['state'].nunique()} years={x['year'].nunique()}")
+if x["population"].isna().any(): raise RuntimeError("population denominator missing")
+x["P03_civic_social_orgs_per_1000"]=1000*pd.to_numeric(x["ESTAB"],errors="raise")/pd.to_numeric(x["population"],errors="raise")
+if x["P03_civic_social_orgs_per_1000"].isna().any() or (x["P03_civic_social_orgs_per_1000"]<0).any():
+    raise RuntimeError("invalid P03 density")
+
+out=OUT/"S1_P03_CBP_813410_density_2000_2023.csv"
+x.to_csv(out,index=False)
+m={"construct":"NAICS 813410 Civic and Social Organizations establishments per 1,000 July-1 residents",
+   "coverage":"50 states x 2000-2023","rows":len(x),"no_interpolation":True,
+   "cbp_sha256":sha(CBP),"population_sha256":sha(POP),"output_sha256":sha(out)}
+(OUT/"S1_P03_density_manifest.json").write_text(json.dumps(m,indent=2),encoding="utf-8")
+print(json.dumps(m,indent=2))
