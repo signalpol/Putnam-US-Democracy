@@ -15,6 +15,7 @@ OUT.parent.mkdir(parents=True,exist_ok=True)
 steps=[
  ("P03_CBP","06_Analysis/acquire_p03_cbp_2000_2023.py"),
  ("P03_POP","06_Analysis/acquire_p03_population_denominator.py"),
+ ("P03_DENSITY","06_Analysis/build_P03_density_population.py"),
  ("P06_UF","06_Analysis/acquire_p06_uf_electionlab_v1_2.py"),
  ("P08_BMF","06_Analysis/acquire_p08_nccs_historical_bmf.py"),
  ("P08_DENSITY","06_Analysis/build_p08_density.py"),
