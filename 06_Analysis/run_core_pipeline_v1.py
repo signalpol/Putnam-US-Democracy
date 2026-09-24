@@ -19,7 +19,7 @@ steps=[
  ("P03_POP","06_Analysis/acquire_p03_population_denominator.py"),
  ("CORE_D_E","06_Analysis/run_core_acquisition_colab_v1.py"),
  ("ECONOMIC_GATE","06_Analysis/validate_economic_block_v1.py"),
- ("D_SDI2","06_Analysis/acquire_d_sdi2_2000_2023.py"),
+ ("D_SDI2","06_Analysis/acquire_d_sdi2_2000_2023.py"),\n ("SOCIAL_GATE","06_Analysis/validate_social_capital_block_v1.py"),
  ("SOCIAL_CAPITAL_GATE","06_Analysis/validate_social_capital_block_v1.py"),
 ]
 
@@ -66,7 +66,7 @@ except Exception as e:
 manifest["steps"]["MASTER_V020_STRICT"]=run(
  "MASTER_V020_STRICT","06_Analysis/build_master_panel_v0_20_STRICT.py")
 
-required=["P03_CBP","P03_POP","CORE_D_E","ECONOMIC_GATE","D_SDI2","P03_DENSITY","MASTER_V020_STRICT"]\n# SOCIAL_CAPITAL_GATE is acquisition-status reporting: PARTIAL is expected until all strict P01-P14 are acquired.\n# It must not falsely turn the executable core pipeline into PASS for substantive S completeness.
+required=["P03_CBP","P03_POP","CORE_D_E","ECONOMIC_GATE","D_SDI2","SOCIAL_GATE","P03_DENSITY","MASTER_V020_STRICT"]\n# SOCIAL_CAPITAL_GATE is acquisition-status reporting: PARTIAL is expected until all strict P01-P14 are acquired.\n# It must not falsely turn the executable core pipeline into PASS for substantive S completeness.
 manifest["status"]="PASS" if all(manifest["steps"].get(k,{}).get("status")=="PASS" for k in required) else "PARTIAL"
 LOG.write_text(json.dumps(manifest,indent=2))
 print(json.dumps(manifest,indent=2))
