@@ -13,7 +13,7 @@ OUT=ROOT/"05_Audit_Provenance/Economic_Block_Validation_v1.json"
 OUT.parent.mkdir(parents=True,exist_ok=True)
 
 steps=[
- ("E1_E2_BEA","06_Analysis/acquire_e1_e2_bea_2000_2023.py"),
+ ("E1_E2_BEA","06_Analysis/acquire_e1_e2_bea_2000_2023.py"),\n ("E1_E2_BUILD","06_Analysis/build_e1_e2_canonical.py"),
  ("E3_BLS_LAUS","06_Analysis/acquire_e3_bls_laus_2000_2023.py"),
  ("E4_ACS_GINI","06_Analysis/acquire_e4_acs_gini_2006_2023.py"),
  ("E5_BEA_MFG_SHARE","06_Analysis/acquire_e5_bea_manufacturing_share_2000_2023.py"),
