@@ -49,7 +49,7 @@ except Exception as e:
 m["steps"]["MASTER_V020_STRICT"]=run("06_Analysis/build_master_panel_v0_20_STRICT.py")
 
 # PIPELINE_COMPLETE is deliberately stricter than "a master file was written".
-required=("ECONOMIC_GATE","D_SDI2","SOCIAL_GATE","P03_DENSITY","MASTER_V020_STRICT")
+required=("PREFLIGHT","ECONOMIC_GATE","D_SDI2","SOCIAL_GATE","P03_DENSITY","MASTER_V020_STRICT")
 m["status"]="PASS" if all(m["steps"].get(k,{}).get("status")=="PASS" for k in required) else "PARTIAL"
 m["interpretation"]="PARTIAL means at least one acquisition/validation block is not executable or not acquired; it is not evidence failure and triggers no imputation."
 LOG.write_text(json.dumps(m,indent=2),encoding="utf-8")
