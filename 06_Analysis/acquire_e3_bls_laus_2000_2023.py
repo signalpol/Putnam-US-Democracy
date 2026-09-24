@@ -14,7 +14,7 @@ Employment-population ratio is NOT inferred from employed/labor force; that woul
 be an employment rate, not the BLS employment-population ratio. Acquire the
 proper population denominator/series separately before adding EPOP.
 """
-import json, hashlib, sys, time
+import json, hashlib, sys, time, os
 from pathlib import Path
 import requests
 import pandas as pd
@@ -83,7 +83,7 @@ wide.to_csv(csv_path,index=False)
 manifest={
  "source":"U.S. Bureau of Labor Statistics, Local Area Unemployment Statistics",
  "api":API,"coverage":"50 states x 2000-2023","rows":len(wide),
- "no_interpolation":True,
+ "no_interpolation":True,"api_registration_key_used":bool(key),
  "raw_sha256":hashlib.sha256(raw_path.read_bytes()).hexdigest(),
  "csv_sha256":hashlib.sha256(csv_path.read_bytes()).hexdigest(),
  "note":"DC and territories excluded. Annual averages only. EPOP not fabricated."
