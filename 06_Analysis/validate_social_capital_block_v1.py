@@ -37,20 +37,20 @@ for label,script in steps: m["execution"][label]=run(script)
 # Variable-level status reflects the present strict-data architecture, not a claim
 # that a full 2000-2023 numeric panel exists.
 m["variables"]={
- "P01":{"construct":"Committee Service","strict_status":"SOURCE_IDENTIFIED_RAW_NOT_ACQUIRED","source":"Roper cumulative archive"},
- "P02":{"construct":"Officer Service","strict_status":"SOURCE_IDENTIFIED_RAW_NOT_ACQUIRED","source":"Roper cumulative archive"},
+ "P01":{"construct":"Committee Service","strict_status":"BLOCKED_SOURCE","source":"Roper exact lineage; separate post-1994 continuation not acquired"},
+ "P02":{"construct":"Officer Service","strict_status":"BLOCKED_SOURCE","source":"Roper exact lineage; separate post-1994 continuation not acquired"},
  "P03":{"construct":"Civic & Social Organization Density","strict_status":"COLLECTOR_PRESENT","source":"Census CBP 813410 + Census July-1 population"},
- "P04":{"construct":"Club Meetings","strict_status":"UNRESOLVED_STRICT_CONTINUATION"},
- "P05":{"construct":"Group Membership","strict_status":"UNRESOLVED_STRICT_CONTINUATION"},
+ "P04":{"construct":"Club Meetings","strict_status":"MISSING_STRICT","reason":"binary meeting-attendance proxy is non-equivalent to annual count"},
+ "P05":{"construct":"Group Membership","strict_status":"PENDING_SOURCE","reason":"count candidate requires canonical state-weighted acquisition"},
  "P06":{"construct":"Presidential Turnout","strict_status":"ELECTION_WAVE_COLLECTOR_PRESENT","source":"UF Election Lab VEP; equivalence gate remains"},
- "P07":{"construct":"Public Meeting Attendance","strict_status":"UNRESOLVED_STRICT_CONTINUATION"},
+ "P07":{"construct":"Public Meeting Attendance","strict_status":"PENDING_EQUIVALENCE","reason":"exact town/school wording unresolved"},
  "P08":{"construct":"Nonprofit Organization Density","strict_status":"OBSERVED_SNAPSHOT_COLLECTOR_PRESENT","source":"NCCS/IRS BMF + Census population"},
- "P09":{"construct":"Community Project","strict_status":"UNRESOLVED_STRICT_CONTINUATION"},
- "P10":{"construct":"Volunteer Work","strict_status":"UNRESOLVED_STRICT_CONTINUATION"},
- "P11":{"construct":"Visiting Friends","strict_status":"DDB_POST1998_PUBLIC_MICRODATA_UNRESOLVED"},
- "P12":{"construct":"Entertain at Home","strict_status":"DDB_POST1998_PUBLIC_MICRODATA_UNRESOLVED"},
+ "P09":{"construct":"Community Project","strict_status":"MISSING_STRICT","reason":"rate proxy non-equivalent to original annual frequency/count"},
+ "P10":{"construct":"Volunteer Work","strict_status":"PENDING_EQUIVALENCE","reason":"annual frequency conversion must be supported without assumptions"},
+ "P11":{"construct":"Visiting Friends","strict_status":"BLOCKED_SOURCE","reason":"exact DDB post-1998 public microdata not acquired"},
+ "P12":{"construct":"Entertain at Home","strict_status":"BLOCKED_SOURCE","reason":"exact DDB post-1998 public microdata not acquired"},
  "P13":{"construct":"Generalized Trust","strict_status":"NATIONAL_GSS_ONLY_STATE_GEOCODE_RESTRICTED","source":"GSS TRUST"},
- "P14":{"construct":"Perceived Honesty","strict_status":"DDB_POST1998_PUBLIC_MICRODATA_UNRESOLVED"},
+ "P14":{"construct":"Perceived Honesty","strict_status":"BLOCKED_SOURCE","reason":"exact DDB post-1998 public microdata not acquired"},
 }
 # Overall PASS is intentionally impossible unless all P01-P14 have validated S1
 # data; PARTIAL is the correct state during acquisition.
