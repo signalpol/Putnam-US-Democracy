@@ -17,7 +17,7 @@ LOG.parent.mkdir(parents=True,exist_ok=True)
 steps=[
  ("P03_CBP","06_Analysis/acquire_p03_cbp_2000_2023.py"),
  ("P03_POP","06_Analysis/acquire_p03_population_denominator.py"),
- ("CORE_D_E","06_Analysis/run_core_acquisition_colab_v1.py"),\n ("ECONOMIC_GATE","06_Analysis/validate_economic_block_v1.py"),\n ("D_SDI2","06_Analysis/acquire_d_sdi2_2000_2023.py"),
+ ("CORE_D_E","06_Analysis/run_core_acquisition_colab_v1.py"),\n ("ECONOMIC_GATE","06_Analysis/validate_economic_block_v1.py"),\n ("D_SDI2","06_Analysis/acquire_d_sdi2_2000_2023.py"),\n ("SOCIAL_CAPITAL_GATE","06_Analysis/validate_social_capital_block_v1.py"),
 ]
 
 manifest={
@@ -63,7 +63,7 @@ except Exception as e:
 manifest["steps"]["MASTER_V020_STRICT"]=run(
  "MASTER_V020_STRICT","06_Analysis/build_master_panel_v0_20_STRICT.py")
 
-required=["P03_CBP","P03_POP","CORE_D_E","ECONOMIC_GATE","D_SDI2","P03_DENSITY","MASTER_V020_STRICT"]
+required=["P03_CBP","P03_POP","CORE_D_E","ECONOMIC_GATE","D_SDI2","SOCIAL_CAPITAL_GATE","P03_DENSITY","MASTER_V020_STRICT"]
 manifest["status"]="PASS" if all(manifest["steps"].get(k,{}).get("status")=="PASS" for k in required) else "PARTIAL"
 LOG.write_text(json.dumps(manifest,indent=2))
 print(json.dumps(manifest,indent=2))
