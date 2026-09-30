@@ -22,6 +22,11 @@ jobs:
         run: curl -fsSL https://data.nber.org/cps/ | grep -oi 'href="[^"]*"' | grep -E 'nov0(8|9)c|nov09' | head -100 || true
       - name: Probe Census API without key
         run: curl -sS 'https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&col+PEQ5A&for=state:05' | head -c 1000 || true
+      - name: Inspect available source ZIPs
+        run: |
+          curl -fsSL https://data.nber.org/cps/cpsnov08c.zip -o /tmp/08.zip && unzip -l /tmp/08.zip | head -30
+          for y in 2010 2011 2013; do u=https://www2.census.gov/programs-surveys/cps/datasets/$y/supp/nov${y:2:2}pub.zip; echo $u; curl -sSIL -o /dev/null -w '%{http_code}\n' $u; done
+          curl -sSIL -o /dev/null -w '2010civic %{http_code}\n' https://www2.census.gov/programs-surveys/cps/datasets/2010/supp/nov10pub_civic.zip
       - name: Extract S2
         run: python 06_Analysis/S2_extract_cps_2008_2013.py
       - uses: actions/upload-artifact@v4
