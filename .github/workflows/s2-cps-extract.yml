@@ -1,0 +1,23 @@
+name: S2 CPS extraction
+on:
+  push:
+    paths:
+      - '.github/workflows/s2-cps-extract.yml'
+  workflow_dispatch:
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Extract S2
+        run: python 06_Analysis/S2_extract_cps_2008_2013.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: S2-CPS-2008-2013
+          path: s2_out/
+          retention-days: 7
