@@ -18,6 +18,8 @@ jobs:
       - name: Probe NBER legacy files
         run: |
           for base in cpsnov08c cpsnov09c; do for u in https://data.nber.org/cps/$base.dta https://data.nber.org/cps/$base.zip https://data.nber.org/cps/$base.dta.zip https://data.nber.org/cps/$base.csv; do echo $u; curl -sSIL -o /dev/null -w '%{http_code} %{url_effective}\n' $u || true; done; done
+      - name: Inspect NBER CPS directory
+        run: curl -fsSL https://data.nber.org/cps/ | grep -oi 'href="[^"]*"' | grep -E 'nov0(8|9)c|nov09' | head -100 || true
       - name: Extract S2
         run: python 06_Analysis/S2_extract_cps_2008_2013.py
       - uses: actions/upload-artifact@v4
