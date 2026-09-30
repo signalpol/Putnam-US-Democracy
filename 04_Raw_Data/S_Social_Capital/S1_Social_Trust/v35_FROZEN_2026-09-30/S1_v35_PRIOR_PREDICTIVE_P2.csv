@@ -1,0 +1,4 @@
+rung,spec,C1_diag_share_in_0_1,C1_diag_share_in_m05_15,C2_pass,C2_failing_blocks,C3_pass,C3_outside,C1_original_rule,C1_original_status
+P2,STRICT,0.9861925,0.9998675,True,,True,,"[0,1] share >= 0.99 (original pre-declared gate)",FAILED DIAGNOSTIC
+P2,CORE,0.969421,0.999788,True,,True,,"[0,1] share >= 0.99 (original pre-declared gate)",FAILED DIAGNOSTIC
+P2,FULL,0.9432720512820513,0.9967255128205128,True,,True,,"[0,1] share >= 0.99 (original pre-declared gate)",FAILED DIAGNOSTIC
