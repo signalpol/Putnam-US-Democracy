@@ -15,6 +15,9 @@ jobs:
       - name: Inspect legacy source names
         run: |
           for y in 2008 2009; do echo YEAR=$y; curl -fsSL https://www2.census.gov/programs-surveys/cps/datasets/$y/supp/ | grep -oi 'href="[^"]*"' | grep -i nov || true; done
+      - name: Probe NBER legacy files
+        run: |
+          for base in cpsnov08c cpsnov09c; do for u in https://data.nber.org/cps/$base.dta https://data.nber.org/cps/$base.zip https://data.nber.org/cps/$base.dta.zip https://data.nber.org/cps/$base.csv; do echo $u; curl -sSIL -o /dev/null -w '%{http_code} %{url_effective}\n' $u || true; done; done
       - name: Extract S2
         run: python 06_Analysis/S2_extract_cps_2008_2013.py
       - uses: actions/upload-artifact@v4
