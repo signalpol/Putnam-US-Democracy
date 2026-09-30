@@ -1,9 +1,6 @@
 name: S2 CPS extraction
 on:
   push:
-    paths:
-      - '.github/workflows/s2-cps-extract.yml'
-      - '06_Analysis/S2_ACTION_TRIGGER_2026-10-01.txt'
   workflow_dispatch:
 jobs:
   extract:
