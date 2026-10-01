@@ -1,0 +1,230 @@
+[
+  {
+    "name": "full_raw_structure",
+    "pass": true,
+    "detail": {
+      "records": 152162,
+      "record_lengths": {
+        "990": 152162
+      },
+      "official_records": 152162
+    }
+  },
+  {
+    "name": "all_51_geographies",
+    "pass": true,
+    "detail": "50 states+DC in eligible records"
+  },
+  {
+    "name": "universe_verified",
+    "pass": true,
+    "detail": {
+      "age_min": 18,
+      "civilian": true,
+      "supplement_interview": 1,
+      "MIS_counts": {
+        "4": 9168,
+        "3": 9573,
+        "2": 9579,
+        "8": 9344,
+        "5": 9590,
+        "6": 9584,
+        "7": 9648,
+        "1": 9598
+      },
+      "outgoing_only": false,
+      "proxy_allowed": true,
+      "source": "Attachment1/3"
+    }
+  },
+  {
+    "name": "valid_group_variables_verified",
+    "pass": true,
+    "detail": "2010 Attachment7/8 and API metadata: PEQ5A-E"
+  },
+  {
+    "name": "weight_verified",
+    "pass": true,
+    "detail": "2010 Attachment3 instructs PWNRWGT; raw field 981-990 divided by10000; API reports person units"
+  },
+  {
+    "name": "missing_rule_verified",
+    "pass": true,
+    "detail": "Any Yes=>1; all five No=>0; otherwise missing, no negative recoding"
+  },
+  {
+    "name": "50_states_exactly",
+    "pass": true,
+    "detail": "canonical row count"
+  },
+  {
+    "name": "DC_excluded",
+    "pass": true,
+    "detail": "DC stored separately"
+  },
+  {
+    "name": "duplicates_zero",
+    "pass": true,
+    "detail": "state-year duplicates=0"
+  },
+  {
+    "name": "missing_state_estimate_zero",
+    "pass": true,
+    "detail": "all states have positive valid denominator"
+  },
+  {
+    "name": "year_2010",
+    "pass": true,
+    "detail": "no other year extraction"
+  },
+  {
+    "name": "direct_observations_50",
+    "pass": true,
+    "detail": "all observations DIRECT"
+  },
+  {
+    "name": "respondent_count_recorded",
+    "pass": true,
+    "detail": {
+      "respondents": 76084,
+      "published_Q5A_total": 76084
+    }
+  },
+  {
+    "name": "weighted_denominators_recorded",
+    "pass": true,
+    "detail": "state and item denominators preserved"
+  },
+  {
+    "name": "partition",
+    "pass": true,
+    "detail": "valid plus missing partition, weights sum"
+  },
+  {
+    "name": "range",
+    "pass": true,
+    "detail": "proportions [0,1]"
+  },
+  {
+    "name": "official_Q5A_frequencies",
+    "pass": true,
+    "detail": {
+      "expected": {
+        "1": 11369,
+        "2": 63408,
+        "-2": 360,
+        "-3": 816,
+        "-9": 131
+      },
+      "observed": {
+        "2": 63408,
+        "-3": 816,
+        "-9": 131,
+        "1": 11369,
+        "-2": 360
+      },
+      "source": "Attachment13"
+    }
+  },
+  {
+    "name": "official_benchmark_None",
+    "pass": true,
+    "detail": {
+      "observed": "229690388.5952",
+      "published_rounded": 229690000,
+      "tolerance_persons": 500,
+      "source": "2010 Attachment16 Illustration3",
+      "weight_basis": "PWSSWGT all civilian18+ population control",
+      "note": "The illustration population base is reproduced with basic final weight; canonical estimates retain the instructed supplement weight and valid-response denominator."
+    }
+  },
+  {
+    "name": "official_benchmark_0",
+    "pass": true,
+    "detail": {
+      "observed": "31294640.7784",
+      "published_rounded": 31295000,
+      "tolerance_persons": 500,
+      "source": "2010 Attachment16 Illustration3",
+      "weight_basis": "PWNRWGT supplement Yes",
+      "note": "The illustration population base is reproduced with basic final weight; canonical estimates retain the instructed supplement weight and valid-response denominator."
+    }
+  },
+  {
+    "name": "official_benchmark_2",
+    "pass": true,
+    "detail": {
+      "observed": "21561116.5224",
+      "published_rounded": 21561000,
+      "tolerance_persons": 500,
+      "source": "2010 Attachment16 Illustration3",
+      "weight_basis": "PWNRWGT supplement Yes",
+      "note": "The illustration population base is reproduced with basic final weight; canonical estimates retain the instructed supplement weight and valid-response denominator."
+    }
+  },
+  {
+    "name": "raw_API_weighted_PEQ5A",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4941",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "raw_API_weighted_PEQ5B",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4993",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "raw_API_weighted_PEQ5C",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4976",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "raw_API_weighted_PEQ5D",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4997",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "raw_API_weighted_PEQ5E",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4956",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "SE_coverage_reported",
+    "pass": true,
+    "detail": "0/50. No 2010 Civic replicate series provided by consulted Census 2010 download page or API metadata; official generalized variance parameters preserved in source excerpts, but no unverified state-domain design formula used. No binomial SE substituted."
+  },
+  {
+    "name": "no_interpolation",
+    "pass": true,
+    "detail": "2010 respondent microdata only; no other-year estimates used"
+  },
+  {
+    "name": "no_model_estimates",
+    "pass": true,
+    "detail": "2010 respondent microdata only; no other-year estimates used"
+  },
+  {
+    "name": "no_adjacent_year_substitution",
+    "pass": true,
+    "detail": "2010 respondent microdata only; no other-year estimates used"
+  }
+]
