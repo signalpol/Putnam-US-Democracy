@@ -1,0 +1,7 @@
+dimension,status,year_2009,year_2010,evidence
+questionnaire wording,CHANGED,"Next, I will give you a list of types of groups or organizations; November2008-now",The next questions are about the groups or organizations; Please tell me whether or not; November2009-now,"2009 and2010 Attachment7/8; same 12-month participation reference, revised introduction"
+group categories,SAME,school/neighborhood/community; service/civic; sports/recreation; religious excluding service attendance; other,same five categories,Official questionnaires and PEQ5A-E descriptions
+universe,CHANGED,civilian noninstitutional age18+ outgoing MIS4/8; self/proxy; reporter18+,civilian noninstitutional age18+ all MIS1-8; self/proxy; reporter15+,Attachment1/3;2010 raw eligible MIS counts cover all1-8;2009 explicit outgoing sample
+weight,SAME,PWNRWGT supplement nonresponse weight,PWNRWGT supplement nonresponse weight,Official name and instructed purpose match; identical numeric weights or weighting calibration not asserted
+missing coding,SAME,-1 NIU;-2 DK;-3 refused;-9 N/A,-1 NIU;-2 DK;-3 refused;-9 N/A,2010 codebook/API and2009 codebook/API
+response coding,SAME,1 Yes;2 No,1 Yes;2 No,Official PEQ5A-E valid entries
