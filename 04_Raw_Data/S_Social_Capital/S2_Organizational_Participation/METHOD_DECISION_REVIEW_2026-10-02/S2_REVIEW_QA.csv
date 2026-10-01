@@ -1,0 +1,9 @@
+check,observed,expected,status
+Inherited rows,400,400,PASS
+Inherited states,50,50,PASS
+Inherited duplicate state-year,0,0,PASS
+GitHub versus Drive parsed direct values,0,0,PASS
+Prior CPS raw-derived outputs preserved within base rounding,4,4,PASS
+Final 1200-row canonical panel,NOT GENERATED,1200,BLOCKED_METHOD_DECISION
+2008 raw acquisition,NOT ACQUIRED,Raw microdata or evidence of methodological impossibility,UNRESOLVED
+Model selection,M1 and M2 materially diverge; similar holdout,PI target/regime decision,BLOCKED_METHOD_DECISION
