@@ -1,0 +1,165 @@
+{
+  "run_id": "S2_2013_20261001T115713Z",
+  "start_utc": "2026-10-01T11:57:13.458113+00:00",
+  "year": 2013,
+  "code_sha256": "0a547b22de8bfdbe094603f44242e4436f1261b35a042d348c61350296e5766b",
+  "inputs": {
+    "QA_SPEC.json": {
+      "sha256": "b6107d196ebc8f1624f78a15356db196ff8539097a92c9ff3b3270ef3cba272b",
+      "bytes": 962
+    },
+    "source_links.json": {
+      "sha256": "9ca3865671b80219dc7db108d56bf6b4244f6e1b4a8725874d06bd5bac2a3bed",
+      "bytes": 1179
+    },
+    "external_benchmark_source.json": {
+      "sha256": "ca7350095853a9d7979d386e3762353e11a8fb472a52e70bad9d71a058352711",
+      "bytes": 1009
+    },
+    "nov13pub.dat.gz": {
+      "sha256": "10f89ef543f5444f4e3b738425d27b7398a9894faecc4bff893a30749b3abf4f",
+      "bytes": 13720354
+    },
+    "nov13nrrep.dat.gz": {
+      "sha256": "d59a9d23ff6ad8bf9b5fe68c4a09c3a3617e4e27d494b3d7bcadd4c992be07c1",
+      "bytes": 30972712
+    },
+    "cpsnov13.pdf": {
+      "sha256": "e177c2f16ea469a96cfc91e0e5eb6a31087bfbc5aa6e2ae8f5d406f784d51a13",
+      "bytes": 539727
+    },
+    "nrrep.sas": {
+      "sha256": "0178f1b7db06f5f3902e55601021be856bbd77a76ec4e56b9d127c8ac0884219",
+      "bytes": 9309
+    },
+    "person_replicate_instructions.doc": {
+      "sha256": "3277daf7eb877606ac66e92e66e1083e433b0d1e2eefbaf21ae42ee59b8aa374",
+      "bytes": 286208
+    },
+    "person_replicate_instructions.txt": {
+      "sha256": "1aa415e0e877af3ae3e1fe217b0c094206acff599aeed35c38c2962d902c98bf",
+      "bytes": 27905
+    },
+    "variables.json": {
+      "sha256": "19275237f00fb95c4724e2f3a8dba9d4671f6502e1d4d4679289a9aa9f9fcac2",
+      "bytes": 405021
+    },
+    "verified_variables.json": {
+      "sha256": "d193b9213c33a287c3c27373c61bf1ca012fcb90c1b01315e152c06735d6e4f0",
+      "bytes": 4749
+    }
+  },
+  "steps": [
+    {
+      "stage": "direct_extraction",
+      "end_utc": "2026-10-01T11:57:19.723163+00:00",
+      "respondents": 38601,
+      "canonical_rows": 50,
+      "status": "PASS"
+    },
+    {
+      "stage": "API_QA",
+      "end_utc": "2026-10-01T11:57:47.253406+00:00",
+      "status": "PASS",
+      "checks_passed": 39,
+      "checks_total": 39
+    }
+  ],
+  "api_requests": [
+    {
+      "variable": "PES5A",
+      "url_without_key": "https://api.census.gov/data/2013/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5A&PES5A=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T11:57:19.724633+00:00",
+      "http_status": 200,
+      "response_bytes": 8531,
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T11:57:33.885663+00:00",
+      "status": "UNAVAILABLE_AUTH_REQUIRED",
+      "environment_key_available": false
+    },
+    {
+      "variable": "PES5B",
+      "url_without_key": "https://api.census.gov/data/2013/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5B&PES5B=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T11:57:19.725387+00:00",
+      "http_status": 200,
+      "response_bytes": 8531,
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T11:57:33.978323+00:00",
+      "status": "UNAVAILABLE_AUTH_REQUIRED",
+      "environment_key_available": false
+    },
+    {
+      "variable": "PES5C",
+      "url_without_key": "https://api.census.gov/data/2013/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5C&PES5C=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T11:57:19.725914+00:00",
+      "http_status": 200,
+      "response_bytes": 8531,
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T11:57:33.822149+00:00",
+      "status": "UNAVAILABLE_AUTH_REQUIRED",
+      "environment_key_available": false
+    },
+    {
+      "variable": "PES5D",
+      "url_without_key": "https://api.census.gov/data/2013/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5D&PES5D=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T11:57:33.822188+00:00",
+      "http_status": 200,
+      "response_bytes": 8531,
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T11:57:47.252566+00:00",
+      "status": "UNAVAILABLE_AUTH_REQUIRED",
+      "environment_key_available": false
+    },
+    {
+      "variable": "PES5E",
+      "url_without_key": "https://api.census.gov/data/2013/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5E&PES5E=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T11:57:33.885718+00:00",
+      "http_status": 200,
+      "response_bytes": 8531,
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T11:57:47.227914+00:00",
+      "status": "UNAVAILABLE_AUTH_REQUIRED",
+      "environment_key_available": false
+    }
+  ],
+  "exit_code": 0,
+  "end_utc": "2026-10-01T11:57:47.253424+00:00",
+  "outputs": {
+    "S2_2013_EXTERNAL_BENCHMARK_QA_v1.csv": "193197d3a1f694a7fc26f20d6aeb7d3749578a804751744e7a102f9ea5818ca5",
+    "S2_2013_REPLICATE_ESTIMATES_v1.csv": "09ceafa50068d9b47576038f97a1f8e236bb458511a25147a499bc7b4ffa8204",
+    "S2_2013_DC_QA_v1.csv": "9bac76ba489536a1ba04058b72041f29f7fec672f1cabe409b54376ee6d5bc12",
+    "S2_2013_ITEM_COUNTS_v1.csv": "242edb510dc2c2d7a31a583df0c6d91b1bb70b213efa9d9a08ed0256e9832e80",
+    "S2_Organizational_Participation_2013_DIRECT_v1.csv": "b94140406c3db8264e7e9476a6ba58da92b5fc41bfa05cbf9a0c19c760f686d5",
+    "S2_2013_NATIONAL_QA_v1.csv": "f8ac2c08de8172332a6ed7aa2a02d067ea153f7566c1e84a401f77ad92e220f6"
+  }
+}
