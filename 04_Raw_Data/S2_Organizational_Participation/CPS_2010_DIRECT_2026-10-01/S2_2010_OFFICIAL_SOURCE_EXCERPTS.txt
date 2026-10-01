@@ -1,0 +1,305 @@
+Overview/proxy/weight
+
+
+
+
+                                                                   2-5
+
+                                            ATTACHMENT 3
+
+                                               OVERVIEW
+
+                           November 2010: Civic Engagement Supplement
+
+
+General
+
+Census Bureau staff conducted the November 2010 Civic Engagement Survey as a supplement to that
+month's Current Population Survey (CPS). The CPS is a monthly labor force survey in which interviews
+are conducted in approximately 54,000 households across the country. Attachment 8 contains a copy of the
+supplement questions asked of all civilian household members 18 years old or older.
+
+Attachment 2 comprises a description of the CPS entitled "Overview--Current Population Survey." A
+description of the November 2010 Civic Engagement Supplement follows.
+
+Data Collection
+
+Census Bureau staff conducted interviews during the period of November 14-23, 2010. Self or proxy
+responses were allowed for this supplement, that is, a single respondent could provide answers for
+themselves or provide answers for all eligible households members, provided the respondent him/herself
+was a household member 15 years of age or older.
+
+The supplement questions related to people’s involvement in their communities and communication with
+their friends and family. The questions sought to measure the level of civic engagement of individuals in
+the United States. Civic engagement is a broad concept that can be defined by one’s level of or involvement
+in: empowerment and political action; groups and networks; trust and solidarity; information and
+communication; and social cohesion and inclusion.
+
+Interviewers received a 1 1/2 hour self-study that contained exercises on the basic labor force questions,
+item-by-item instructions for the supplement, supplement exercises and practice interviews.
+
+Data Processing
+
+
+Exact group items
+
+                  1      Yes
+                  2      No
+
+
+                                      6-102
+
+NAME       SIZE       DESCRIPTION                        LOCATION
+
+PRDISFLG    2     DOES THIS PERSON HAVE ANY OF THESE       918 - 919
+                  DISABILITY CONDITIONS?
+
+                  EDITED UNIVERSE:
+                  PEDISEAR OR PEDISEYE OR PEDISREM,
+                  PEDISPHY OR PEDISDRS OR PEDISOUT = 1
+
+                  VALID ENTRIES
+
+                  1      Yes
+                  2      No
+
+PXDISEAR    2     ALLOCATION FLAG                          920 -921
+
+PXDISEYE    2     ALLOCATION FLAG                          922 - 923
+
+PXDISREM    2     ALLOCATION FLAG                          924 - 925
+
+PXDISPHY    2     ALLOCATION FLAG                          926 - 927
+
+PXDISDRS    2     ALLOCATION FLAG                          928 - 929
+
+PXDISOUT    2     ALLOCATION FLAG                          930 – 931
+
+HXFAMINC    2     ALLOCATION FLAG                          932 – 933
+
+FILLER      17    FILLER                                   934 – 950
+
+
+
+
+                                      6-103
+
+                            ATTACHMENT 7
+
+                     SUPPLEMENT RECORD LAYOUT
+
+              Current Population Survey, November 2010
+                    Civic Engagement Supplement
+
+
+
+NAME   SIZE     DESCRIPTION                                        LOCATION
+
+PEQ2     2      These next questions are about people’s             951-952
+                involvement and communication within their
+                communities. During a TYPICAL MONTH in
+                the past year when communicating with family
+                and friends, – how often were politics discussed
+                – basically every day, a few times a week, a few
+                times a month, once a month, or not at all?
+
+                EDITED UNIVERSE:
+                PRSUPINT = 1
+
+                VALID ENTRIES:
+
+                -9    N/A
+                -3    Refused
+                -2    Don't know
+                -1    NIU
+                 1    Basically every day
+                 2    A few times a week
+                 3    A few times a month
+                 4    Once a month
+                 5    Not at all
+
+
+
+
+                                   7-1
+
+NAME    SIZE   DESCRIPTION                                        LOCATION
+
+PEQ4A     2    I am going to read a list of things some people     953-954
+               have done to express their views. Please tell
+               me whether or not you have done any of the
+               following in the last 12 months, that is
+               between November 2009 and now:
+               Contacted or visited a public official - at any
+               level of government - to express your
+               opinion?
+
+               EDITED UNIVERSE:
+               PRSUPINT = 1
+
+Published Q5A frequency
+101      Philadelphia
+125      Washington
+129      Westmoreland
+133      York
+
+                        South Carolina
+
+007      Anderson
+045      Greenville
+051      Horry
+063      Lexington
+079      Richland
+083      Spartanburg
+
+                          Tennessee
+
+
+Variance discussion
+        •        Net movement between the United States and Puerto Rico.
+        •        Estimates of temporary migration.
+        •        Estimates of net residual foreign-born population, which include unauthorized migration.
+
+Because the latest available information on these components lags the survey date, it is necessary to
+make short-term projections of these components to develop the estimate for the survey date.
+
+
+
+
+3
+    For further information on CATI and CAPI and the eligibility criteria, please see reference [2].
+
+                                                            16-2
+
+ACCURACY OF THE ESTIMATES
+
+A sample survey estimate has two types of error: sampling and nonsampling. The accuracy of an
+estimate depends on both types of error. The nature of the sampling error is known given the survey
+design; the full extent of the nonsampling error is unknown.
+
+Sampling Error. Since the CPS estimates come from a sample, they may differ from figures from an
+enumeration of the entire population using the same questionnaires, instructions, and enumerators. For a
+given estimator, the difference between an estimate based on a sample and the estimate that would result
+if the sample were to include the entire population is known as sampling error. Standard errors, as
+calculated by methods described in “Standard Errors and Their Use,” are primarily measures of the
+magnitude of sampling error. However, they may include some nonsampling error.
+
+Nonsampling Error. For a given estimator, the difference between the estimate that would result if the
+sample were to include the entire population and the true population value being estimated is known as
+
+Official percentage variance formula
+This results from differences in interviewer training and experience and in differing survey processes.
+This is an example of nonsampling variability not reflected in the standard errors. Therefore, caution
+should be used when comparing results from different sources.
+
+Data users should be careful when comparing the data from this microdata file, which reflects Census
+2000-based controls, with microdata files from March 1994 through December 2002, which reflect 1990
+census-based controls. Ideally, the same population controls should be used when comparing any
+
+
+
+                                                      16-4
+
+estimates. In reality, the use of the same population controls is not practical when comparing trend data
+over a period of 10 to 20 years. Thus, when it is necessary to combine or compare data based on
+different controls or different designs, data users should be aware that changes in weighting controls or
+weighting procedures can create small differences between estimates. See the discussion following for
+information on comparing estimates derived from different controls or different sample designs.
+
+Microdata files from previous years reflect the latest available census-based controls. Although the
+most recent change in population controls had relatively little impact on summary measures such as
+averages, medians, and percentage distributions, it did have a significant impact on levels. For example,
+use of Census 2000-based controls results in about a 1 percent increase from the 1990 census-based
+controls in the civilian noninstitutionalized population and in the number of families and households.
+Thus, estimates of levels for data collected in 2003 and later years will differ from those for earlier years
+by more than what could be attributed to actual changes in the population. These differences could be
+disproportionately greater for certain population subgroups than for the total population.
+
+Note that certain microdata files from 2002, namely June, October, November, and the 2002 ASEC,
+contain both Census 2000-based estimates and 1990 census-based estimates and are subject to the
+comparability issues discussed previously. All other microdata files from 2002 reflect the 1990 census-
+based controls.
+
+Users should also exercise caution because of changes caused by the phase-in of the Census 2000 files
+(see “Basic CPS”). During this time period, CPS data were collected from sample designs based on
+different censuses. Three features of the new CPS design have the potential of affecting published
+estimates: (1) the temporary disruption of the rotation pattern from August 2004 through June 2005 for a
+comparatively small portion of the sample, (2) the change in sample areas, and (3) the introduction of
+the new Core-Based Statistical Areas (formerly called metropolitan areas). Most of the known effect on
+estimates during and after the sample redesign will be the result of changing from 1990 to 2000
+geographic definitions. Research has shown that the national-level estimates of the metropolitan and
+nonmetropolitan populations should not change appreciably because of the new sample design.
+However, users should still exercise caution when comparing metropolitan and nonmetropolitan
+estimates across years with a design change, especially at the state level.
+
+Caution should also be used when comparing Hispanic estimates over time. No independent population
+control totals for people of Hispanic origin were used before 1985.
+
+Published benchmark
+
+
+
+                                                    16-5
+
+Standard Errors and Their Use. The sample estimate and its standard error enable one to construct a
+confidence interval. A confidence interval is a range about a given estimate that has a specified
+probability of containing the average result of all possible samples. For example, if all possible samples
+were surveyed under essentially the same general conditions and using the same sample design, and if
+an estimate and its standard error were calculated from each sample, then approximately 90 percent of
+the intervals from 1.645 standard errors below the estimate to 1.645 standard errors above the estimate
+would include the average result of all possible samples.
+
+A particular confidence interval may or may not contain the average estimate derived from all possible
+samples, but one can say with specified confidence that the interval includes the average estimate
+calculated from all possible samples.
+
+Standard errors may also be used to perform hypothesis testing, a procedure for distinguishing between
+population parameters using sample estimates. The most common type of hypothesis is that the
+population parameters are different. An example of this would be comparing the percentage of men
+who were part-time workers to the percentage of women who were part-time workers.
+
+2010 generalized variance parameters
+
+
+
+
+                                                       16-7
+
+Standard Errors of Estimated Numbers. The approximate standard error, sx, of an estimated number
+from this microdata file can be obtained by using the formula:
+
+                                        s x = ax 2 + bx                                        (1)
+
+Here x is the size of the estimate and a and b are the parameters in Table 3 or 4 associated with the
+particular type of characteristic. When calculating standard errors from cross-tabulations involving
+different characteristics, use the set of parameters for the characteristic that will give the largest standard
+error.
+
+Illustration 1
+In November 2010, there were 65,875,000 employed women in the civilian labor force. Use the
+appropriate parameters from Table 3 and Formula (1) to get
+
+
+                                                Illustration 1
+                    Number of employed women in the
+                                                                               65,875,000
+                       civilian labor force (x)
+                    a parameter (a)                                             -0.000031
+                    b parameter (b)                                                  2,782
+                    Standard error                                                221,000
+                    90-percent confidence interval                           65,511,000 to
+                                                                               66,239,000
+
+The standard error is calculated as
+
+                      s x = − 0.000031× 65,875,000 2 + 2,782 × 65,875,000 = 221,000
+
+The 90-percent confidence interval is calculated as 65,875,000 ± 1.645 × 221,000.
+
+A conclusion that the average estimate derived from all possible samples lies within a range computed in
+this way would be correct for roughly 90 percent of all possible samples.
+
+Standard Errors of Estimated Percentages. The reliability of an estimated percentage, computed
+using sample data for both numerator and denominator, depends on both the size of the percentage and
+its base. Estimated percentages are relatively more reliable than the corresponding estimates of the
+numerators of the percentages, particularly if the percentages are 50 percent or more. When the
