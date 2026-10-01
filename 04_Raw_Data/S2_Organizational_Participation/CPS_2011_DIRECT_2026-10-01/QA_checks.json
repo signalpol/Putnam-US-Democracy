@@ -1,0 +1,263 @@
+[
+  {
+    "name": "full_raw_structure",
+    "pass": true,
+    "detail": {
+      "records": 151776,
+      "record_lengths": {
+        "1016": 151776
+      },
+      "official_records": 151776
+    }
+  },
+  {
+    "name": "all_51_geographies",
+    "pass": true,
+    "detail": "50 states+DC in eligible records"
+  },
+  {
+    "name": "universe_verified",
+    "pass": true,
+    "detail": {
+      "age_min": 18,
+      "civilian": true,
+      "supplement_interview": 1,
+      "MIS_counts": {
+        "3": 10530,
+        "8": 10136,
+        "7": 10081,
+        "1": 10520,
+        "6": 9779,
+        "4": 9913,
+        "2": 10473,
+        "5": 9923
+      },
+      "outgoing_only": false,
+      "proxy_allowed": true,
+      "source": "Attachment7 operational response universe; Attachment13 frequencies; Attachment1/3 outgoing-only statement conflicts with raw; limitation preserved"
+    }
+  },
+  {
+    "name": "valid_group_variables_verified",
+    "pass": true,
+    "detail": "2011 Attachment7/8 and API metadata: PES5A-E"
+  },
+  {
+    "name": "weight_verified",
+    "pass": true,
+    "detail": "2011 Attachment3 defines nonresponse/selfresponse weights; API group items explicitly suggest PWNRWGT; raw field 1007-1016 divided by10000; API reports person units"
+  },
+  {
+    "name": "missing_rule_verified",
+    "pass": true,
+    "detail": "Any Yes=>1; all five No=>0; otherwise missing, no negative recoding"
+  },
+  {
+    "name": "replicate_merge_one_to_one",
+    "pass": true,
+    "detail": {
+      "eligible_matched": 81355,
+      "replicate_records": 133025,
+      "replicate_unique_keys": 133025,
+      "base_weight_mismatches": 0,
+      "record_lengths": {
+        "1617": 133025
+      }
+    }
+  },
+  {
+    "name": "replicate_161_official_totals",
+    "pass": true,
+    "detail": {
+      "weight_columns": 161,
+      "max_difference": "0.0000",
+      "tolerance_persons": "0.01"
+    }
+  },
+  {
+    "name": "variance_formula_verified",
+    "pass": true,
+    "detail": {
+      "replicates": 160,
+      "factor": "4/160",
+      "variance": "(4/160)*sum((replicate_ratio-full_sample_ratio)^2)",
+      "reestimated_valid_denominator": true,
+      "source": "Census2011 source page linked person instructions; March7 2012"
+    }
+  },
+  {
+    "name": "50_states_exactly",
+    "pass": true,
+    "detail": "canonical row count"
+  },
+  {
+    "name": "DC_excluded",
+    "pass": true,
+    "detail": "DC stored separately"
+  },
+  {
+    "name": "duplicates_zero",
+    "pass": true,
+    "detail": "state-year duplicates=0"
+  },
+  {
+    "name": "missing_state_estimate_zero",
+    "pass": true,
+    "detail": "all states have positive valid denominator"
+  },
+  {
+    "name": "year_2011",
+    "pass": true,
+    "detail": "no other year extraction"
+  },
+  {
+    "name": "direct_observations_50",
+    "pass": true,
+    "detail": "all observations DIRECT"
+  },
+  {
+    "name": "respondent_count_recorded",
+    "pass": true,
+    "detail": {
+      "respondents": 81355,
+      "published_Q5A_total": 81355
+    }
+  },
+  {
+    "name": "weighted_denominators_recorded",
+    "pass": true,
+    "detail": "state and item denominators preserved"
+  },
+  {
+    "name": "partition",
+    "pass": true,
+    "detail": "valid plus missing partition, weights sum"
+  },
+  {
+    "name": "range",
+    "pass": true,
+    "detail": "proportions [0,1]"
+  },
+  {
+    "name": "official_Q5A_frequencies",
+    "pass": true,
+    "detail": {
+      "expected": {
+        "1": 12643,
+        "2": 66067,
+        "-2": 351,
+        "-3": 1972,
+        "-9": 322
+      },
+      "observed": {
+        "2": 66067,
+        "1": 12643,
+        "-3": 1972,
+        "-2": 351,
+        "-9": 322
+      },
+      "source": "Attachment13"
+    }
+  },
+  {
+    "name": "official_benchmark_None",
+    "pass": true,
+    "detail": {
+      "observed": "231724840.1117",
+      "published_rounded": 231725000,
+      "tolerance_persons": 500,
+      "source": "2011 Attachment16 Illustration3",
+      "weight_basis": "PWSSWGT all civilian18+ population control",
+      "note": "The illustration population base is reproduced with basic final weight; canonical estimates retain the instructed supplement weight and valid-response denominator."
+    }
+  },
+  {
+    "name": "official_benchmark_0",
+    "pass": true,
+    "detail": {
+      "observed": "35469970.9426",
+      "published_rounded": 35470000,
+      "tolerance_persons": 500,
+      "source": "2011 Attachment16 Illustration3",
+      "weight_basis": "PWNRWGT supplement Yes",
+      "note": "The illustration population base is reproduced with basic final weight; canonical estimates retain the instructed supplement weight and valid-response denominator."
+    }
+  },
+  {
+    "name": "official_benchmark_2",
+    "pass": true,
+    "detail": {
+      "observed": "25531688.9078",
+      "published_rounded": 25532000,
+      "tolerance_persons": 500,
+      "source": "2011 Attachment16 Illustration3",
+      "weight_basis": "PWNRWGT supplement Yes",
+      "note": "The illustration population base is reproduced with basic final weight; canonical estimates retain the instructed supplement weight and valid-response denominator."
+    }
+  },
+  {
+    "name": "raw_API_weighted_PES5A",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4975",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "raw_API_weighted_PES5B",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4953",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "raw_API_weighted_PES5C",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4916",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "raw_API_weighted_PES5D",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4973",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "raw_API_weighted_PES5E",
+    "pass": true,
+    "detail": {
+      "cells": 102,
+      "max_abs_difference": "0.4983",
+      "tolerance_persons": "0.51"
+    }
+  },
+  {
+    "name": "SE_coverage_reported",
+    "pass": true,
+    "detail": "50/50; official 2011 nonresponse replicate file; Census person supplement instructions dated March7 2012 linked from2011 source page; 160 replicates; factor4/160"
+  },
+  {
+    "name": "no_interpolation",
+    "pass": true,
+    "detail": "2011 respondent microdata only; no other-year estimates used"
+  },
+  {
+    "name": "no_model_estimates",
+    "pass": true,
+    "detail": "2011 respondent microdata only; no other-year estimates used"
+  },
+  {
+    "name": "no_adjacent_year_substitution",
+    "pass": true,
+    "detail": "2011 respondent microdata only; no other-year estimates used"
+  }
+]
