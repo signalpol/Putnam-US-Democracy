@@ -1,0 +1,44 @@
+{
+  "frozen_utc": "2026-10-01T11:52:53.911428+00:00",
+  "year": 2013,
+  "canonical_rows": 50,
+  "dc_excluded": true,
+  "raw_records": 150067,
+  "record_length": 1012,
+  "minimum_age": 18,
+  "person_type": 2,
+  "interview_status": 1,
+  "operational_MIS": [
+    3,
+    4,
+    7,
+    8
+  ],
+  "MIS_status": "UNKNOWN \u2014 DOCUMENT/RAW CONFLICT",
+  "weight": "PWNRWGT",
+  "raw_weight_divisor": 10000,
+  "any_rule": "1 if anyYes;0 ifall5No;otherwiseexclude",
+  "codes": [
+    1,
+    2,
+    -1,
+    -2,
+    -3,
+    -9
+  ],
+  "replicate_count": 160,
+  "variance_factor": "4/160",
+  "replicate_sum_tolerance_persons": ".01",
+  "api_tolerance_persons": ".51",
+  "official_rounded_total_tolerance_persons": 500,
+  "external_rounding_tolerance_pp": 0.05,
+  "external_comparison_gate": "completion required; discrepancydiagnostic notforcedmatch",
+  "prohibited_years": [
+    "2012",
+    "2017",
+    "2019",
+    "2021",
+    "2023"
+  ],
+  "stop_before_harmonization": true
+}
