@@ -1,0 +1,269 @@
+Official source: https://www2.census.gov/programs-surveys/cps/techdocs/cpsnov11.pdf
+Census2011 sourcepage: https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-civic.2011.html
+
+pdftotext lines365-405
+                                                 OVERVIEW
+
+                            November 2011 Civic Engagement Supplement
+
+
+
+General
+
+Census Bureau staff conducted the November 2011 Civic Engagement Survey as a supplement to that month's
+Current Population Survey (CPS). The CPS is a monthly labor force survey in which interviews are conducted
+in approximately 56,000 households across the country. Attachment 8 contains a copy of the supplement
+questions asked of civilian household members 18 years old or older, in out-going rotation households
+(approximately 13,500 households).
+
+Attachment 2 comprises a description of the CPS entitled "Overview--Current Population Survey." A
+description of the November 2011 Civic Engagement Supplement follows.
+
+Data Collection
+
+Census Bureau staff conducted interviews during the period of November 13-19, 2011. Self or proxy responses
+were allowed for this supplement, that is, a single respondent could provide answers for themselves or provide
+answers for all eligible households members, provided the respondent him/herself was a household member 18
+years of age or older.
+
+The supplement questions related to people’s involvement in their communities and communication with their
+friends and family. The questions sought to measure the level of civic engagement of individuals in the United
+States. Civic engagement is a broad concept that can be defined by one’s level of or involvement in:
+empowerment and political action; groups and networks; trust and solidarity; information and communication;
+and social cohesion and inclusion.
+
+Interviewers received a 1 1/2 hour self-study that contained exercises on the basic labor force questions, item-
+by-item instructions for the supplement, supplement exercises and practice interviews.
+
+Data Processing
+
+The data processing involved a consistency edit of all supplement items. The consistency edit mainly ensured
+that the entries within an individual record followed the correct skip patterns, and items with off-path entries
+were blanked whenever appropriate.
+
+A supplement non-response weight variable (PWNRWGT) and a self-response weight variable (PWSRWGT),
+reside on the data file. These variables should be used when constructing estimates for appropriate supplement
+
+pdftotext lines6037-6191
+
+                  1      Yes
+                  2      No
+
+
+                                      6-102
+
+NAME       SIZE       DESCRIPTION                        LOCATION
+
+PRDISFLG    2     DOES THIS PERSON HAVE ANY OF THESE       918 - 919
+                  DISABILITY CONDITIONS?
+
+                  EDITED UNIVERSE:
+                  PEDISEAR OR PEDISEYE OR PEDISREM,
+                  PEDISPHY OR PEDISDRS OR PEDISOUT = 1
+
+                  VALID ENTRIES
+
+                  1      Yes
+                  2      No
+
+PXDISEAR    2     ALLOCATION FLAG                          920 -921
+
+PXDISEYE    2     ALLOCATION FLAG                          922 - 923
+
+PXDISREM    2     ALLOCATION FLAG                          924 - 925
+
+PXDISPHY    2     ALLOCATION FLAG                          926 - 927
+
+PXDISDRS    2     ALLOCATION FLAG                          928 - 929
+
+PXDISOUT    2     ALLOCATION FLAG                          930 – 931
+
+HXFAMINC    2     ALLOCATION FLAG                          932 – 933
+
+FILLER      17    FILLER                                   934 – 950
+
+
+
+
+                                      6-103
+
+                                       ATTACHMENT 7
+
+                            SUPPLEMENT RECORD LAYOUT
+
+                        November 2011 Current Population Survey
+                            Civic Engagement Supplement
+NAME    SIZE   DESCRIPTION                                                                LOCATION
+
+PES1    2      The first question is about LOCAL elections, such as for mayor or a        951-952
+               school board. (Do you/Does NAME) always vote in local elections, (do
+               you/does he/does she) sometimes vote, (do you/does he/does she)
+               rarely vote, or (do you/does he/does she) never vote?
+
+               EDITED UNIVERSE:
+               HRINTSTA = 1 AND PRPERTYP = 2 AND PRTAGE >= 18
+
+               VALID ENTRIES:
+
+               1    Always Vote
+               2    Sometimes Vote
+               3    Rarely Vote
+               4    Never Vote
+               -1   Not in Universe
+               -2   Don't Know
+               -3   Refused
+               -9   No Response
+
+PES2a   2      I am going to read a list of things some people have done to express     953-954
+               their views. Please tell me whether or not (you have/NAME has) done
+               any of the following in the last 12 months, that is since November 2010:
+
+               Contacted or visited a public official – at any level of government – to
+               express (your/his/her) opinion?
+
+               EDITED UNIVERSE:
+               PES1 = 1-4, -2, OR -3
+
+               VALID ENTRIES:
+
+               1    Yes
+               2    No
+               -1   Not in Universe
+               -2   Don't Know
+               -3   Refused
+               -9   No Response
+
+
+
+
+                                              7-1
+
+NAME    SIZE   DESCRIPTION                                                             LOCATION
+
+PES2b   2      Bought or boycotted a certain product or service because of the social or 955-956
+               political values of the company that provides it?
+
+               EDITED UNIVERSE:
+
+               PES2a = 1, 2, -2, OR -3
+
+               VALID ENTRIES:
+
+               1    Yes
+               2    No
+               -1   Not in Universe
+               -2   Don't Know
+               -3   Refused
+               -9   No Response
+
+PES3    2      How often, if at all, (have you/has NAME) used the Internet to express 957-958
+               (your/his/her) opinions about POLITICAL or COMMUNITY issues within
+               the last 12 months – basically every day, a few times a week, a few
+               times a month, once a month, less than once a month, or not at all?
+
+               EDITED UNIVERSE:
+               PES2b = 1, 2, -2, OR -3
+
+               VALID ENTRIES:
+
+               1    Basically every day
+               2    A few times a week
+               3    A few times a month
+               4    Once a month
+               5    Less than once a month
+               6    Not at all
+               -1   Not in Universe
+               -2   Don't Know
+               -3   Refused
+               -9   No Response
+
+
+
+
+                                             7-2
+
+NAME    SIZE   DESCRIPTION                                                              LOCATION
+
+PES5a   2      Next, I will give you a list of types of groups or organizations in which 959-960
+               people sometimes participate. (Have you/Has NAME) participated in any
+               of these groups during the last 12 months, that is since November 2010:
+
+               A school group, neighborhood, or community association such as PTA or
+               neighborhood watch group?
+
+               EDITED UNIVERSE:
+               PES3 = 1, 2, -2, or -3
+
+               VALID ENTRIES:
+
+               1    Yes
+               2    No
+               -1   Not in Universe
+               -2   Don't Know
+
+pdftotext lines6425-6444
+
+PES18   2      We’d like to know how much you trust people in your neighborhood.       981-982
+               Generally speaking, would you say that you can trust all the people,
+               most of the people, some of the people, or none of the people in your
+               neighborhood?
+
+               EDITED UNIVERSE:
+               (PES16 = 1-6, -2, OR -3) AND (RESPLI EQ LINENO) OR (PES16 AND
+               PES18 NE -1)
+
+               VALID ENTRIES:
+
+               1    All the people
+               2    Most of the people
+               3    Some of the people
+               4    None of the people
+               -1   Not in Universe
+               -2   Don't Know
+               -3   Refused
+               -9   No Response
+
+pdftotext lines9328-9338
+129      Westmoreland
+133      York
+
+                        South Carolina
+
+007      Anderson
+045      Greenville
+051      Horry
+063      Lexington
+079      Richland
+083      Spartanburg
+
+pdftotext lines9978-10007
+Standard Errors and Their Use. The sample estimate and its standard error enable one to
+construct a confidence interval. A confidence interval is a range about a given estimate that has
+a specified probability of containing the average result of all possible samples. For example, if
+all possible samples were surveyed under essentially the same general conditions and using the
+same sample design, and if an estimate and its standard error were calculated from each sample,
+then approximately 90 percent of the intervals from 1.645 standard errors below the estimate to
+1.645 standard errors above the estimate would include the average result of all possible samples.
+
+A particular confidence interval may or may not contain the average estimate derived from all
+possible samples, but one can say with specified confidence that the interval includes the average
+estimate calculated from all possible samples.
+Standard errors may also be used to perform hypothesis testing, a procedure for distinguishing
+between population parameters using sample estimates. The most common type of hypothesis is
+that the population parameters are different. An example of this would be comparing the
+percentage of men who were part-time workers to the percentage of women who were part-time
+workers.
+
+Tests may be performed at various levels of significance. A significance level is the probability
+of concluding that the characteristics are different when, in fact, they are the same. For example,
+to conclude that two characteristics are different at the 0.10 level of significance, the absolute
+value of the estimated difference between characteristics must be greater than or equal to 1.645
+times the standard error of the difference.
+
+The Census Bureau uses 90-percent confidence intervals and 0.10 levels of significance to
+determine statistical validity. Consult standard statistical textbooks for alternative criteria.
+
+Estimating Standard Errors. The Census Bureau uses replication methods to estimate the
+standard errors of CPS estimates. These methods primarily measure the magnitude of sampling
+error. However, they do measure some effects of nonsampling error as well. They do not
+measure systematic biases in the data associated with nonsampling error. Bias is the average
