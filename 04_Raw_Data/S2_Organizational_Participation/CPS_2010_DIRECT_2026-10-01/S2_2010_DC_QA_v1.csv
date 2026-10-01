@@ -1,0 +1,2 @@
+state,state_fips,year,s2_participation,s2_se,n_unweighted,weighted_denominator,source,weight,observation_type,run_id,unit,se_method,n_eligible,n_missing
+DC,11,2010,0.3651744746727501424644410847,,926,478538.7110,https://www2.census.gov/programs-surveys/cps/datasets/2010/supp/nov10pub_civic.dat.gz,PWNRWGT,DIRECT,S2_2010_20261001T101933Z,proportion,UNAVAILABLE_DESIGN_BASED,947,21
