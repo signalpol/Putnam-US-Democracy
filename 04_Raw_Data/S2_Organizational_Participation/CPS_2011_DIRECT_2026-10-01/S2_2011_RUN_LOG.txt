@@ -1,0 +1,152 @@
+{
+  "run_id": "S2_2011_20261001T104023Z",
+  "start_utc": "2026-10-01T10:40:23.100251+00:00",
+  "year": 2011,
+  "code_sha256": "aee4bb47b051f7557ba3355daa82827cf53fb301c5e7e98e51bde70f30181113",
+  "inputs": {
+    "nov11pub.dat.gz": {
+      "sha256": "ac45a6dc7c2ebba2c0b3be722284bc2490dc8c3f20f12cd64dfdd3b4429183ed",
+      "bytes": 14672017
+    },
+    "nov11nrrep.dat.gz": {
+      "sha256": "1accb8eacadf4bbc616577196a45ea2936c8d45594e5b9cc506870e1c592c736",
+      "bytes": 59125152
+    },
+    "cpsnov11.pdf": {
+      "sha256": "132a41e75ca0e7e3830057a213173076089cec3509add835d6083da628566f20",
+      "bytes": 512055
+    },
+    "nrrep.sas": {
+      "sha256": "6242b5550f98c3f24e62a536f2299ecdce15a0ba210e69f7c6347414196495e8",
+      "bytes": 17841
+    },
+    "person_replicate_instructions.doc": {
+      "sha256": "3277daf7eb877606ac66e92e66e1083e433b0d1e2eefbaf21ae42ee59b8aa374",
+      "bytes": 286208
+    },
+    "person_replicate_instructions.txt": {
+      "sha256": "1aa415e0e877af3ae3e1fe217b0c094206acff599aeed35c38c2962d902c98bf",
+      "bytes": 27905
+    },
+    "variables.json": {
+      "sha256": "bb093c6cdace902834893780df9832331ece581ae8750a99a37e309d9473617a",
+      "bytes": 426567
+    },
+    "verified_variables.json": {
+      "sha256": "d193b9213c33a287c3c27373c61bf1ca012fcb90c1b01315e152c06735d6e4f0",
+      "bytes": 4749
+    }
+  },
+  "steps": [
+    {
+      "stage": "direct_extraction",
+      "end_utc": "2026-10-01T10:40:31.819004+00:00",
+      "respondents": 81355,
+      "canonical_rows": 50,
+      "status": "PASS"
+    },
+    {
+      "stage": "API_QA",
+      "end_utc": "2026-10-01T10:41:27.639232+00:00",
+      "status": "PASS",
+      "checks_passed": 32,
+      "checks_total": 32
+    }
+  ],
+  "api_requests": [
+    {
+      "variable": "PES5A",
+      "url_without_key": "https://api.census.gov/data/2011/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5A&PES5A=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:40:31.820807+00:00",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T10:40:59.050398+00:00",
+      "http_status": 200,
+      "bytes": 1269,
+      "sha256": "392eda60a0fe3cd632fd4b490cc0e46b47c616a541f98d6270f9c37ab5fcd299",
+      "credential_mode": "environment_key"
+    },
+    {
+      "variable": "PES5B",
+      "url_without_key": "https://api.census.gov/data/2011/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5B&PES5B=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:40:31.821530+00:00",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T10:40:58.919204+00:00",
+      "http_status": 200,
+      "bytes": 1255,
+      "sha256": "724ed1c0411f88a66a5a1be770bad5a82c3657e075214eb3cc46ebaa3a8f5931",
+      "credential_mode": "environment_key"
+    },
+    {
+      "variable": "PES5C",
+      "url_without_key": "https://api.census.gov/data/2011/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5C&PES5C=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:40:31.822290+00:00",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T10:40:58.970333+00:00",
+      "http_status": 200,
+      "bytes": 1262,
+      "sha256": "c526ec16cfe7828b01283cd735532d2095d868ff35b8f5e53e57383fac9ea1be",
+      "credential_mode": "environment_key"
+    },
+    {
+      "variable": "PES5D",
+      "url_without_key": "https://api.census.gov/data/2011/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5D&PES5D=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:40:58.919257+00:00",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T10:41:27.635841+00:00",
+      "http_status": 200,
+      "bytes": 1278,
+      "sha256": "d5ec037930227e275b719709e1b10f3e03f0e6449d89a729a48a27ce9e2a7864",
+      "credential_mode": "environment_key"
+    },
+    {
+      "variable": "PES5E",
+      "url_without_key": "https://api.census.gov/data/2011/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PES5E&PES5E=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:40:58.970399+00:00",
+      "attempts": [
+        {
+          "credential_mode": "public_no_key",
+          "error_type": "JSONDecodeError"
+        }
+      ],
+      "end_utc": "2026-10-01T10:41:27.563884+00:00",
+      "http_status": 200,
+      "bytes": 1251,
+      "sha256": "815e3006063fc2f9660a5ab89963ed9a631c5dfb985f087ff6f01bf8207e5f89",
+      "credential_mode": "environment_key"
+    }
+  ],
+  "exit_code": 0,
+  "end_utc": "2026-10-01T10:41:27.639251+00:00",
+  "outputs": {
+    "S2_2011_REPLICATE_ESTIMATES_v1.csv": "3f4219b60e58d7eebd0d0760229af3c2da95efd38385c597c4c03db8f4f5898e",
+    "S2_2011_ITEM_COUNTS_v1.csv": "9756af9f0f76e0ee0666b4c04194f498e11a674dfb5609f54fafdc3b9a8fadb4",
+    "API_PES5D.json": "d5ec037930227e275b719709e1b10f3e03f0e6449d89a729a48a27ce9e2a7864",
+    "API_PES5C.json": "c526ec16cfe7828b01283cd735532d2095d868ff35b8f5e53e57383fac9ea1be",
+    "API_PES5A.json": "392eda60a0fe3cd632fd4b490cc0e46b47c616a541f98d6270f9c37ab5fcd299",
+    "API_PES5B.json": "724ed1c0411f88a66a5a1be770bad5a82c3657e075214eb3cc46ebaa3a8f5931",
+    "S2_2011_NATIONAL_QA_v1.csv": "d3cedc2c987561d555ef0087ed69c234b1ffd2cea794173cf3e90b4d6b7debc5",
+    "S2_Organizational_Participation_2011_DIRECT_v1.csv": "9dd051273ee3a2389a31024a57dd14c5fc5864980b889c65509b65af79b05a9f",
+    "API_PES5E.json": "815e3006063fc2f9660a5ab89963ed9a631c5dfb985f087ff6f01bf8207e5f89",
+    "S2_2011_DC_QA_v1.csv": "9ec8d48809905b5a3a951b3cefc4a30bb298b2d11aa7e574324c8aa7f6b530f5"
+  }
+}
