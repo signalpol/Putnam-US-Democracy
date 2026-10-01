@@ -1,0 +1,27 @@
+{
+  "source_url": "https://ncoc.org/wp-content/uploads/2015/04/2015NorthCarolinaCHI.pdf",
+  "source_title": "2015 North Carolina Civic Health Index",
+  "retrieved_utc": "2026-10-01T11:54:20.380948+00:00",
+  "retrieval": "Web PDF text extraction succeeded; direct urllib PDF download HTTP403; original PDF bytes not saved or hashed",
+  "web_references": [
+    "turn42view1",
+    "turn44view0",
+    "turn45view1"
+  ],
+  "observation_year": 2013,
+  "source_year_evidence": "Report p14 explicit2013 CPS November Civic Engagement;technicalnote p37 states2013CPS civic indicators",
+  "measure": "group participation with at least one organization",
+  "published_percent": {
+    "US_50_PLUS_DC": 36.3,
+    "NC": 38.5,
+    "UT": 58.8,
+    "LA": 27.1
+  },
+  "reference_pages": [
+    14,
+    17,
+    37
+  ],
+  "missing_algorithm": "not specified; comparison is diagnostic",
+  "excluded_candidate": "Opportunity Nation2014 report2013index figures use2010/2011CPS civic in technicalappendix; rejected for2013benchmark"
+}
