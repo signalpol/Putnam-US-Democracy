@@ -1,0 +1,24 @@
+{
+  "original_file": "respondents_2009.json",
+  "original_bytes": 1683471,
+  "original_sha256": "3cd370b67bbf12bea58bfcc2edbb8ee0adfa5307a120c14cf21041571ddd0ae1",
+  "encoding": "Join stripped parts in listed order, base64 decode, then gzip decompress; recover exact original API bytes",
+  "parts": [
+    {
+      "file": "respondents_2009.json.gz.b64.part01",
+      "sha256": "094fc7b01035e73bfcf956c1acb5bb04f1fcb8adcf6fcd6c40cf7d45854ca502"
+    },
+    {
+      "file": "respondents_2009.json.gz.b64.part02",
+      "sha256": "3931430a66984a220dec99f7c015faf99dcac24dd3e9663eb31aa933fd10fcb3"
+    },
+    {
+      "file": "respondents_2009.json.gz.b64.part03",
+      "sha256": "8daed0c9af8f52c1731812bd4e5d271326b928ad883bb544e735404ec65e68d7"
+    },
+    {
+      "file": "respondents_2009.json.gz.b64.part04",
+      "sha256": "c58b91b86763f27ee05e759806e47a712cb83aef6d6b7518f54745b0d149f003"
+    }
+  ]
+}
