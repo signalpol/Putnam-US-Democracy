@@ -1,0 +1,241 @@
+Official2013 source: https://www2.census.gov/programs-surveys/cps/techdocs/cpsnov13.pdf
+Replicate sourcepage: https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-civic.2013.html
+
+pdftotext lines65-88
+
+Data are provided on labor force activity for the week prior to the survey. Comprehensive data are
+available on the employment status, occupation, and industry of persons 15 years old and over.
+Also shown are personal characteristics such as age, sex, race, marital status, veteran status,
+household relationship, educational background, and Hispanic origin.
+
+The Civic Engagement questions were asked of persons 18 years of age or older in outgoing rotation
+households. The data offer such information as: level of participation in organized groups, extent of
+political action and knowledge, extent of connections with other community members, and how often
+individuals get news and information from various media sources.
+
+Geographic Coverage:
+
+States, regions and divisions are identified in their entirety. Within confidentiality restrictions;
+indicators are provided for 278 selected core-based statistical areas (CBSA), 30 selected combined
+statistical areas (CSA), 217 counties, and 76 principal cities in multi-principal city core-based
+statistical areas or combined statistical areas. Also within confidentiality restrictions, indicators are
+provided for metropolitan/non-metropolitan, principal city/balance metropolitan, and CBSA size.
+
+Technical Description:
+
+File Structure: Rectangular.
+File Size: 150,067 logical records; 1012 character logical record length.
+File Sort Sequence: State rank by CMSA/MSA rank by household identification number by line
+
+pdftotext lines353-393
+
+                                                                   2-5
+
+                                          ATTACHMENT 3
+
+                                             OVERVIEW
+
+                         November 2013 Civic Engagement Supplement
+
+General
+
+Census Bureau staff conducted the November 2013 Civic Engagement Survey as a supplement to that
+month's Current Population Survey (CPS). The CPS is a monthly labor force survey in which
+interviews are conducted in approximately 54,000 households across the country. Attachment 8
+contains a copy of the supplement questions asked of civilian household members 18 years old or
+older, in month-in-sample 3,4,7,8 households.
+
+Attachment 2 comprises a description of the CPS entitled "Overview--Current Population
+Survey." A description of the November 2013 Civic Engagement Supplement follows.
+
+Data Collection
+
+Census Bureau staff conducted interviews during the period of November 17-23, 2013. Self or proxy
+responses were allowed for this supplement, that is, a single respondent could provide answers for
+themselves or provide answers for all eligible households members, provided the respondent
+him/herself was a household member 18 years of age or older.
+
+The supplement questions related to people’s involvement in their communities and communication
+with their friends and family. The questions sought to measure the level of civic engagement of
+individuals in the United States. Civic engagement is a broad concept that can be defined by one’s level
+of or involvement in: empowerment and political action; groups and networks; trust and solidarity;
+information and communication; and social cohesion and inclusion.
+
+Interviewers received a 1 1/2 hour self-study that contained exercises on the basic labor force
+questions, item-by-item instructions for the supplement, supplement exercises and practice
+interviews.
+
+Data Processing
+
+The data processing involved a consistency edit of all supplement items. The consistency edit mainly
+ensured that the entries within an individual record followed the correct skip patterns, and items with
+
+pdftotext lines5729-5845
+
+HXFAMINC      2   ALLOCATION FLAG                               932 - 933
+
+FILLER       17   FILLER                                        934 - 950
+
+                       End of Basic CPS Portion of the Record
+
+
+
+
+                                        6-95
+
+                               ATTACHMENT 7
+
+                       Supplement Record Layout
+
+               Current Population Survey, November 2013
+                      Civic Engagement Supplement
+
+NAME    SIZE   DESCRIPTION                                       LOCATION
+
+
+PES1    2      The first question is about LOCAL elections,      951-952
+               such as for mayor or a school board.
+               (Do you/Does NAME) always vote in local
+               elections, (do you/does he/does she)
+               sometimes vote, (do you/does he/does she)
+               rarely vote, or (do you/does he/does she)
+               never vote?
+
+               EDITED UNIVERSE:
+               HRINTSTA = 1 AND PRPERTYP = 2 AND PRTAGE >= 18
+
+               VALID ENTRIES:
+
+               1 Always Vote
+               2 Sometimes Vote
+               3 Rarely Vote
+               4 Never Vote
+               -1 Not in Universe
+               -2 Don't Know
+               -3 Refused
+               -9 No Response
+
+PES2a   2      I am going to read a list of things some people   953-954
+               have done to express their views.
+               Please tell me whether or not (you ave/NAME
+               has) done any of the following in the last 12
+               months, that is since November 2012:
+               Contacted or visited a public official – at any
+               level of government – to express
+               (your/his/her) opinion?
+
+               EDITED UNIVERSE:
+               PES1 = 1-4, -2, OR -3
+
+
+
+                                         7-1
+
+NAME    SIZE   DESCRIPTION                                    LOCATION
+
+
+               VALID ENTRIES:
+
+               1 Yes
+               2 No
+               -1 Not in Universe
+               -2 Don't Know
+               -3 Refused
+               -9 No Response
+
+PES2b   2      Bought or boycotted a certain product or       955-956
+               service because of the social or political
+               values of the company that provides it?
+
+               EDITED UNIVERSE:
+               PES2a = 1, 2, -2, OR -3
+
+               VALID ENTRIES:
+
+               1 Yes
+               2 No
+               -1 Not in Universe
+               -2 Don't Know
+               -3 Refused
+               -9 No Response
+
+PES3    2      How often, if at all, (have you/has NAME)      957-958
+               used the Internet to express (your/his/her)
+               opinions about POLITICAL or COMMUNITY
+               issues within the last 12 months – basically
+               every day, a few times a week, a few times a
+               month, once a month, less than once a
+               month, or not at all?
+
+               EDITED UNIVERSE:
+               PES2b = 1, 2, -2, OR -3
+
+
+
+
+                                       7-2
+
+NAME    SIZE   DESCRIPTION                                       LOCATION
+
+
+               VALID ENTRIES:
+
+               1 Basically every day
+               2 A few times a week
+               3 A few times a month
+               4 Once a month
+               5 Less than once a month
+               6 Not at all
+               -1 Not in Universe
+               -2 Don't Know
+
+pdftotext lines6125-6142
+               5 Less than once a month
+               6 Not at all
+               -1 Not in Universe
+               -2 Don't Know
+               -3 Refused
+               -9 No Response
+
+PES18   2      We’d like to know how much you trust people   981-982
+               in your neighborhood. Generally speaking,
+               would you say that you can trust all the
+               people, most of the people, some of the
+               people, or none of the people in your
+               neighborhood?
+
+               EDITED UNIVERSE:
+               (PES16 = 1-6, -2, OR -3) AND (RESPLI EQ
+               LINENO) OR (PES16 AND PES18 NE -1)
+
+
+pdftotext lines8931-8940
+079      Richland
+083      Spartanburg
+
+                          Tennessee
+
+093      Knox
+165      Sumner
+187      Williamson
+
+
+
+pdftotext lines9595-9611
+between population parameters using sample estimates. The most common type of hypothesis is
+that the population parameters are different. An example of this would be comparing the
+
+4
+    The phase-in process using the 2010 Census files will begin April 2014.
+                                                          16-6
+
+percentage of men who were part-time workers to the percentage of women who were part-time
+workers.
+
+Tests may be performed at various levels of significance. A significance level is the probability
+of concluding that the characteristics are different when, in fact, they are the same. For example,
+to conclude that two characteristics are different at the 0.10 level of significance, the absolute
+value of the estimated difference between characteristics must be greater than or equal to 1.645
+times the standard error of the difference.
+
+The Census Bureau uses 90-percent confidence intervals and 0.10 levels of significance to
