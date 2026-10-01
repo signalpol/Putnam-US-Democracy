@@ -1,0 +1,18 @@
+FIT M0 {"model": "M0", "n": 400, "parameters": 4, "log_likelihood": 12.788547807778457, "AIC": -17.577095615556914, "BIC": -1.611237427124987, "converged": true, "gradient_max": 2.27373676825089e-05, "state_intercept_sd": 0.20538859851326485, "unknown_sampling_sd_logit": 0.2233173334863124, "state_process_sd": 6.14421235332821e-06, "common_process_sd": 6.14421235332821e-06, "trend_per_decade_logit": -0.547093410903942, "CEV_offset_logit": "", "CEV_offset_SE_logit": ""}
+HOLDOUT M0 2009 RMSE 0.06924049983464302 coverage 0.88
+HOLDOUT M0 2011 RMSE 0.049006520640099804 coverage 0.92
+HOLDOUT M0 2013 RMSE 0.045302904473937526 coverage 0.94
+HOLDOUT M0 2019 RMSE 0.0349773559617701 coverage 1.0
+HOLDOUT M0 2021 RMSE 0.0439309023005211 coverage 0.98
+FIT M1 {"model": "M1", "n": 400, "parameters": 6, "log_likelihood": 124.8102717063635, "AIC": -237.620543412727, "BIC": -213.6717561300791, "converged": true, "gradient_max": 3.4106051523763346e-05, "state_intercept_sd": 0.19803900361179927, "unknown_sampling_sd_logit": 0.11012626056231391, "state_process_sd": 0.13672799263065225, "common_process_sd": 0.18801798932802047, "trend_per_decade_logit": -0.3878194882883872, "CEV_offset_logit": "", "CEV_offset_SE_logit": ""}
+HOLDOUT M1 2009 RMSE 0.03920237247028902 coverage 0.98
+HOLDOUT M1 2011 RMSE 0.04984773083130362 coverage 0.9
+HOLDOUT M1 2013 RMSE 0.04425859344771953 coverage 0.94
+HOLDOUT M1 2019 RMSE 0.03239534556970032 coverage 0.98
+HOLDOUT M1 2021 RMSE 0.03552466356155912 coverage 0.94
+FIT M2 {"model": "M2", "n": 400, "parameters": 7, "log_likelihood": 126.25701996184597, "AIC": -238.51403992369194, "BIC": -210.57378809393606, "converged": true, "gradient_max": 4.54747353650178e-05, "state_intercept_sd": 0.19797584909240515, "unknown_sampling_sd_logit": 0.1101589759623329, "state_process_sd": 0.1367368078590021, "common_process_sd": 0.15453967526540321, "trend_per_decade_logit": -0.09015156742218657, "CEV_offset_logit": -0.38713387814642863, "CEV_offset_SE_logit": 0.2061617054703487}
+HOLDOUT M2 2009 RMSE 0.04031152290996256 coverage 0.98
+HOLDOUT M2 2011 RMSE 0.04893984108384792 coverage 0.9
+HOLDOUT M2 2013 RMSE 0.04121766211682067 coverage 0.98
+HOLDOUT M2 2019 RMSE 0.03307317129135278 coverage 0.98
+HOLDOUT M2 2021 RMSE 0.035373860151078435 coverage 0.94
