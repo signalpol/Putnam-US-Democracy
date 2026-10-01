@@ -1,0 +1,99 @@
+{
+  "run_id": "S2_2009_20261001T100647Z",
+  "start_utc": "2026-10-01T10:06:47.055415+00:00",
+  "code_sha256": "0f9a415d522f0e33d74c5f1b121007ea1edf5107b04d3ad364828863182f3b7c",
+  "year": 2009,
+  "source": "https://api.census.gov/data/2009/cps/civic/nov",
+  "steps": [
+    {
+      "stage": "acquisition",
+      "end_utc": "2026-10-01T10:06:56.108197+00:00",
+      "records": 21226,
+      "status": "PASS"
+    },
+    {
+      "stage": "estimate_and_QA",
+      "end_utc": "2026-10-01T10:07:11.580247+00:00",
+      "status": "PASS",
+      "checks_passed": 16,
+      "checks_total": 16,
+      "canonical_rows": 50
+    }
+  ],
+  "requests": [
+    {
+      "name": "respondents_2009",
+      "url_without_key": "https://api.census.gov/data/2009/cps/civic/nov?get=GESTFIPS,PRTAGE,HRMIS,PRSUPINT,PRPERTYP,PWNRWGT,PEQ5A,PEQ5B,PEQ5C,PEQ5D,PEQ5E&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:06:47.055466+00:00",
+      "http_status": 200,
+      "bytes": 1683471,
+      "sha256": "3cd370b67bbf12bea58bfcc2edbb8ee0adfa5307a120c14cf21041571ddd0ae1",
+      "data_rows": 21226,
+      "end_utc": "2026-10-01T10:06:56.080375+00:00"
+    },
+    {
+      "name": "server_PEQ5A",
+      "url_without_key": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5A&PEQ5A=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:06:56.341446+00:00",
+      "http_status": 200,
+      "bytes": 1270,
+      "sha256": "c1e0281577aee7d8019be53bf060d9966d936aed5de4bb8aaefe67b0788b1855",
+      "data_rows": 56,
+      "end_utc": "2026-10-01T10:07:04.083285+00:00"
+    },
+    {
+      "name": "server_PEQ5B",
+      "url_without_key": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5B&PEQ5B=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:06:56.341892+00:00",
+      "http_status": 200,
+      "bytes": 1251,
+      "sha256": "e9b0eaee6f4a34ddf51958efcfad0dc4e2fc856d897a6d240d9ac12b3d47d18c",
+      "data_rows": 56,
+      "end_utc": "2026-10-01T10:07:04.077509+00:00"
+    },
+    {
+      "name": "server_PEQ5C",
+      "url_without_key": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5C&PEQ5C=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:06:56.342386+00:00",
+      "http_status": 200,
+      "bytes": 1261,
+      "sha256": "db9f9bc206d01a487b5f8ffe72720266f94f5b06f3c8195583854f1041305c99",
+      "data_rows": 56,
+      "end_utc": "2026-10-01T10:07:04.079796+00:00"
+    },
+    {
+      "name": "server_PEQ5D",
+      "url_without_key": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5D&PEQ5D=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:07:04.077558+00:00",
+      "http_status": 200,
+      "bytes": 1272,
+      "sha256": "e269964900cc9426bf294400241c58dc5841325e68fbe762cd105eaf9b579c62",
+      "data_rows": 56,
+      "end_utc": "2026-10-01T10:07:11.565091+00:00"
+    },
+    {
+      "name": "server_PEQ5E",
+      "url_without_key": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5E&PEQ5E=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:07:04.079816+00:00",
+      "http_status": 200,
+      "bytes": 1248,
+      "sha256": "9eb2a07bf4f65f751125b6760217af1a666109da61115dcde4af401bafae3c36",
+      "data_rows": 56,
+      "end_utc": "2026-10-01T10:07:11.492079+00:00"
+    }
+  ],
+  "exit_code": 0,
+  "end_utc": "2026-10-01T10:07:11.580284+00:00",
+  "outputs": {
+    "S2_2009_DC_QA.csv": "6a8f43321e82761d01633705ffb0002c2d6c916663f110351d0696e53e61d665",
+    "QA.json": "95ddb2e8c9a0ab0c14e24f9f9572ea6bcef34bb7451807d26253ddb681377243",
+    "S2_2009_ITEM_COUNTS_50_STATES.csv": "6d27628953bf3d9af2115e55a3505035859bbe2cd38e4954bd6b382f214495ca",
+    "S2_2009_50_STATES_DIRECT.csv": "9db16452ab6f11981209f21e8061eeb386fe79ad422ba88642af814197917a5b",
+    "server_PEQ5C.json": "db9f9bc206d01a487b5f8ffe72720266f94f5b06f3c8195583854f1041305c99",
+    "server_PEQ5D.json": "e269964900cc9426bf294400241c58dc5841325e68fbe762cd105eaf9b579c62",
+    "server_PEQ5B.json": "e9b0eaee6f4a34ddf51958efcfad0dc4e2fc856d897a6d240d9ac12b3d47d18c",
+    "S2_2009_NATIONAL_QA.csv": "88cca20cc61b115d9e39118fb24601d3e0a2f7918ec24cf539f93763c4e78340",
+    "server_PEQ5A.json": "c1e0281577aee7d8019be53bf060d9966d936aed5de4bb8aaefe67b0788b1855",
+    "server_PEQ5E.json": "9eb2a07bf4f65f751125b6760217af1a666109da61115dcde4af401bafae3c36"
+  }
+}
