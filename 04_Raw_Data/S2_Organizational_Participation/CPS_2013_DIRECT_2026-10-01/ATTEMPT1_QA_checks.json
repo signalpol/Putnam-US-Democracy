@@ -1,0 +1,230 @@
+[
+  {
+    "name": "QA_spec_frozen_before_execution",
+    "pass": true,
+    "detail": {
+      "spec_sha256": "b6107d196ebc8f1624f78a15356db196ff8539097a92c9ff3b3270ef3cba272b",
+      "frozen_utc": "2026-10-01T11:52:53.911428+00:00"
+    }
+  },
+  {
+    "name": "full_raw_structure",
+    "pass": true,
+    "detail": {
+      "records": 150067,
+      "record_lengths": {
+        "1012": 150067
+      },
+      "official_records": 150067
+    }
+  },
+  {
+    "name": "all_51_geographies",
+    "pass": true,
+    "detail": "50 states+DC in eligible records"
+  },
+  {
+    "name": "universe_verified",
+    "pass": true,
+    "detail": {
+      "age_min": 18,
+      "civilian": true,
+      "supplement_interview": 1,
+      "MIS_counts": {
+        "3": 9776,
+        "7": 9481,
+        "4": 9466,
+        "8": 9878
+      },
+      "MIS_restriction_status": "UNKNOWN \u2014 DOCUMENT/RAW CONFLICT",
+      "operational_MIS": [
+        3,
+        4,
+        7,
+        8
+      ],
+      "document_overview_MIS": [
+        3,
+        4,
+        7,
+        8
+      ],
+      "document_abstract_outgoing_only": true,
+      "proxy_allowed": true,
+      "source": "Attachment7 operational response universe; Attachment13 frequencies; Attachment3 MIS3,4,7,8 matchesraw;Attachment1 outgoing-only conflicts withraw;UNKNOWN \u2014 DOCUMENT/RAW CONFLICT preserved"
+    }
+  },
+  {
+    "name": "wording_categories_verified",
+    "pass": true,
+    "detail": "2013 Attachment7/8 exactfivequestionwordings recorded independently; same five groupcategories as2011 exceptrollingreferenceyear"
+  },
+  {
+    "name": "minimum_age_verified",
+    "pass": true,
+    "detail": "2013 Attachment3 persons/reporters18+;released minimumage18"
+  },
+  {
+    "name": "valid_group_variables_verified",
+    "pass": true,
+    "detail": "2013 Attachment7/8 and API metadata: PES5A-E"
+  },
+  {
+    "name": "weight_verified",
+    "pass": true,
+    "detail": "2013 Attachment3 defines nonresponse/selfresponse weights; API group items explicitly suggest PWNRWGT; raw field 1003-1012 divided by10000; API reports person units"
+  },
+  {
+    "name": "missing_rule_verified",
+    "pass": true,
+    "detail": "Any Yes=>1; all five No=>0; otherwise missing, no negative recoding"
+  },
+  {
+    "name": "replicate_merge_one_to_one",
+    "pass": true,
+    "detail": {
+      "eligible_matched": 38601,
+      "replicate_records": 130634,
+      "replicate_unique_keys": 130634,
+      "base_weight_mismatches": 0,
+      "record_lengths": {
+        "1617": 130634
+      }
+    }
+  },
+  {
+    "name": "replicate_161_official_totals",
+    "pass": true,
+    "detail": {
+      "weight_columns": 161,
+      "max_difference": "0.0000",
+      "tolerance_persons": "0.01"
+    }
+  },
+  {
+    "name": "variance_formula_verified",
+    "pass": true,
+    "detail": {
+      "replicates": 160,
+      "factor": "4/160",
+      "variance": "(4/160)*sum((replicate_ratio-full_sample_ratio)^2)",
+      "reestimated_valid_denominator": true,
+      "source": "Census2013 source page linked person instructions; March7 2012"
+    }
+  },
+  {
+    "name": "50_states_exactly",
+    "pass": true,
+    "detail": "canonical row count"
+  },
+  {
+    "name": "DC_excluded",
+    "pass": true,
+    "detail": "DC stored separately"
+  },
+  {
+    "name": "duplicates_zero",
+    "pass": true,
+    "detail": "state-year duplicates=0"
+  },
+  {
+    "name": "missing_state_estimate_zero",
+    "pass": true,
+    "detail": "all states have positive valid denominator"
+  },
+  {
+    "name": "year_2013",
+    "pass": true,
+    "detail": "no other year extraction"
+  },
+  {
+    "name": "direct_observations_50",
+    "pass": true,
+    "detail": "all observations DIRECT"
+  },
+  {
+    "name": "respondent_count_recorded",
+    "pass": true,
+    "detail": {
+      "respondents": 38601,
+      "published_Q5A_total": 38601
+    }
+  },
+  {
+    "name": "valid_respondent_N_recorded",
+    "pass": true,
+    "detail": "canonical validN computed from jointfiveitemresponse rule"
+  },
+  {
+    "name": "weighted_denominators_recorded",
+    "pass": true,
+    "detail": "state and item denominators preserved"
+  },
+  {
+    "name": "partition",
+    "pass": true,
+    "detail": "valid plus missing partition, weights sum"
+  },
+  {
+    "name": "range",
+    "pass": true,
+    "detail": "proportions [0,1]"
+  },
+  {
+    "name": "official_Q5A_frequencies",
+    "pass": true,
+    "detail": {
+      "expected": {
+        "1": 5386,
+        "2": 31299,
+        "-2": 167,
+        "-3": 1534,
+        "-9": 215
+      },
+      "observed": {
+        "2": 31299,
+        "1": 5386,
+        "-3": 1534,
+        "-2": 167,
+        "-9": 215
+      },
+      "source": "Attachment13"
+    }
+  },
+  {
+    "name": "official_benchmark_None",
+    "pass": true,
+    "detail": {
+      "observed": "237662631.9674",
+      "published_rounded": 237663000,
+      "tolerance_persons": 500,
+      "source": "2013 Attachment16 Illustration3",
+      "weight_basis": "PWSSWGT all civilian18+ population control",
+      "note": "The illustration population base is reproduced with basic final weight; canonical estimates retain the instructed supplement weight and valid-response denominator."
+    }
+  },
+  {
+    "name": "official_benchmark_0",
+    "pass": true,
+    "detail": {
+      "observed": "31507171.4006",
+      "published_rounded": 31507000,
+      "tolerance_persons": 500,
+      "source": "2013 Attachment16 Illustration3",
+      "weight_basis": "PWNRWGT supplement Yes",
+      "note": "The illustration population base is reproduced with basic final weight; canonical estimates retain the instructed supplement weight and valid-response denominator."
+    }
+  },
+  {
+    "name": "official_benchmark_2",
+    "pass": true,
+    "detail": {
+      "observed": "22393361.5725",
+      "published_rounded": 22393000,
+      "tolerance_persons": 500,
+      "source": "2013 Attachment16 Illustration3",
+      "weight_basis": "PWNRWGT supplement Yes",
+      "note": "The illustration population base is reproduced with basic final weight; canonical estimates retain the instructed supplement weight and valid-response denominator."
+    }
+  }
+]
