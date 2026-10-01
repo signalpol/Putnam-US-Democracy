@@ -1,0 +1,138 @@
+{
+  "checks": [
+    {
+      "name": "canonical_50_states_no_DC",
+      "pass": true,
+      "detail": "50 unique states, 2009 only"
+    },
+    {
+      "name": "eligible_universe",
+      "pass": true,
+      "detail": "All returned records age18+, MIS4/8, supplement interview1, civilian2"
+    },
+    {
+      "name": "positive_weights",
+      "pass": true,
+      "detail": "PWNRWGT supplied by API in person units, no scaling applied"
+    },
+    {
+      "name": "item_code_domain",
+      "pass": true,
+      "detail": "Validated 1,2,-1,-2,-3,-9"
+    },
+    {
+      "name": "denominator_partition",
+      "pass": true,
+      "detail": "Counts partition universe; missing never coded No"
+    },
+    {
+      "name": "percent_range",
+      "pass": true,
+      "detail": "All valid-denominator percentages in [0,100]"
+    },
+    {
+      "name": "official_external_PEQ5A_frequency",
+      "pass": true,
+      "detail": {
+        "observed": {
+          "2": 17630,
+          "1": 3227,
+          "-3": 243,
+          "-2": 70,
+          "-9": 56
+        },
+        "expected": {
+          "1": 3227,
+          "2": 17630,
+          "-2": 70,
+          "-3": 243,
+          "-9": 56
+        },
+        "source": "https://www2.census.gov/programs-surveys/cps/techdocs/cpsnov09c.pdf Attachment13"
+      }
+    },
+    {
+      "name": "official_external_population",
+      "pass": true,
+      "detail": {
+        "observed": "227346149.5028",
+        "published_rounded": 227346000,
+        "source": "Census 2009 technical documentation Attachment16 Illustration3"
+      }
+    },
+    {
+      "name": "official_external_yes_PEQ5A",
+      "pass": true,
+      "detail": {
+        "computed": "34265827.8908",
+        "published_rounded": 34266000,
+        "tolerance_rounding_persons": 500,
+        "denominator_note": "Published percentages use all-eligible; canonical item percentages exclude item missing."
+      }
+    },
+    {
+      "name": "official_external_yes_PEQ5C",
+      "pass": true,
+      "detail": {
+        "computed": "22133592.2216",
+        "published_rounded": 22134000,
+        "tolerance_rounding_persons": 500,
+        "denominator_note": "Published percentages use all-eligible; canonical item percentages exclude item missing."
+      }
+    },
+    {
+      "name": "server_weighted_PEQ5A",
+      "pass": true,
+      "detail": {
+        "compared_cells": 102,
+        "max_abs_difference": "0.4988",
+        "tolerance": "0.51 persons for API rounded counts"
+      }
+    },
+    {
+      "name": "server_weighted_PEQ5B",
+      "pass": true,
+      "detail": {
+        "compared_cells": 102,
+        "max_abs_difference": "0.4984",
+        "tolerance": "0.51 persons for API rounded counts"
+      }
+    },
+    {
+      "name": "server_weighted_PEQ5C",
+      "pass": true,
+      "detail": {
+        "compared_cells": 102,
+        "max_abs_difference": "0.4976",
+        "tolerance": "0.51 persons for API rounded counts"
+      }
+    },
+    {
+      "name": "server_weighted_PEQ5D",
+      "pass": true,
+      "detail": {
+        "compared_cells": 102,
+        "max_abs_difference": "0.5000",
+        "tolerance": "0.51 persons for API rounded counts"
+      }
+    },
+    {
+      "name": "server_weighted_PEQ5E",
+      "pass": true,
+      "detail": {
+        "compared_cells": 102,
+        "max_abs_difference": "0.5000",
+        "tolerance": "0.51 persons for API rounded counts"
+      }
+    },
+    {
+      "name": "union_count_bounds",
+      "pass": true,
+      "detail": "Weighted union between largest marginal Yes count and sum of marginal Yes counts"
+    }
+  ],
+  "pass": true,
+  "external_union_percent_benchmark": "UNAVAILABLE; no same-year same-denominator independent union estimate verified",
+  "external_benchmark_scope": "Official published population, school and sports Yes totals and school frequencies verified; pooled Opportunity Index rejected",
+  "missing_rule": "Any Yes => 1, all No => 0, otherwise missing; unknown answers not individually imputed."
+}
