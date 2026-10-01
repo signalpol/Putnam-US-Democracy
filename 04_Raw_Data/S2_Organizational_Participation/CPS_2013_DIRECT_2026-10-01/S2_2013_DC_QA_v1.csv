@@ -1,0 +1,2 @@
+state,state_fips,year,s2_participation,s2_se,n_unweighted,weighted_denominator,source,weight,observation_type,run_id,unit,se_method,n_eligible,n_missing
+DC,11,2013,0.4907247966956023829323030197,0.026026476003720135,538,492989.5820,https://www2.census.gov/programs-surveys/cps/datasets/2013/supp/nov13pub.dat.gz,PWNRWGT,DIRECT,S2_2013_20261001T115713Z,proportion,CENSUS_NR_160_REPLICATES_FACTOR_4_OVER_160,576,38
