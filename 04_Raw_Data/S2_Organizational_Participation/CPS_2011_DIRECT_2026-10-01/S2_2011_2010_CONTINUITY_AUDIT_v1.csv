@@ -1,0 +1,7 @@
+dimension,status,year_2010,year_2011,evidence
+wording,CHANGED,The next questions;Please tell me whether or not;Nov2009-now;religious services attendance,Next I will give you;Have you/Has NAME;sinceNov2010;NOT COUNTING your/his/her attendance,"2010/2011 Attachment7/8;2009→2010 wording break not erased,2011 introduction returns toward2009 form"
+organization categories,SAME,five school/community;service/civic;sports/recreation;religious excludingattendance;other,same five types,Religious wording changed; no category added/removed
+universe,CHANGED,person18+;self/proxy;reporter15+;observedMIS1-8,person18+;self/proxy;reporter18+;observedMIS1-8;PDF saysoutgoingonly,Reporter minimum age changed. Operational raw full8group coverage SAME; formal rotation restriction UNKNOWN because PDF conflicts with releaseddata and officialfrequencies.2009 outgoing→2010 fullsample break persists empirically2011.
+weight,SAME,PWNRWGT supplement nonresponse,PWNRWGT groupitem suggestedweight;160 NRreplicates now supplied,Same name/purpose; identical calibration not asserted. Availability of official replication changed from2010 unverified.
+missing codes,SAME,-1 NIU;-2 DK;-3 refused;-9 No Response,same negativecodes,2011 Attachment7/API
+response codes,SAME,1 Yes;2 No,1 Yes;2 No,2011 Attachment7/API
