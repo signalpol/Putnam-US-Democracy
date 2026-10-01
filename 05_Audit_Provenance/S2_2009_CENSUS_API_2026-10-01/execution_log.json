@@ -1,0 +1,111 @@
+{
+  "run_id": "S2_2009_CENSUS_API_20261001T095610Z",
+  "started_at": "2026-10-01T09:56:10.831481+00:00",
+  "source": "https://api.census.gov/data/2009/cps/civic/nov",
+  "year": 2009,
+  "key_parameter_present": false,
+  "code_sha256": "708471cdf862b63eded8a59f6ca24284b919782919594e1771239b20ec017729",
+  "requests": [
+    {
+      "label": "variables",
+      "url": "https://api.census.gov/data/2009/cps/civic/nov/variables.json",
+      "started_at": "2026-10-01T09:56:10.832467+00:00",
+      "http_status": 200,
+      "content_type": "application/json;charset=utf-8",
+      "response_sha256": "ceb4aa5eb2b1f6d91b403684b35f720e6f7c9f323b26153b49173c45f3fa9518",
+      "bytes": 416684,
+      "json_valid": true,
+      "all_required_variables_present": true,
+      "ended_at": "2026-10-01T09:56:18.444957+00:00"
+    },
+    {
+      "label": "raw_eligible_no_key",
+      "url": "https://api.census.gov/data/2009/cps/civic/nov?get=GESTFIPS,PRTAGE,HRMIS,PRSUPINT,PRPERTYP,PWNRWGT,PEQ5A,PEQ5B,PEQ5C,PEQ5D,PEQ5E&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "started_at": "2026-10-01T09:56:10.833162+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "bytes": 8531,
+      "json_valid": false,
+      "html_title": [
+        "Missing Key"
+      ],
+      "ended_at": "2026-10-01T09:56:25.058636+00:00"
+    },
+    {
+      "label": "weighted_PEQ5A_no_key",
+      "url": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5A&PEQ5A=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "started_at": "2026-10-01T09:56:10.833706+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "bytes": 8531,
+      "json_valid": false,
+      "html_title": [
+        "Missing Key"
+      ],
+      "ended_at": "2026-10-01T09:56:25.158922+00:00"
+    },
+    {
+      "label": "weighted_PEQ5B_no_key",
+      "url": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5B&PEQ5B=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "started_at": "2026-10-01T09:56:18.445211+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "bytes": 8531,
+      "json_valid": false,
+      "html_title": [
+        "Missing Key"
+      ],
+      "ended_at": "2026-10-01T09:56:32.990416+00:00"
+    },
+    {
+      "label": "weighted_PEQ5C_no_key",
+      "url": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5C&PEQ5C=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "started_at": "2026-10-01T09:56:25.058704+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "bytes": 8531,
+      "json_valid": false,
+      "html_title": [
+        "Missing Key"
+      ],
+      "ended_at": "2026-10-01T09:56:39.454864+00:00"
+    },
+    {
+      "label": "weighted_PEQ5D_no_key",
+      "url": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5D&PEQ5D=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "started_at": "2026-10-01T09:56:25.158969+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "bytes": 8531,
+      "json_valid": false,
+      "html_title": [
+        "Missing Key"
+      ],
+      "ended_at": "2026-10-01T09:56:39.415449+00:00"
+    },
+    {
+      "label": "weighted_PEQ5E_no_key",
+      "url": "https://api.census.gov/data/2009/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5E&PEQ5E=1,2&PRTAGE=18:90&HRMIS=4,8&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "started_at": "2026-10-01T09:56:32.990465+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "response_sha256": "c2f4687e09b80676de7f68dec92ebea395209616dbc6f895520e547c5f68c0f5",
+      "bytes": 8531,
+      "json_valid": false,
+      "html_title": [
+        "Missing Key"
+      ],
+      "ended_at": "2026-10-01T09:56:46.524391+00:00"
+    }
+  ],
+  "ended_at": "2026-10-01T09:56:46.525028+00:00",
+  "acquisition_status": "FAILED",
+  "estimation_status": "ENGINE NOT EXECUTED",
+  "state_estimate_rows_created": 0,
+  "exit_code": 2
+}
