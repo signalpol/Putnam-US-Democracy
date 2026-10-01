@@ -1,6 +1,5 @@
 name: S2 CPS extraction
 on:
-  push:
   workflow_dispatch:
 jobs:
   extract:
