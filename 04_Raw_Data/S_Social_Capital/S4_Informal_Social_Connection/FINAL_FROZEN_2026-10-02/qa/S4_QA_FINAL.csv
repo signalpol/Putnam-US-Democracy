@@ -1,0 +1,16 @@
+check,observed,expected
+rows,1200,1200
+states,50,50
+years,2000-2023 (24),2000-2023 (24)
+duplicates,0,0
+DC/territories,0,0
+missing S4_estimate,0,0
+missing S4_SE,0,0
+DIRECT rows,300,300
+MODEL_ESTIMATED rows,900,900
+DIRECT/MODEL exclusive,0,0
+backcast rows (2000-2010),550,550
+bridge rows (2014-2016),150,150
+undercoverage_risk rows,750,documented
+direct source reproduction (AmeriCorps),600/600 max 0.00050,600/600
+interpolation/ffill/bfill,0,0
