@@ -1,0 +1,11 @@
+{
+  "official2013page": "https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-civic.2013.html",
+  "raw": "https://www2.census.gov/programs-surveys/cps/datasets/2013/supp/nov13pub.dat.gz",
+  "nonresponse_replicates": "https://www2.census.gov/programs-surveys/cps/datasets/2013/supp/nov13nrrep.dat.gz",
+  "replicate_sas": "https://www2.census.gov/programs-surveys/cps/datasets/2013/supp/cps_civeng_nrrepwgt_nov13.sas",
+  "person_instructions": "https://www2.census.gov/programs-surveys/cps/datasets/2018/supp/PERSON-level_Use_of_the_Public_Use_Replicate_Weight_File.doc",
+  "evidence": "Official2013 page link95 raw,96NRlayout,98NRdata,88personinstructions;read2026-10-01;docMarch7 2012 appliespersonsupplementreplicates; downloadedagain independently2013",
+  "external_benchmark": "https://ncoc.org/wp-content/uploads/2015/04/2015NorthCarolinaCHI.pdf",
+  "excluded_candidate": "https://ssrc-static.s3.amazonaws.com/wp-content/uploads/2014/09/Opportunity-Nation-Civic-Engagement-Report-2014.pdf",
+  "excluded_reason": "2013 OpportunityIndex reportlabel is not2013 CPS civic observation; technicalappendix uses2010/2011 civicdata; no copiedbenchmark"
+}
