@@ -1,0 +1,88 @@
+{
+  "run_id": "S2_MODELCOMP_20261001T231934Z",
+  "started_utc": "2026-10-01T23:19:34.490654+00:00",
+  "ended_utc": "2026-10-01T23:19:41.888013+00:00",
+  "input_SHA256": "6552cee937979c00eae89960ca07a3f13358525826877809d2c0f1a2903f24b7",
+  "script_SHA256": "5fad0fc6c5fa4e165155f73de51e0e9dd4a603a5c2f498898f242ced3b9a6453",
+  "exit_status": 0,
+  "models": [
+    {
+      "model": "M0",
+      "n": 400,
+      "parameters": 4,
+      "log_likelihood": 12.788547807778457,
+      "AIC": -17.577095615556914,
+      "BIC": -1.611237427124987,
+      "converged": true,
+      "gradient_max": 2.27373676825089e-05,
+      "state_intercept_sd": 0.20538859851326485,
+      "unknown_sampling_sd_logit": 0.2233173334863124,
+      "state_process_sd": 6.14421235332821e-06,
+      "common_process_sd": 6.14421235332821e-06,
+      "trend_per_decade_logit": -0.547093410903942,
+      "CEV_offset_logit": "",
+      "CEV_offset_SE_logit": ""
+    },
+    {
+      "model": "M1",
+      "n": 400,
+      "parameters": 6,
+      "log_likelihood": 124.8102717063635,
+      "AIC": -237.620543412727,
+      "BIC": -213.6717561300791,
+      "converged": true,
+      "gradient_max": 3.4106051523763346e-05,
+      "state_intercept_sd": 0.19803900361179927,
+      "unknown_sampling_sd_logit": 0.11012626056231391,
+      "state_process_sd": 0.13672799263065225,
+      "common_process_sd": 0.18801798932802047,
+      "trend_per_decade_logit": -0.3878194882883872,
+      "CEV_offset_logit": "",
+      "CEV_offset_SE_logit": ""
+    },
+    {
+      "model": "M2",
+      "n": 400,
+      "parameters": 7,
+      "log_likelihood": 126.25701996184597,
+      "AIC": -238.51403992369194,
+      "BIC": -210.57378809393606,
+      "converged": true,
+      "gradient_max": 4.54747353650178e-05,
+      "state_intercept_sd": 0.19797584909240515,
+      "unknown_sampling_sd_logit": 0.1101589759623329,
+      "state_process_sd": 0.1367368078590021,
+      "common_process_sd": 0.15453967526540321,
+      "trend_per_decade_logit": -0.09015156742218657,
+      "CEV_offset_logit": -0.38713387814642863,
+      "CEV_offset_SE_logit": 0.2061617054703487
+    }
+  ],
+  "holdout_summary": [
+    {
+      "model": "M0",
+      "n": 250,
+      "MAE": 0.03809820718060522,
+      "RMSE": 0.04980276828327666,
+      "mean_bias": 0.004490263080946013,
+      "coverage": 0.944
+    },
+    {
+      "model": "M1",
+      "n": 250,
+      "MAE": 0.03245718030873597,
+      "RMSE": 0.04072322557470654,
+      "mean_bias": -0.013199764652191855,
+      "coverage": 0.948
+    },
+    {
+      "model": "M2",
+      "n": 250,
+      "MAE": 0.03293169157475155,
+      "RMSE": 0.040160097699742554,
+      "mean_bias": -0.007304016126186326,
+      "coverage": 0.956
+    }
+  ],
+  "warning": "Diagnostics only; regime identification depends on temporal prior and no cross-regime overlapping wave exists."
+}
