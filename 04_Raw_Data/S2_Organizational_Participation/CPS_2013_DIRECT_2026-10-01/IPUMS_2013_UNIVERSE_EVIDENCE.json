@@ -1,0 +1,11 @@
+{
+  "source": "https://cps.ipums.org/cps-action/variables/CEORGCIV",
+  "also_checked": [
+    "https://cps.ipums.org/cps-action/variables/CEORGCOM",
+    "https://cps.ipums.org/cps-action/variables/CEORGRELIG"
+  ],
+  "retrieval_utc": "2026-10-01T12:02:44.707367+00:00",
+  "web_ref": "turn47search0",
+  "finding": "Nov2013 persons18+ in rotations3,4,7,8",
+  "role": "independent academic documentation of sample; no IPUMS estimates copied; doesnot erase Census documentconflict"
+}
