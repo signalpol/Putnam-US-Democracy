@@ -1,0 +1,100 @@
+{
+  "run_id": "S2_2010_20261001T101642Z",
+  "start_utc": "2026-10-01T10:16:42.026493+00:00",
+  "year": 2010,
+  "code_sha256": "419a9ec14a5cacd610f65d85f5a0c47c2df36362fc61bed919925ad561db10de",
+  "inputs": {
+    "nov10pub_civic.dat.gz": {
+      "sha256": "03930d970786f7739f82129ed5a7692e59f865c6df31bfa76b2412c429ec75d5",
+      "bytes": 14063165
+    },
+    "cpsnov10c.pdf": {
+      "sha256": "9588efe359c149f108aec6ed924a4ed231d7cac097128b0c9ad38b835ef7a960",
+      "bytes": 775216
+    },
+    "variables.json": {
+      "sha256": "3e79c8228f970ca1c152428eaffaa0b56880aa2ef88ff70de8271e97038c8f74",
+      "bytes": 417989
+    },
+    "verified_variables.json": {
+      "sha256": "d6d55a1e1877def5d3776b32e5d80cc6aff503134f5e62c1fe801cfca70780ce",
+      "bytes": 4330
+    }
+  },
+  "steps": [
+    {
+      "stage": "direct_extraction",
+      "end_utc": "2026-10-01T10:16:43.639714+00:00",
+      "respondents": 76084,
+      "canonical_rows": 50,
+      "status": "PASS"
+    },
+    {
+      "stage": "API_QA",
+      "end_utc": "2026-10-01T10:17:00.136876+00:00",
+      "status": "FAIL",
+      "checks_passed": 28,
+      "checks_total": 29
+    }
+  ],
+  "api_requests": [
+    {
+      "variable": "PEQ5A",
+      "url_without_key": "https://api.census.gov/data/2010/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5A&PEQ5A=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:16:43.641016+00:00",
+      "end_utc": "2026-10-01T10:16:52.786148+00:00",
+      "http_status": 200,
+      "bytes": 1266,
+      "sha256": "53f4c66f11c3ea7c4c42cff0c3ec295d1b9dd5e631766022aded22b6a49f01e3"
+    },
+    {
+      "variable": "PEQ5B",
+      "url_without_key": "https://api.census.gov/data/2010/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5B&PEQ5B=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:16:43.641606+00:00",
+      "end_utc": "2026-10-01T10:16:52.758250+00:00",
+      "http_status": 200,
+      "bytes": 1253,
+      "sha256": "b2e589438a99ad96e362c37854447be0cd17b8351be29f072bd18516cb39ca7e"
+    },
+    {
+      "variable": "PEQ5C",
+      "url_without_key": "https://api.census.gov/data/2010/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5C&PEQ5C=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:16:43.642119+00:00",
+      "end_utc": "2026-10-01T10:16:52.828884+00:00",
+      "http_status": 200,
+      "bytes": 1260,
+      "sha256": "d96cb7eecfe47627610c731418a0699700d629b30c9af99bbfff30a8da3afd79"
+    },
+    {
+      "variable": "PEQ5D",
+      "url_without_key": "https://api.census.gov/data/2010/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5D&PEQ5D=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:16:52.758297+00:00",
+      "end_utc": "2026-10-01T10:17:00.069742+00:00",
+      "http_status": 200,
+      "bytes": 1271,
+      "sha256": "a3b40ea6958f4e4fdcb942e9986d765bffce6d5b5d45cbba0d4ebbaea68fb05a"
+    },
+    {
+      "variable": "PEQ5E",
+      "url_without_key": "https://api.census.gov/data/2010/cps/civic/nov?tabulate=weight(PWNRWGT)&row+for&col+PEQ5E&PEQ5E=1,2&PRTAGE=18:90&PRSUPINT=1&PRPERTYP=2&for=state:*",
+      "start_utc": "2026-10-01T10:16:52.786211+00:00",
+      "end_utc": "2026-10-01T10:17:00.134888+00:00",
+      "http_status": 200,
+      "bytes": 1252,
+      "sha256": "d185d875d9c6b9b337775ead281bc6b4b01e323e4da31da2ccd3083e3702459f"
+    }
+  ],
+  "exit_code": 3,
+  "end_utc": "2026-10-01T10:17:00.136898+00:00",
+  "outputs": {
+    "API_PEQ5A.json": "53f4c66f11c3ea7c4c42cff0c3ec295d1b9dd5e631766022aded22b6a49f01e3",
+    "API_PEQ5D.json": "a3b40ea6958f4e4fdcb942e9986d765bffce6d5b5d45cbba0d4ebbaea68fb05a",
+    "S2_2010_ITEM_COUNTS_v1.csv": "6fd6bc5899f59368b47dc54287c5d597702251e0b1b2e4ebb8f75d45f166808c",
+    "S2_2010_NATIONAL_QA_v1.csv": "07afda9852b3bfbc9858839d28da9433f244c1f5c011128f357fca74a43a1bc1",
+    "API_PEQ5B.json": "b2e589438a99ad96e362c37854447be0cd17b8351be29f072bd18516cb39ca7e",
+    "S2_2010_DC_QA_v1.csv": "65e5fe1bf927a2191d4afb48dbe14277c2dac4a665ff53fc732c72bdf207edc9",
+    "API_PEQ5E.json": "d185d875d9c6b9b337775ead281bc6b4b01e323e4da31da2ccd3083e3702459f",
+    "S2_Organizational_Participation_2010_DIRECT_v1.csv": "c2c4b3061071066e1ca4640a29a0fa2d0c1af9426519d2f0d0a704e8d4a40486",
+    "API_PEQ5C.json": "d96cb7eecfe47627610c731418a0699700d629b30c9af99bbfff30a8da3afd79"
+  }
+}
