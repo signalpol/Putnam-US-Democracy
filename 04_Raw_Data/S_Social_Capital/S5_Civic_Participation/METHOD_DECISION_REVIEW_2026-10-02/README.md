@@ -1,0 +1,7 @@
+# S5 METHOD DECISION REVIEW — 2026-10-02
+
+PARTIAL / BLOCKED_METHOD_DECISION, not FINAL or FROZEN. Read S5_METHOD_DECISION_REVIEW.md. Numerical comparison and fresh historical item extraction completed; no 1,200-row canonical choice is made. Observed rates are materialized separately from exploratory candidate scores. Original RAW is unchanged. Existing S1–S4/S6 and raw Drive holdings are not modified.
+
+Replication: Python3 with numpy/scipy/openpyxl (read-only source workbook). Run prepare_replication.py to materialize source files matching exact hashes in HISTORICAL_RAW_DOWNLOAD_MANIFEST.json, then run OPENBLAS_NUM_THREADS=1 python build_review.py. Script writes review_package/ only. It has no GitHub/Drive write or Actions behavior. Documents and archived source workbook are preserved for verification. Externally sourced current private metadata/API keys are not included. Execution run ID, starts/ends, code/input hashes, stage logs, exit code, raw output and model diagnostics are included.
+
+GitHub transport: text files directly readable, binary ZIP/XLSX represented in lossless Base64 because connected writer accepts UTF-8. decode_binary.py reconstructs exact bytes. Drive stores original review ZIP. Remote verification is performed after upload and recorded outside this immutable ZIP to avoid cyclic hash/commit self-reference. This package's QA is scoped to the review, not canonical completeness.
