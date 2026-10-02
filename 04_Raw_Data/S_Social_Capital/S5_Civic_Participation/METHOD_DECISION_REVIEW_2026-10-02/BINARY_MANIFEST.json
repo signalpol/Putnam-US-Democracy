@@ -1,0 +1,14 @@
+[
+  {
+    "file": "CEV_ARCHIVED_SOURCE.xlsx",
+    "bytes": 134256,
+    "sha256": "fd0a8dd7995965b09cdce92d999b96cafb0dbe12523a41b765ffa685008b3c48",
+    "transport": "CEV_ARCHIVED_SOURCE.xlsx.base64"
+  },
+  {
+    "file": "S5_METHOD_DECISION_REVIEW_2026-10-02.zip",
+    "bytes": 755761,
+    "sha256": "9962e20b0890227e21211d5dc3dcabab8c9c6df1c8104ebef891b4af3807f635",
+    "transport": "S5_METHOD_DECISION_REVIEW_2026-10-02.zip.base64"
+  }
+]
