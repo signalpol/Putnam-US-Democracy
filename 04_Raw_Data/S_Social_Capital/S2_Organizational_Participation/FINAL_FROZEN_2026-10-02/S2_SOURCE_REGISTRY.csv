@@ -1,0 +1,8 @@
+file,url,bytes,sha256,role,packaged
+cpsnov08c.pdf,https://www2.census.gov/programs-surveys/cps/techdocs/cpsnov08c.pdf,1477190,c000fc94c7db65d1e8db1f4a2d25a30011fdd12db1e9a61df42b0dc3853c0753,DOCUMENTATION_ONLY,False
+variables.json,https://api.census.gov/data/2008/cps/civic/nov/variables.json,413161,54eb2b234ce972e1269acbebdb23d0e5bf0f970b534d0ecaed775a376e448b70,DOCUMENTATION_ONLY,False
+cpssep17.pdf,https://www2.census.gov/programs-surveys/cps/techdocs/cpssep17.pdf,1727272,0dcd76986efc3bfd06c41f64dd50dfe15076a4e24144e2cf34a730ebb7eb7d47,DOCUMENTATION_ONLY,False
+cpssep23.pdf,https://www2.census.gov/programs-surveys/cps/techdocs/cpssep23.pdf,1987146,3fb6d648fb86bc3eef53453cb9d4714940d64bc1fcb1dabdc0cebdd1e3db4dcc,DOCUMENTATION_ONLY,False
+usmisc2006-soccap.pdf,https://ropercenter.cornell.edu/sites/default/files/pdf/usmisc2006-soccap.pdf,1937753,df43a5015cd153cad5b1ef3949c48b1fd84d12e6f33de83d4e7cae1965f2ae25,DOCUMENTATION_ONLY,False
+canonical_base.csv,https://raw.githubusercontent.com/signalpol/Putnam-US-Democracy/main/04_Raw_Data/S2_Organizational_Participation/S2_Organizational_Participation_CANONICAL_BASE_8_DIRECT_YEARS_2009_2023.csv,29201,6552cee937979c00eae89960ca07a3f13358525826877809d2c0f1a2903f24b7,BASE,True
+Drive canonical base CSV export,https://docs.google.com/spreadsheets/d/1HYa7Uj4NP8NrrNWzpM1INT4gSr0EoUpQ8HIzly8bnVI/edit,29684,06a9fc82b29ef568178eb127663c344772e500348107124ce637b9ddc6957e08,INDEPENDENT_BASE_COMPARISON,False
