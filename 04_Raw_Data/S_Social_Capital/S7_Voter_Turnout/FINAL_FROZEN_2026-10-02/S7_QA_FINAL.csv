@@ -1,0 +1,16 @@
+check,observed,expected
+rows,1200,1200
+states,50,50
+years,2000-2023 (24),2000-2023 (24)
+duplicates,0,0
+DC/territories,0,0
+missing S7_estimate,0,0
+missing SE,0,0
+DIRECT rows (even years),600,600
+MODEL_ESTIMATED rows (odd years),600,600
+direct reproduction vs published VEP_TURNOUT_RATE,560/560,all within rounding 0.00005
+numerator substitute rows (highest office),40,documented
+validation_risk rows,90,documented
+observed_turnout_vep equals direct file,True,True
+interpolation/ffill/bfill,0,0
+backcast rows,0,0

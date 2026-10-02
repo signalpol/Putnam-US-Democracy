@@ -1,0 +1,7 @@
+# S7 Model Validation Report
+Models (MLE, Kalman/RTS, annual grid 2000-2023): M1 independent state RW (AIC -1865.7; Hessian NOT PD), M2 national RW + state RW with election-type measurement (AIC -2246.3, max |grad| 3e-7, Hessian PD), M2b = M2 + substitute-numerator offset (AIC -2246.2; offset ~0). Selected: M2.
+S7_estimate: DIRECT years = (observed - alpha_type)/lambda_type (presidential-equivalent, single-year); odd years = smoothed latent with smoother + parameter uncertainty (200 draws). 2023 is a one-year forecast (forecast_flag = 1). No backcast is needed (data start 2000).
+Pre-registered holdouts (95% coverage / MAE / mean error): 2000 edge pres 0.50 / 0.045 / -0.044 (FAIL); 2004 pres 1.00 / 0.023 / +0.021; 2010 mid 1.00 / 0.035 / -0.003; 2016 pres 0.98 / 0.024 / -0.023; 2018 mid 0.96 / 0.063 / +0.063.
+Interpretation: interior coverage is adequate, but errors are dominated by election-specific national shocks (2018 midterm surge, 2004) that the random-walk latent treats as persistent; edge prediction fails. Per the pre-written rule, 2023 forecast rows carry validation_risk = 1 (edge failure); interior odd years are not flagged.
+Ranking: Spearman correlation between latent and direct presidential-equivalent values by election year: median 0.957, min 0.738 (midterm years, tau_mid large).
+Caveat: odd-year values describe a latent propensity between elections, not turnout; use observed-wave data for turnout analyses.
