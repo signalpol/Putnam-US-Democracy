@@ -1,0 +1,22 @@
+{
+  "run_id": "S6_CBP_DENSITY_20261002_v1",
+  "start_utc": "2026-10-02T04:30:22.453428+00:00",
+  "end_utc": "2026-10-02T04:30:22.924255+00:00",
+  "exit_code": 0,
+  "code_sha256": "723ffb5d33e148f02257e31e0697eab65e28e46ec6a7cb884bc8ef51338527ce",
+  "input_hashes": {
+    "S6_RAW.csv": "64b529678efffc1d3b2652f66cc64381b210fba01126086ac1a61ad82fc589a9",
+    "CBP_REVALIDATION.csv": "96a56e6938538af87c1f737f029cd37d5e1e1f75c4f9b21f859fd4802cd75533",
+    "st-est00int-alldata.csv": "a83f02d9deca8bc02ba9b03d124a9b28906f4a17e831953cc42c86da2aef6a8a",
+    "nst-est2020-alldata.csv": "6e1289c0041f42b4238dd4e4fe7975b25816a7a40de9a5b70581821e6659c75c",
+    "NST-EST2023-ALLDATA.csv": "8f0733f32bb01e8c60c22e1eb88ed300e54dcd85306debb13521a81e0c53332a"
+  },
+  "stages": [
+    "INPUT_AUDIT",
+    "OFFICIAL_RAW_COMPARISON",
+    "POPULATION_JOIN",
+    "DENSITY_DERIVATION",
+    "EXTREME_AUDIT",
+    "QA"
+  ]
+}

@@ -1,0 +1,33 @@
+check,result,evidence
+rows,PASS,1200
+states,PASS,50
+years,PASS,2000-2023
+each_state_24,PASS,50x24
+duplicates,PASS,0
+DC_excluded,PASS,0
+territories_excluded,PASS,0
+missing_estimate,PASS,0
+missing_denominator,PASS,0
+direct_rows,PASS,1200
+model_rows,PASS,0
+raw_count_preserved,PASS,1200
+official_zip_comparison,PASS,1200/1200
+archived_API_comparison,PASS,1200/1200
+arithmetic,PASS,count/population*1000
+one_category,PASS,813410 only
+classification_versions,PASS,5 revisions audited
+no_establishment_suppression,PASS,57
+denominator_date,PASS,July1
+denominator_vintages_locked,PASS,2010 intercensal / 2020 / 2023
+vintage_boundary_sensitivity,PASS,50states x 2boundaries
+extremes_retained,PASS,No winsorization/deletion
+provenance,PASS,1200
+interpolation,PASS,0; source code derives each observed year
+ffill_bfill,PASS,0
+adjacent_year_substitution,PASS,0
+source_urls,PASS,52
+raw_source_SHA,PASS,52
+rerun_reproducibility,PASS,5/5 deterministic CSV hashes MATCH
+XLSX_CSV_agreement,PASS,"1200/1200 counts, denominators, estimates;20 fields"
+NAICS_definition_audit,PASS,Five official coredefinitions;2003auxiliary break documented
+administrative_changes_documented,PASS,2003auxiliaries;2010LFO;2015header;2017publication;2018EMPFLAG

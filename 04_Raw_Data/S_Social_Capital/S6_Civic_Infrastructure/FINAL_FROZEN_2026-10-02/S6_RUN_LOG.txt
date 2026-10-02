@@ -1,0 +1,1 @@
+Official acquisitions:24/24 CensusZIPs successful. Full countcomparison:1200/1200 officialZIP = inheritedRAW = archivedAPI. Density derivation:1200DIRECT. QA:32/32PASS. Repeat run:5/5 deterministicCSV hashesMATCH. Workbooknumericcomparison:1200/1200. Acquisition logs/SHA and exactexecution timestamps/codehash in manifest. No Actions invoked.

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "S6_FINAL_2000_2023.csv",
+    "sha256": "502ca5906ec4c80944d5a45803b7c634d91c41b3b64c61b809e554bb59345784",
+    "rerun_sha256": "502ca5906ec4c80944d5a45803b7c634d91c41b3b64c61b809e554bb59345784",
+    "match": true
+  },
+  {
+    "file": "S6_POPULATION_DENOMINATORS.csv",
+    "sha256": "6f36e9c15f046fc0e7470e195c52a9e57dd2ff8d3fce2f83b12ba5ec20c27a9f",
+    "rerun_sha256": "6f36e9c15f046fc0e7470e195c52a9e57dd2ff8d3fce2f83b12ba5ec20c27a9f",
+    "match": true
+  },
+  {
+    "file": "S6_POPULATION_VINTAGE_SENSITIVITY.csv",
+    "sha256": "f49b4347f45005c953210970f7e959a58874c53ad7f93af74060f4316350e07f",
+    "rerun_sha256": "f49b4347f45005c953210970f7e959a58874c53ad7f93af74060f4316350e07f",
+    "match": true
+  },
+  {
+    "file": "S6_EXTREME_VALUE_AUDIT.csv",
+    "sha256": "bac2ca4a1ec2636b51d4dfb54b1609bf57ae62dba4c7e304aba1b642f8c70df9",
+    "rerun_sha256": "bac2ca4a1ec2636b51d4dfb54b1609bf57ae62dba4c7e304aba1b642f8c70df9",
+    "match": true
+  },
+  {
+    "file": "S6_SOURCE_REGISTRY.csv",
+    "sha256": "0bce176cf3308a01dde341ddbf4fc24380c44cd250de824b5809ba27da9e1235",
+    "rerun_sha256": "0bce176cf3308a01dde341ddbf4fc24380c44cd250de824b5809ba27da9e1235",
+    "match": true
+  }
+]
