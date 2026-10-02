@@ -1,0 +1,145 @@
+{
+  "run_id": "S5_REVIEW_20261002T042315Z",
+  "started_utc": "2026-10-02T04:23:15.046100+00:00",
+  "code_sha256": "e0465530eacc739a82bc5f28b566f20d14983d832c9bc4ce9a6cd6d8a71e851a",
+  "stages": [
+    {
+      "stage": "raw_audit",
+      "utc": "2026-10-02T04:23:15.462213+00:00",
+      "rows": 2000,
+      "states": 50,
+      "measures": [
+        "Learning About Issues",
+        "Discuss Issues Friends Family",
+        "Discuss Issues with Neighbors",
+        "Posting Views Online",
+        "Voting in Local Elections",
+        "Contacting Public Officials",
+        "Donating to a Political Cause",
+        "Attending Public Meetings",
+        "Taking Action with Neighbors",
+        "Buycotting or Boycotting"
+      ],
+      "archived_workbook_mismatches": 0
+    },
+    {
+      "stage": "historical_direct_item_extraction",
+      "utc": "2026-10-02T04:23:16.274781+00:00",
+      "year": 2010,
+      "raw_records": 152162,
+      "eligible_50states": 75137,
+      "MIS_counts_DC_inclusive": {
+        "4": 9168,
+        "3": 9573,
+        "2": 9579,
+        "8": 9344,
+        "5": 9590,
+        "6": 9584,
+        "7": 9648,
+        "1": 9598
+      },
+      "direct_item_cells": 100
+    },
+    {
+      "stage": "historical_direct_item_extraction",
+      "utc": "2026-10-02T04:23:22.392597+00:00",
+      "year": 2011,
+      "raw_records": 151776,
+      "eligible_50states": 80222,
+      "MIS_counts_DC_inclusive": {
+        "3": 10530,
+        "8": 10136,
+        "7": 10081,
+        "1": 10520,
+        "6": 9779,
+        "4": 9913,
+        "2": 10473,
+        "5": 9923
+      },
+      "direct_item_cells": 100
+    },
+    {
+      "stage": "historical_direct_item_extraction",
+      "utc": "2026-10-02T04:23:26.657247+00:00",
+      "year": 2013,
+      "raw_records": 150067,
+      "eligible_50states": 38025,
+      "MIS_counts_DC_inclusive": {
+        "3": 9776,
+        "7": 9481,
+        "4": 9466,
+        "8": 9878
+      },
+      "direct_item_cells": 100
+    },
+    {
+      "stage": "construct_sensitivity",
+      "utc": "2026-10-02T04:23:26.700773+00:00",
+      "PC1_variance_share": 0.505036739786171,
+      "eigenvalues": [
+        5.05036739786171,
+        1.0659594056752266,
+        0.979109068901015,
+        0.6970313880802772,
+        0.6632629153311268,
+        0.4948896017238803,
+        0.449059818089931,
+        0.27507532557520525,
+        0.1873228592702715,
+        0.13792221949135647
+      ],
+      "minimum_pairwise_correlation": 0.15581690628852038
+    },
+    {
+      "stage": "model_comparison",
+      "utc": "2026-10-02T04:23:29.725664+00:00",
+      "fits": 20,
+      "canonical_selected": false
+    }
+  ],
+  "inputs": {
+    "inputs/raw.csv": {
+      "bytes": 450304,
+      "sha256": "fff19311afa380903f135b0e438ddd7050066dc56e27af59f4d81f1ecff9362d"
+    },
+    "inputs/cev.xlsx": {
+      "bytes": 134256,
+      "sha256": "fd0a8dd7995965b09cdce92d999b96cafb0dbe12523a41b765ffa685008b3c48"
+    },
+    "/workspace/scratch/9eb6fec78fce/2010_run/nov10pub_civic.dat.gz": {
+      "bytes": 14063165,
+      "sha256": "03930d970786f7739f82129ed5a7692e59f865c6df31bfa76b2412c429ec75d5"
+    },
+    "/workspace/scratch/9eb6fec78fce/2010_run/codebook.txt": {
+      "bytes": 424379,
+      "sha256": "6b9bd6db4bd4668d1476c0e4a90371d953ee00a03ef168ba4c73a0a85cc2b3ca"
+    },
+    "/workspace/scratch/9eb6fec78fce/2011_run/nov11pub.dat.gz": {
+      "bytes": 14672017,
+      "sha256": "ac45a6dc7c2ebba2c0b3be722284bc2490dc8c3f20f12cd64dfdd3b4429183ed"
+    },
+    "/workspace/scratch/9eb6fec78fce/2011_run/codebook.txt": {
+      "bytes": 441406,
+      "sha256": "4985685a38bf476c66ac74be2fabaf80da140d7726c349759af28ff9798374c9"
+    },
+    "/workspace/scratch/9eb6fec78fce/2011_run/nov11nrrep.dat.gz": {
+      "bytes": 59125152,
+      "sha256": "1accb8eacadf4bbc616577196a45ea2936c8d45594e5b9cc506870e1c592c736"
+    },
+    "/workspace/scratch/9eb6fec78fce/2013_run/nov13pub.dat.gz": {
+      "bytes": 13720354,
+      "sha256": "10f89ef543f5444f4e3b738425d27b7398a9894faecc4bff893a30749b3abf4f"
+    },
+    "/workspace/scratch/9eb6fec78fce/2013_run/codebook.txt": {
+      "bytes": 427481,
+      "sha256": "07a00fd2306bca77f866c67c61810f36464d14ac454cae42955ab83c4b6fe9ee"
+    },
+    "/workspace/scratch/9eb6fec78fce/2013_run/nov13nrrep.dat.gz": {
+      "bytes": 30972712,
+      "sha256": "d59a9d23ff6ad8bf9b5fe68c4a09c3a3617e4e27d494b3d7bcadd4c992be07c1"
+    }
+  },
+  "ended_utc": "2026-10-02T04:23:29.725682+00:00",
+  "exit_code": 0,
+  "status": "PARTIAL_BLOCKED_METHOD_DECISION"
+}
