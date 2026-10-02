@@ -1,0 +1,37 @@
+[
+  {
+    "relative_path": "2010_run/nov10pub_civic.dat.gz",
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/supp/nov10pub_civic.dat.gz",
+    "bytes": 14063165,
+    "sha256": "03930d970786f7739f82129ed5a7692e59f865c6df31bfa76b2412c429ec75d5",
+    "status": "USED_OFFICIAL_RAW_EXISTING_LOCAL_COPY"
+  },
+  {
+    "relative_path": "2011_run/nov11pub.dat.gz",
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/supp/nov11pub.dat.gz",
+    "bytes": 14672017,
+    "sha256": "ac45a6dc7c2ebba2c0b3be722284bc2490dc8c3f20f12cd64dfdd3b4429183ed",
+    "status": "USED_OFFICIAL_RAW_EXISTING_LOCAL_COPY"
+  },
+  {
+    "relative_path": "2011_run/nov11nrrep.dat.gz",
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/supp/nov11nrrep.dat.gz",
+    "bytes": 59125152,
+    "sha256": "1accb8eacadf4bbc616577196a45ea2936c8d45594e5b9cc506870e1c592c736",
+    "status": "USED_OFFICIAL_RAW_EXISTING_LOCAL_COPY"
+  },
+  {
+    "relative_path": "2013_run/nov13pub.dat.gz",
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/supp/nov13pub.dat.gz",
+    "bytes": 13720354,
+    "sha256": "10f89ef543f5444f4e3b738425d27b7398a9894faecc4bff893a30749b3abf4f",
+    "status": "USED_OFFICIAL_RAW_EXISTING_LOCAL_COPY"
+  },
+  {
+    "relative_path": "2013_run/nov13nrrep.dat.gz",
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/supp/nov13nrrep.dat.gz",
+    "bytes": 30972712,
+    "sha256": "d59a9d23ff6ad8bf9b5fe68c4a09c3a3617e4e27d494b3d7bcadd4c992be07c1",
+    "status": "USED_OFFICIAL_RAW_EXISTING_LOCAL_COPY"
+  }
+]
