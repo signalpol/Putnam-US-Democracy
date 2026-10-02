@@ -1,0 +1,21 @@
+{
+  "latent_rows": 1200,
+  "numeric_flag_mismatches": 0,
+  "direct_exact_rows": 400,
+  "replication_run_id": "S2_FINAL_20261002T002943Z",
+  "started_utc": "2026-10-02T00:29:43.981103+00:00",
+  "ended_utc": "2026-10-02T00:29:56.130985+00:00",
+  "exit_code": 0,
+  "compared_columns": [
+    "state",
+    "year",
+    "S2_estimate",
+    "S2_SE",
+    "CI_lower",
+    "CI_upper",
+    "observation_type",
+    "backcast_flag",
+    "uncertainty_flag"
+  ],
+  "provenance_run_ids_differ_by_design": true
+}
