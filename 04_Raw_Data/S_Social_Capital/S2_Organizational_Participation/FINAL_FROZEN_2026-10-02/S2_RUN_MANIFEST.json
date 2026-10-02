@@ -1,0 +1,25 @@
+{
+  "run_id": "S2_FINAL_20261002T002743Z",
+  "started_utc": "2026-10-02T00:27:43.106219+00:00",
+  "ended_utc": "2026-10-02T00:27:54.997350+00:00",
+  "exit_code": 0,
+  "input_sha256": "6552cee937979c00eae89960ca07a3f13358525826877809d2c0f1a2903f24b7",
+  "code_sha256": {
+    "model_core.py": "eb572151fef476c3cc2d602dbe1963586a8faca94303328eab2a668fc79020d9",
+    "finalize_s2.py": "e183cc18cf69899593e6dc8d1e67b2cd5447d6965e3e21e8467961042646bb78"
+  },
+  "selected_model": "M2_L6",
+  "QA_pass": 27,
+  "output_rows": 1200,
+  "direct_rows": 400,
+  "stage_log": "S2_FINAL_RUN_LOG.txt",
+  "limitations": [
+    "regime offset identified conditionally on temporal-process assumptions; no overlapping measurement calibration",
+    "2008 unavailable in current evidence",
+    "2019/2021 document audit incomplete",
+    "unknown design SE for 2009/2010/CEV",
+    "fixed loading 1 and constant CEV offset",
+    "hyperparameter uncertainty approximate; anchor fixed",
+    "CI is conservative sensitivity envelope, not calibrated 95% confidence coverage"
+  ]
+}
