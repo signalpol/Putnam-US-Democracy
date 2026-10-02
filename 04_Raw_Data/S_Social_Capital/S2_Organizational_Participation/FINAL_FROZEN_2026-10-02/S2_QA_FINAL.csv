@@ -1,0 +1,28 @@
+check,result,actual
+rows,PASS,1200
+states,PASS,50
+years,PASS,2000-2023
+state_year_duplicates,PASS,0
+each_state_24,PASS,24
+DC_excluded,PASS,0
+territories_excluded,PASS,0
+finite_estimates,PASS,1200
+finite_positive_SE,PASS,1200
+CI_order,PASS,1200
+latent_all_model,PASS,1200
+observed_direct_rows,PASS,400
+observed_exact_input_values,PASS,400
+backcast_2000_2008,PASS,450
+2012_not_direct,PASS,50
+backcast_sensitivity_flag,PASS,450
+provenance_complete,PASS,1200
+no_percentage_latent,PASS,1200
+selected_converged,PASS,CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH
+selected_hessian_positive,PASS,13.869862168328114
+holdouts_executed,PASS,750
+holdouts_converged,PASS,750
+hyperparameter_draws,PASS,32
+no_interpolation_ffill_bfill,PASS,Gaussian process conditional expectation
+no_synthetic_direct_2008,PASS,0
+anchor_mean,PASS,1.3211653993039362e-16
+anchor_sd,PASS,1.0
