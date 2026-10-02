@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/techdocs/cpssep19.pdf",
+    "status": "HTTP Error 404: Not Found",
+    "acquired": false,
+    "elapsed": 6.127574920654297
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/techdocs/cpssep21.pdf",
+    "status": "HTTP Error 404: Not Found",
+    "acquired": false,
+    "elapsed": 6.179234266281128
+  },
+  {
+    "url": "https://www2.census.gov/cps/supps/nov08c.zip",
+    "status": "HTTP Error 404: Not Found",
+    "acquired": false,
+    "elapsed": 6.314459800720215
+  },
+  {
+    "url": "https://www2.census.gov/cps/supps/nov08pubc.dat.gz",
+    "status": "HTTP Error 404: Not Found",
+    "acquired": false,
+    "elapsed": 6.296115398406982
+  },
+  {
+    "url": "https://data.nber.org/cps/cpsnov08c.dta",
+    "status": "HTTP Error 403: Forbidden",
+    "acquired": false,
+    "elapsed": 5.727338552474976
+  },
+  {
+    "url": "https://data.nber.org/cps/cpsnov08c.csv",
+    "status": "HTTP Error 403: Forbidden",
+    "acquired": false,
+    "elapsed": 5.74020528793335
+  },
+  {
+    "url": "https://cps.ipums.org/cps/civic_engagement_sample_notes.shtml",
+    "status": 200,
+    "bytes": 9115,
+    "acquired": true,
+    "elapsed": 7.252358913421631
+  },
+  {
+    "url": "https://ropercenter.cornell.edu/sites/default/files/pdf/usmisc2006-soccap.pdf",
+    "status": 200,
+    "bytes": 1937753,
+    "acquired": true,
+    "elapsed": 6.360682249069214
+  }
+]
