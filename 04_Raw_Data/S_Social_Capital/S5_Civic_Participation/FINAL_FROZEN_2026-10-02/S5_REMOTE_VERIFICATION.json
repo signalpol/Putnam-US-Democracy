@@ -1,0 +1,516 @@
+{
+  "run_id": "S5_ACTIVE6_FINAL_20261002_v1",
+  "verified_utc": "2026-10-02T05:09:39.723597+00:00",
+  "payload_commit": "5d132ca35ed32976a50d96fad04bcfc4269e0f1d",
+  "github_path": "04_Raw_Data/S_Social_Capital/S5_Civic_Participation/FINAL_FROZEN_2026-10-02/",
+  "github_remote_file_count": 32,
+  "github_payload_files": [
+    {
+      "file": "S5_ACTIVE6_ACTIVE5_COMPARISON.csv",
+      "size": 106960,
+      "sha256": "523c39b8b52d9ec0976278999edc25ea55da9eaaa6f49c168007316a4732f468",
+      "match": true
+    },
+    {
+      "file": "S5_DIRECT_OBSERVATIONS_FINAL.csv",
+      "size": 772937,
+      "sha256": "3fa34e4f45b809dff94f542eb4c4948c700418d655dd72e54ae0be8098f60274",
+      "match": true
+    },
+    {
+      "file": "S5_DIRECT_OBSERVED_ITEMS_2010_2023.csv",
+      "size": 772937,
+      "sha256": "3fa34e4f45b809dff94f542eb4c4948c700418d655dd72e54ae0be8098f60274",
+      "match": true
+    },
+    {
+      "file": "S5_EXECUTION_LOG.txt",
+      "size": 5454,
+      "sha256": "e30369ca8f7d99eeeb281b1aa1ad4d060162ea89ffbf61581908b0958cef87da",
+      "match": true
+    },
+    {
+      "file": "S5_FINAL_2000_2023.csv",
+      "size": 633198,
+      "sha256": "3f3b18202c7ab6b7013ba96ef019a5db065c631f612181b0795d724dd739ad5f",
+      "match": true
+    },
+    {
+      "file": "S5_FINAL_2000_2023.xlsx",
+      "size": 524994,
+      "sha256": "395fd3324fbeb101c3e20d67d4ef57aad7215151347aa88d34331848d809bf5a",
+      "match": true
+    },
+    {
+      "file": "S5_HOLDOUT_STATE_RESIDUALS.csv",
+      "size": 238804,
+      "sha256": "71608f06045b187cf49b96fb14d22b6df601487830f2ef0533328a2f41c924be",
+      "match": true
+    },
+    {
+      "file": "S5_HOLDOUT_SUMMARY.json",
+      "size": 137,
+      "sha256": "b7feb7a5a1300786fb96239a11a5e4555059106619ad8b5f126b52c969e8d81b",
+      "match": true
+    },
+    {
+      "file": "S5_HOLDOUT_VALIDATION.csv",
+      "size": 6060,
+      "sha256": "850b52628708e4d023dff6903c970d32eaaaee960aef290c84a3db1218234002",
+      "match": true
+    },
+    {
+      "file": "S5_MEASUREMENT_EQUIVALENCE_AUDIT.md",
+      "size": 4353,
+      "sha256": "ab64b564ea62cd19ae36b560757985d2cbfdcf21ab8238949b73beeee4fa65da",
+      "match": true
+    },
+    {
+      "file": "S5_METHOD_DECISION_APPROVED.md",
+      "size": 719,
+      "sha256": "70c0357d5fd0e405648eb93833ac249243822c8d7112c70a92e39aec2bc27d88",
+      "match": true
+    },
+    {
+      "file": "S5_MODEL_COMPARISON.csv",
+      "size": 2313,
+      "sha256": "5f5396a025773e1ed8e82a7eeeabc124564765d4fe9122b21c278c61e2edb2d2",
+      "match": true
+    },
+    {
+      "file": "S5_MODEL_RAW_OUTPUT.json",
+      "size": 50950,
+      "sha256": "de1be5f27ad90ada830c922ef99b8a1ad6148fd2c12cd2cdb3829ef24cb75707",
+      "match": true
+    },
+    {
+      "file": "S5_MODEL_VALIDATION_REPORT.md",
+      "size": 7063,
+      "sha256": "9399bca0fac41793058f0258d141cff27bcb263ddac79a41a9f186a821dbd8dc",
+      "match": true
+    },
+    {
+      "file": "S5_PARTIAL_ITEM_CALIBRATION.csv",
+      "size": 1376,
+      "sha256": "e5c13c21b9f8689c7a5a2869513472d0185a4b2363ec09016cb530d9fa218c7e",
+      "match": true
+    },
+    {
+      "file": "S5_PRIMARY_NUMERICAL_DIAGNOSTICS.csv",
+      "size": 227,
+      "sha256": "d4df597e6c5b9fe0236dd210a9602940417624f5b5c23489e39fe2f6639b5810",
+      "match": true
+    },
+    {
+      "file": "S5_QA_FINAL.csv",
+      "size": 1625,
+      "sha256": "a0e15fa19f9191a6ff5f585c0a263dffce64bfaf84e8db9fd1c593eac9407e1b",
+      "match": true
+    },
+    {
+      "file": "S5_README_FINAL.md",
+      "size": 2627,
+      "sha256": "734341868015ae5b9f34c7d4247bcd1ee7d65af3d9d4cdf7478920faad8a8143",
+      "match": true
+    },
+    {
+      "file": "S5_REPLICATION_VERIFICATION.json",
+      "size": 2422,
+      "sha256": "82c1ccb95cc1c87a7fc4809bb32db13bee09d268c8b062fe80c7cc01fb0cc7ea",
+      "match": true
+    },
+    {
+      "file": "S5_RUN_MANIFEST.json",
+      "size": 11284,
+      "sha256": "54f7e5d958a59c24799661acb47e78ad1622258c042edf53bfd4f95681974318",
+      "match": true
+    },
+    {
+      "file": "S5_S7_OVERLAP_SENSITIVITY.csv",
+      "size": 439,
+      "sha256": "a7224bb856d0f8f47451f7309b9e5c68eaca3df6359353713baabb1097b017fa",
+      "match": true
+    },
+    {
+      "file": "S5_SENSITIVITY_PANELS.csv",
+      "size": 1813306,
+      "sha256": "42e9576af029fdaa3ec628be02afe5c9bdf7e9c6e25c20e84295e44b63282c7a",
+      "match": true
+    },
+    {
+      "file": "S5_SENSITIVITY_TRENDS.csv",
+      "size": 24481,
+      "sha256": "a58d2ea5c857cd2fb19ba29904a9b34009caf42d62c94a74bedf9cc55e3cfe18",
+      "match": true
+    },
+    {
+      "file": "S5_SOURCE_REGISTRY.csv",
+      "size": 3983,
+      "sha256": "d61f4b20a8368da1378213686cdbbc6bf6b87c170c52b299fdef48d0fddf8f11",
+      "match": true
+    },
+    {
+      "file": "SHA256SUMS.txt",
+      "size": 4804,
+      "sha256": "ca9bd7037aac6ab09e07f6f09634fc6fc82c6db81d942ea42e2bd2e027f60bfd",
+      "match": true
+    },
+    {
+      "file": "assemble_s5.py",
+      "size": 18321,
+      "sha256": "3077596d000afe00822bc63ad35dc6b06127f1f26dce4eef05aab7fe7dae39eb",
+      "match": true
+    },
+    {
+      "file": "build_workbook.mjs",
+      "size": 3955,
+      "sha256": "0cec10876cdd2c8625fe17e1b0c10df2d50b378946b3d3f87d169ef6243b1277",
+      "match": true
+    },
+    {
+      "file": "finalize_s5.py",
+      "size": 19599,
+      "sha256": "f771d7f7daca0221a1f38d375f249a606546774368bfa8ed0b953d244fa38e8b",
+      "match": true
+    },
+    {
+      "file": "package_s5.py",
+      "size": 1283,
+      "sha256": "8072db5e7e1f11db7eea4f18f04bd44a43b5fe7e57d669467327948625fd3f91",
+      "match": true
+    },
+    {
+      "file": "replication_results.json",
+      "size": 2138,
+      "sha256": "55f3bb43b29fdea977b6f9b51fe38a1294c9a201204eb4bf574548f4e78a8420",
+      "match": true
+    },
+    {
+      "file": "verify_freeze.py",
+      "size": 2124,
+      "sha256": "1e20ec5dad4c228a02e26ab71eaa6ff54c0a11a8260afe7f3e13fe6940daf427",
+      "match": true
+    },
+    {
+      "file": "S5_FINAL_FROZEN_2026-10-02.zip",
+      "size": 1858845,
+      "sha256": "57efe32f1484fd435acc975c6a6af6640f6995a353e42e36356e60a82fd9285e",
+      "match": true
+    }
+  ],
+  "drive_file_id": "1e5-SN44rR7pmYV5KCzQ-F1O2zG62QeTJ",
+  "zip_sha256": "57efe32f1484fd435acc975c6a6af6640f6995a353e42e36356e60a82fd9285e",
+  "zip_bytes": 1858845,
+  "zip_member_count": 51,
+  "local_github_drive_zip_match": true,
+  "package_member_checks": [
+    {
+      "file": "S5_ACTIVE6_ACTIVE5_COMPARISON.csv",
+      "size": 106960,
+      "sha256": "523c39b8b52d9ec0976278999edc25ea55da9eaaa6f49c168007316a4732f468",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_DIRECT_OBSERVATIONS_FINAL.csv",
+      "size": 772937,
+      "sha256": "3fa34e4f45b809dff94f542eb4c4948c700418d655dd72e54ae0be8098f60274",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_DIRECT_OBSERVED_ITEMS_2010_2023.csv",
+      "size": 772937,
+      "sha256": "3fa34e4f45b809dff94f542eb4c4948c700418d655dd72e54ae0be8098f60274",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_EXECUTION_LOG.txt",
+      "size": 5454,
+      "sha256": "e30369ca8f7d99eeeb281b1aa1ad4d060162ea89ffbf61581908b0958cef87da",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_FINAL_2000_2023.csv",
+      "size": 633198,
+      "sha256": "3f3b18202c7ab6b7013ba96ef019a5db065c631f612181b0795d724dd739ad5f",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_FINAL_2000_2023.xlsx",
+      "size": 524994,
+      "sha256": "395fd3324fbeb101c3e20d67d4ef57aad7215151347aa88d34331848d809bf5a",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_HOLDOUT_STATE_RESIDUALS.csv",
+      "size": 238804,
+      "sha256": "71608f06045b187cf49b96fb14d22b6df601487830f2ef0533328a2f41c924be",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_HOLDOUT_SUMMARY.json",
+      "size": 137,
+      "sha256": "b7feb7a5a1300786fb96239a11a5e4555059106619ad8b5f126b52c969e8d81b",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_HOLDOUT_VALIDATION.csv",
+      "size": 6060,
+      "sha256": "850b52628708e4d023dff6903c970d32eaaaee960aef290c84a3db1218234002",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_MEASUREMENT_EQUIVALENCE_AUDIT.md",
+      "size": 4353,
+      "sha256": "ab64b564ea62cd19ae36b560757985d2cbfdcf21ab8238949b73beeee4fa65da",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_METHOD_DECISION_APPROVED.md",
+      "size": 719,
+      "sha256": "70c0357d5fd0e405648eb93833ac249243822c8d7112c70a92e39aec2bc27d88",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_MODEL_COMPARISON.csv",
+      "size": 2313,
+      "sha256": "5f5396a025773e1ed8e82a7eeeabc124564765d4fe9122b21c278c61e2edb2d2",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_MODEL_RAW_OUTPUT.json",
+      "size": 50950,
+      "sha256": "de1be5f27ad90ada830c922ef99b8a1ad6148fd2c12cd2cdb3829ef24cb75707",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_MODEL_VALIDATION_REPORT.md",
+      "size": 7063,
+      "sha256": "9399bca0fac41793058f0258d141cff27bcb263ddac79a41a9f186a821dbd8dc",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_PARTIAL_ITEM_CALIBRATION.csv",
+      "size": 1376,
+      "sha256": "e5c13c21b9f8689c7a5a2869513472d0185a4b2363ec09016cb530d9fa218c7e",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_PRIMARY_NUMERICAL_DIAGNOSTICS.csv",
+      "size": 227,
+      "sha256": "d4df597e6c5b9fe0236dd210a9602940417624f5b5c23489e39fe2f6639b5810",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_QA_FINAL.csv",
+      "size": 1625,
+      "sha256": "a0e15fa19f9191a6ff5f585c0a263dffce64bfaf84e8db9fd1c593eac9407e1b",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_README_FINAL.md",
+      "size": 2627,
+      "sha256": "734341868015ae5b9f34c7d4247bcd1ee7d65af3d9d4cdf7478920faad8a8143",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_REPLICATION_VERIFICATION.json",
+      "size": 2422,
+      "sha256": "82c1ccb95cc1c87a7fc4809bb32db13bee09d268c8b062fe80c7cc01fb0cc7ea",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_RUN_MANIFEST.json",
+      "size": 11284,
+      "sha256": "54f7e5d958a59c24799661acb47e78ad1622258c042edf53bfd4f95681974318",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_S7_OVERLAP_SENSITIVITY.csv",
+      "size": 439,
+      "sha256": "a7224bb856d0f8f47451f7309b9e5c68eaca3df6359353713baabb1097b017fa",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_SENSITIVITY_PANELS.csv",
+      "size": 1813306,
+      "sha256": "42e9576af029fdaa3ec628be02afe5c9bdf7e9c6e25c20e84295e44b63282c7a",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_SENSITIVITY_TRENDS.csv",
+      "size": 24481,
+      "sha256": "a58d2ea5c857cd2fb19ba29904a9b34009caf42d62c94a74bedf9cc55e3cfe18",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "S5_SOURCE_REGISTRY.csv",
+      "size": 3983,
+      "sha256": "d61f4b20a8368da1378213686cdbbc6bf6b87c170c52b299fdef48d0fddf8f11",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "SHA256SUMS.txt",
+      "size": 4804,
+      "sha256": "ca9bd7037aac6ab09e07f6f09634fc6fc82c6db81d942ea42e2bd2e027f60bfd",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "assemble_s5.py",
+      "size": 18321,
+      "sha256": "3077596d000afe00822bc63ad35dc6b06127f1f26dce4eef05aab7fe7dae39eb",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "build_workbook.mjs",
+      "size": 3955,
+      "sha256": "0cec10876cdd2c8625fe17e1b0c10df2d50b378946b3d3f87d169ef6243b1277",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "finalize_s5.py",
+      "size": 19599,
+      "sha256": "f771d7f7daca0221a1f38d375f249a606546774368bfa8ed0b953d244fa38e8b",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/CENSUS_2010_CODEBOOK.txt",
+      "size": 424379,
+      "sha256": "6b9bd6db4bd4668d1476c0e4a90371d953ee00a03ef168ba4c73a0a85cc2b3ca",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/CENSUS_2011_CODEBOOK.txt",
+      "size": 441406,
+      "sha256": "4985685a38bf476c66ac74be2fabaf80da140d7726c349759af28ff9798374c9",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/CENSUS_2013_CODEBOOK.txt",
+      "size": 427481,
+      "sha256": "07a00fd2306bca77f866c67c61810f36464d14ac454cae42955ab83c4b6fe9ee",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/CENSUS_2017_CODEBOOK.txt",
+      "size": 450903,
+      "sha256": "979d7c7c86af0dc93ca05641755433b09bcb1e6cd75d1dd9d20eab22b5a5fbcd",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/CENSUS_2019_CODEBOOK.txt",
+      "size": 444912,
+      "sha256": "accee7fdbec57cfa024300e7b3e4ae4b8a3c9b4e7de0cfe944399ae440deeff4",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/CENSUS_2021_CODEBOOK.txt",
+      "size": 448544,
+      "sha256": "f2c51e1327182efb108f2777017bd9f9528693058a49aa2ba3cd58fe81c405bf",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/CENSUS_2023_CODEBOOK.txt",
+      "size": 457641,
+      "sha256": "982a7c9cf14a59d680a4feb6d2ade6f33e1938c2f8ece9d7884b73e4e732f3d9",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/CENSUS_PERSON_REPLICATE_INSTRUCTIONS.txt",
+      "size": 27905,
+      "sha256": "1aa415e0e877af3ae3e1fe217b0c094206acff599aeed35c38c2962d902c98bf",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/HISTORICAL_RAW_DOWNLOAD_MANIFEST.json",
+      "size": 1577,
+      "sha256": "c69698e37f61bc476d410cbd1d8acc036a2c8b05764588155041d7b7c3571db4",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/NEW_DOCUMENT_ACQUISITION.json",
+      "size": 468,
+      "sha256": "07c471007511c263b75956b32589c6791e53d71523238e9504a451d3673ff7b7",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/S5_DIRECT_ITEM_OBSERVATIONS_REVIEW.csv",
+      "size": 772937,
+      "sha256": "3fa34e4f45b809dff94f542eb4c4948c700418d655dd72e54ae0be8098f60274",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/S5_MEASUREMENT_DICTIONARY_REVIEW.csv",
+      "size": 5823,
+      "sha256": "a0e0ec1e195841ebb9de19d82c2ca5092feb04916df7caab65df2db33505ea7a",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/S5_MEASUREMENT_EQUIVALENCE_AUDIT_REVIEW.md",
+      "size": 2307,
+      "sha256": "6e7b54b26c259796107b7723b7a0fba7d2947e130c865815ed251125c5eaf3df",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/S5_ORIGINAL_RAW_UNCHANGED.csv",
+      "size": 450304,
+      "sha256": "fff19311afa380903f135b0e438ddd7050066dc56e27af59f4d81f1ecff9362d",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/S5_RUN_LOG.json",
+      "size": 4490,
+      "sha256": "7452982676aec729e3d74f5a2c3a2a435eabfa40884c9b21d7826b9aceac60a0",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/S5_SOURCE_REGISTRY_REVIEW.csv",
+      "size": 2989,
+      "sha256": "3fd4bb18de83c116e10f9e629c53c3ff7f06dbaac210e27bdada180e7d0bf453",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/S7_reference/S7_FINAL_2000_2023.csv",
+      "size": 440260,
+      "sha256": "7c9169efc9dca08b3ef019d0bbfe3306c190ae5652b0da7f9dc740a4300283e2",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "inputs/S7_reference/S7_MEASUREMENT_AUDIT.md",
+      "size": 1886,
+      "sha256": "0d944f93d679b585923112f9a5375c6d6e6b2ee3b9130d75fae3b95142d97068",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "package_s5.py",
+      "size": 1283,
+      "sha256": "8072db5e7e1f11db7eea4f18f04bd44a43b5fe7e57d669467327948625fd3f91",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "replication_results.json",
+      "size": 2138,
+      "sha256": "55f3bb43b29fdea977b6f9b51fe38a1294c9a201204eb4bf574548f4e78a8420",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "upstream/build_review.py",
+      "size": 12201,
+      "sha256": "e0465530eacc739a82bc5f28b566f20d14983d832c9bc4ce9a6cd6d8a71e851a",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "upstream/prepare_replication.py",
+      "size": 863,
+      "sha256": "81067323ffeaade73b5fd557a8da627028f5ed0464c5d2a0391cec0e0536aed3",
+      "local_github_drive_match": true
+    },
+    {
+      "file": "verify_freeze.py",
+      "size": 2124,
+      "sha256": "1e20ec5dad4c228a02e26ab71eaa6ff54c0a11a8260afe7f3e13fe6940daf427",
+      "local_github_drive_match": true
+    }
+  ],
+  "status": "PASS",
+  "receipt_scope": "Payload files only; this post-verification receipt is stored separately and re-fetched after creation."
+}
