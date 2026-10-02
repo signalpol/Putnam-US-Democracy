@@ -1,0 +1,14 @@
+[
+  {
+    "file": "S2_FINAL_FROZEN_2026-10-02.zip",
+    "bytes": 473402,
+    "sha256": "951a7181a28bc40a6aedae98e8dafef515e22bf8d7df3d881b29b7fcaa2cf91e",
+    "transport": "S2_FINAL_FROZEN_2026-10-02.zip.base64"
+  },
+  {
+    "file": "S2_FINAL_2000_2023.xlsx",
+    "bytes": 179871,
+    "sha256": "767a2addba61400e7f0092a0c48c0b74c19ef2a0ff5b4cbd7135cec91d977db0",
+    "transport": "S2_FINAL_2000_2023.xlsx.base64"
+  }
+]
