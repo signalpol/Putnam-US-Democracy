@@ -1,0 +1,51 @@
+approved_construct_inputs {"item_rows": 2300, "full_basket_waves": 4, "partial_historical_item_rows": 300, "approval": "Active6 primary;Broad10 andActive5 sensitivity;construct validity decision"}
+full_fit {"basket": "ACTIVE6", "model": "M0", "nll": 294.8673264710132, "converged": true, "boundary": []}
+full_fit {"basket": "ACTIVE6", "model": "M1", "nll": 281.3632015086232, "converged": true, "boundary": []}
+full_fit {"basket": "ACTIVE6", "model": "M2", "nll": 281.0170840973284, "converged": true, "boundary": []}
+full_fit {"basket": "BROAD10", "model": "M0", "nll": 343.7692732549376, "converged": true, "boundary": []}
+full_fit {"basket": "BROAD10", "model": "M1", "nll": 300.83019240851866, "converged": true, "boundary": []}
+full_fit {"basket": "BROAD10", "model": "M2", "nll": 299.88062080579687, "converged": true, "boundary": []}
+full_fit {"basket": "ACTIVE5", "model": "M0", "nll": 292.98271195060806, "converged": true, "boundary": []}
+full_fit {"basket": "ACTIVE5", "model": "M1", "nll": 276.52098581610824, "converged": true, "boundary": []}
+full_fit {"basket": "ACTIVE5", "model": "M2", "nll": 276.0175678105553, "converged": true, "boundary": []}
+sensitivity_fit {"tag": "LENGTH3", "converged": true}
+sensitivity_fit {"tag": "LENGTH12", "converged": true}
+sensitivity_fit {"tag": "REGIME_SD1", "converged": true}
+sensitivity_fit {"tag": "CEV_ONLY", "converged": true}
+holdout {"basket": "ACTIVE6", "model": "M0", "year": 2010, "RMSE": 0.654851657443472, "coverage": 0.92}
+holdout {"basket": "ACTIVE6", "model": "M0", "year": 2011, "RMSE": 0.4396393058056653, "coverage": 1.0}
+holdout {"basket": "ACTIVE6", "model": "M0", "year": 2013, "RMSE": 0.47260753391468335, "coverage": 1.0}
+holdout {"basket": "ACTIVE6", "model": "M0", "year": 2017, "RMSE": 0.5001415674216418, "coverage": 0.9}
+holdout {"basket": "ACTIVE6", "model": "M0", "year": 2019, "RMSE": 0.438368993266894, "coverage": 0.94}
+holdout {"basket": "ACTIVE6", "model": "M0", "year": 2021, "RMSE": 0.39341569387729014, "coverage": 0.96}
+holdout {"basket": "ACTIVE6", "model": "M0", "year": 2023, "RMSE": 0.407021807661819, "coverage": 0.98}
+holdout {"basket": "ACTIVE6", "model": "M1", "year": 2010, "RMSE": 0.6810163490894976, "coverage": 0.9}
+holdout {"basket": "ACTIVE6", "model": "M1", "year": 2011, "RMSE": 0.6192974952347071, "coverage": 0.96}
+holdout {"basket": "ACTIVE6", "model": "M1", "year": 2013, "RMSE": 0.4850652621213607, "coverage": 1.0}
+holdout {"basket": "ACTIVE6", "model": "M1", "year": 2017, "RMSE": 0.49300849095965005, "coverage": 0.96}
+holdout {"basket": "ACTIVE6", "model": "M1", "year": 2019, "RMSE": 0.44128477245147396, "coverage": 0.96}
+holdout {"basket": "ACTIVE6", "model": "M1", "year": 2021, "RMSE": 0.40077177797384506, "coverage": 0.96}
+holdout {"basket": "ACTIVE6", "model": "M1", "year": 2023, "RMSE": 0.40298013240574077, "coverage": 0.98}
+holdout {"basket": "ACTIVE6", "model": "M2", "year": 2010, "RMSE": 0.6722291636627391, "coverage": 0.92}
+holdout {"basket": "ACTIVE6", "model": "M2", "year": 2011, "RMSE": 0.6277924637472839, "coverage": 0.96}
+holdout {"basket": "ACTIVE6", "model": "M2", "year": 2013, "RMSE": 0.47831893233266704, "coverage": 1.0}
+holdout {"basket": "ACTIVE6", "model": "M2", "year": 2017, "RMSE": 0.49343142758155656, "coverage": 0.96}
+holdout {"basket": "ACTIVE6", "model": "M2", "year": 2019, "RMSE": 0.4419030240595544, "coverage": 0.96}
+holdout {"basket": "ACTIVE6", "model": "M2", "year": 2021, "RMSE": 0.40209306689751195, "coverage": 0.96}
+holdout {"basket": "ACTIVE6", "model": "M2", "year": 2023, "RMSE": 0.4051619651904603, "coverage": 0.98}
+holdout {"basket": "BROAD10", "model": "M2", "year": 2010, "RMSE": 0.6892699527028926, "coverage": 0.96}
+holdout {"basket": "BROAD10", "model": "M2", "year": 2011, "RMSE": 0.6881981882999412, "coverage": 0.98}
+holdout {"basket": "BROAD10", "model": "M2", "year": 2013, "RMSE": 0.527859178880031, "coverage": 1.0}
+holdout {"basket": "BROAD10", "model": "M2", "year": 2017, "RMSE": 0.720174039228767, "coverage": 0.82}
+holdout {"basket": "BROAD10", "model": "M2", "year": 2019, "RMSE": 0.5023851318000447, "coverage": 0.94}
+holdout {"basket": "BROAD10", "model": "M2", "year": 2021, "RMSE": 0.48490378421594976, "coverage": 0.94}
+holdout {"basket": "BROAD10", "model": "M2", "year": 2023, "RMSE": 0.600765658712613, "coverage": 0.96}
+holdout {"basket": "ACTIVE5", "model": "M2", "year": 2010, "RMSE": 0.6910818888368432, "coverage": 0.92}
+holdout {"basket": "ACTIVE5", "model": "M2", "year": 2011, "RMSE": 0.6395417799869371, "coverage": 0.96}
+holdout {"basket": "ACTIVE5", "model": "M2", "year": 2013, "RMSE": 0.4858849082405954, "coverage": 1.0}
+holdout {"basket": "ACTIVE5", "model": "M2", "year": 2017, "RMSE": 0.5291678292834087, "coverage": 0.98}
+holdout {"basket": "ACTIVE5", "model": "M2", "year": 2019, "RMSE": 0.3988510715466603, "coverage": 0.96}
+holdout {"basket": "ACTIVE5", "model": "M2", "year": 2021, "RMSE": 0.3907299626830405, "coverage": 0.94}
+holdout {"basket": "ACTIVE5", "model": "M2", "year": 2023, "RMSE": 0.3961126491322048, "coverage": 0.96}
+outputs_complete {"rows": 1200, "qa_pass": 35, "qa_total": 35}
+{"run_id": "S5_ACTIVE6_FINAL_20261002_v1", "rows": 1200, "qa_pass": 35, "qa_total": 35, "model_fits": 48, "primary_model_nll": 281.0170840973284, "primary_boundary": [], "primary_hessian": [2.017290319689642, 7.383768716797568, 89.81812165891768, 351.65296219949727], "mean2000": -0.2002122534478449, "mean2023": -0.17580175163531225}

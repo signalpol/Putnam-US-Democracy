@@ -1,0 +1,460 @@
+{
+  "run_id": "S5_ACTIVE6_FINAL_20261002_v1",
+  "start_utc": "2026-10-02T04:53:51.141740+00:00",
+  "code_sha256": "f771d7f7daca0221a1f38d375f249a606546774368bfa8ed0b953d244fa38e8b",
+  "input_hashes": {
+    "S5_DIRECT_ITEM_OBSERVATIONS_REVIEW.csv": {
+      "bytes": 772937,
+      "sha256": "3fa34e4f45b809dff94f542eb4c4948c700418d655dd72e54ae0be8098f60274"
+    },
+    "S5_ORIGINAL_RAW_UNCHANGED.csv": {
+      "bytes": 450304,
+      "sha256": "fff19311afa380903f135b0e438ddd7050066dc56e27af59f4d81f1ecff9362d"
+    },
+    "S7_reference/S7_FINAL_2000_2023.csv": {
+      "bytes": 440260,
+      "sha256": "7c9169efc9dca08b3ef019d0bbfe3306c190ae5652b0da7f9dc740a4300283e2"
+    }
+  },
+  "stages": [
+    {
+      "stage": "approved_construct_inputs",
+      "utc": "2026-10-02T04:53:51.200195+00:00",
+      "item_rows": 2300,
+      "full_basket_waves": 4,
+      "partial_historical_item_rows": 300,
+      "approval": "Active6 primary;Broad10 andActive5 sensitivity;construct validity decision"
+    },
+    {
+      "stage": "full_fit",
+      "utc": "2026-10-02T04:53:51.495606+00:00",
+      "basket": "ACTIVE6",
+      "model": "M0",
+      "nll": 294.8673264710132,
+      "converged": true,
+      "boundary": []
+    },
+    {
+      "stage": "full_fit",
+      "utc": "2026-10-02T04:53:52.111508+00:00",
+      "basket": "ACTIVE6",
+      "model": "M1",
+      "nll": 281.3632015086232,
+      "converged": true,
+      "boundary": []
+    },
+    {
+      "stage": "full_fit",
+      "utc": "2026-10-02T04:53:52.571365+00:00",
+      "basket": "ACTIVE6",
+      "model": "M2",
+      "nll": 281.0170840973284,
+      "converged": true,
+      "boundary": []
+    },
+    {
+      "stage": "full_fit",
+      "utc": "2026-10-02T04:53:52.810332+00:00",
+      "basket": "BROAD10",
+      "model": "M0",
+      "nll": 343.7692732549376,
+      "converged": true,
+      "boundary": []
+    },
+    {
+      "stage": "full_fit",
+      "utc": "2026-10-02T04:53:53.308082+00:00",
+      "basket": "BROAD10",
+      "model": "M1",
+      "nll": 300.83019240851866,
+      "converged": true,
+      "boundary": []
+    },
+    {
+      "stage": "full_fit",
+      "utc": "2026-10-02T04:53:53.802280+00:00",
+      "basket": "BROAD10",
+      "model": "M2",
+      "nll": 299.88062080579687,
+      "converged": true,
+      "boundary": []
+    },
+    {
+      "stage": "full_fit",
+      "utc": "2026-10-02T04:53:54.046154+00:00",
+      "basket": "ACTIVE5",
+      "model": "M0",
+      "nll": 292.98271195060806,
+      "converged": true,
+      "boundary": []
+    },
+    {
+      "stage": "full_fit",
+      "utc": "2026-10-02T04:53:54.585806+00:00",
+      "basket": "ACTIVE5",
+      "model": "M1",
+      "nll": 276.52098581610824,
+      "converged": true,
+      "boundary": []
+    },
+    {
+      "stage": "full_fit",
+      "utc": "2026-10-02T04:53:55.188835+00:00",
+      "basket": "ACTIVE5",
+      "model": "M2",
+      "nll": 276.0175678105553,
+      "converged": true,
+      "boundary": []
+    },
+    {
+      "stage": "sensitivity_fit",
+      "utc": "2026-10-02T04:53:55.690782+00:00",
+      "tag": "LENGTH3",
+      "converged": true
+    },
+    {
+      "stage": "sensitivity_fit",
+      "utc": "2026-10-02T04:53:56.125924+00:00",
+      "tag": "LENGTH12",
+      "converged": true
+    },
+    {
+      "stage": "sensitivity_fit",
+      "utc": "2026-10-02T04:53:56.571663+00:00",
+      "tag": "REGIME_SD1",
+      "converged": true
+    },
+    {
+      "stage": "sensitivity_fit",
+      "utc": "2026-10-02T04:53:56.756897+00:00",
+      "tag": "CEV_ONLY",
+      "converged": true
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:56.912761+00:00",
+      "basket": "ACTIVE6",
+      "model": "M0",
+      "year": 2010,
+      "RMSE": 0.654851657443472,
+      "coverage": 0.92
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:57.036685+00:00",
+      "basket": "ACTIVE6",
+      "model": "M0",
+      "year": 2011,
+      "RMSE": 0.4396393058056653,
+      "coverage": 1.0
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:57.177849+00:00",
+      "basket": "ACTIVE6",
+      "model": "M0",
+      "year": 2013,
+      "RMSE": 0.47260753391468335,
+      "coverage": 1.0
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:57.293102+00:00",
+      "basket": "ACTIVE6",
+      "model": "M0",
+      "year": 2017,
+      "RMSE": 0.5001415674216418,
+      "coverage": 0.9
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:57.424785+00:00",
+      "basket": "ACTIVE6",
+      "model": "M0",
+      "year": 2019,
+      "RMSE": 0.438368993266894,
+      "coverage": 0.94
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:57.540341+00:00",
+      "basket": "ACTIVE6",
+      "model": "M0",
+      "year": 2021,
+      "RMSE": 0.39341569387729014,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:57.661507+00:00",
+      "basket": "ACTIVE6",
+      "model": "M0",
+      "year": 2023,
+      "RMSE": 0.407021807661819,
+      "coverage": 0.98
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:58.061148+00:00",
+      "basket": "ACTIVE6",
+      "model": "M1",
+      "year": 2010,
+      "RMSE": 0.6810163490894976,
+      "coverage": 0.9
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:58.442721+00:00",
+      "basket": "ACTIVE6",
+      "model": "M1",
+      "year": 2011,
+      "RMSE": 0.6192974952347071,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:58.829255+00:00",
+      "basket": "ACTIVE6",
+      "model": "M1",
+      "year": 2013,
+      "RMSE": 0.4850652621213607,
+      "coverage": 1.0
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:59.097818+00:00",
+      "basket": "ACTIVE6",
+      "model": "M1",
+      "year": 2017,
+      "RMSE": 0.49300849095965005,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:59.378696+00:00",
+      "basket": "ACTIVE6",
+      "model": "M1",
+      "year": 2019,
+      "RMSE": 0.44128477245147396,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:53:59.677121+00:00",
+      "basket": "ACTIVE6",
+      "model": "M1",
+      "year": 2021,
+      "RMSE": 0.40077177797384506,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:00.072494+00:00",
+      "basket": "ACTIVE6",
+      "model": "M1",
+      "year": 2023,
+      "RMSE": 0.40298013240574077,
+      "coverage": 0.98
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:00.544915+00:00",
+      "basket": "ACTIVE6",
+      "model": "M2",
+      "year": 2010,
+      "RMSE": 0.6722291636627391,
+      "coverage": 0.92
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:01.057049+00:00",
+      "basket": "ACTIVE6",
+      "model": "M2",
+      "year": 2011,
+      "RMSE": 0.6277924637472839,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:01.392717+00:00",
+      "basket": "ACTIVE6",
+      "model": "M2",
+      "year": 2013,
+      "RMSE": 0.47831893233266704,
+      "coverage": 1.0
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:01.715451+00:00",
+      "basket": "ACTIVE6",
+      "model": "M2",
+      "year": 2017,
+      "RMSE": 0.49343142758155656,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:02.025830+00:00",
+      "basket": "ACTIVE6",
+      "model": "M2",
+      "year": 2019,
+      "RMSE": 0.4419030240595544,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:02.316599+00:00",
+      "basket": "ACTIVE6",
+      "model": "M2",
+      "year": 2021,
+      "RMSE": 0.40209306689751195,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:02.642418+00:00",
+      "basket": "ACTIVE6",
+      "model": "M2",
+      "year": 2023,
+      "RMSE": 0.4051619651904603,
+      "coverage": 0.98
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:03.018617+00:00",
+      "basket": "BROAD10",
+      "model": "M2",
+      "year": 2010,
+      "RMSE": 0.6892699527028926,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:03.483709+00:00",
+      "basket": "BROAD10",
+      "model": "M2",
+      "year": 2011,
+      "RMSE": 0.6881981882999412,
+      "coverage": 0.98
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:03.870273+00:00",
+      "basket": "BROAD10",
+      "model": "M2",
+      "year": 2013,
+      "RMSE": 0.527859178880031,
+      "coverage": 1.0
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:04.164860+00:00",
+      "basket": "BROAD10",
+      "model": "M2",
+      "year": 2017,
+      "RMSE": 0.720174039228767,
+      "coverage": 0.82
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:04.484240+00:00",
+      "basket": "BROAD10",
+      "model": "M2",
+      "year": 2019,
+      "RMSE": 0.5023851318000447,
+      "coverage": 0.94
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:04.764477+00:00",
+      "basket": "BROAD10",
+      "model": "M2",
+      "year": 2021,
+      "RMSE": 0.48490378421594976,
+      "coverage": 0.94
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:05.087805+00:00",
+      "basket": "BROAD10",
+      "model": "M2",
+      "year": 2023,
+      "RMSE": 0.600765658712613,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:05.444968+00:00",
+      "basket": "ACTIVE5",
+      "model": "M2",
+      "year": 2010,
+      "RMSE": 0.6910818888368432,
+      "coverage": 0.92
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:05.891753+00:00",
+      "basket": "ACTIVE5",
+      "model": "M2",
+      "year": 2011,
+      "RMSE": 0.6395417799869371,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:06.183717+00:00",
+      "basket": "ACTIVE5",
+      "model": "M2",
+      "year": 2013,
+      "RMSE": 0.4858849082405954,
+      "coverage": 1.0
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:06.602303+00:00",
+      "basket": "ACTIVE5",
+      "model": "M2",
+      "year": 2017,
+      "RMSE": 0.5291678292834087,
+      "coverage": 0.98
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:07.197863+00:00",
+      "basket": "ACTIVE5",
+      "model": "M2",
+      "year": 2019,
+      "RMSE": 0.3988510715466603,
+      "coverage": 0.96
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:07.830231+00:00",
+      "basket": "ACTIVE5",
+      "model": "M2",
+      "year": 2021,
+      "RMSE": 0.3907299626830405,
+      "coverage": 0.94
+    },
+    {
+      "stage": "holdout",
+      "utc": "2026-10-02T04:54:08.372043+00:00",
+      "basket": "ACTIVE5",
+      "model": "M2",
+      "year": 2023,
+      "RMSE": 0.3961126491322048,
+      "coverage": 0.96
+    },
+    {
+      "stage": "outputs_complete",
+      "utc": "2026-10-02T04:54:08.628932+00:00",
+      "rows": 1200,
+      "qa_pass": 35,
+      "qa_total": 35
+    }
+  ],
+  "end_utc": "2026-10-02T04:54:08.628969+00:00",
+  "exit_code": 0,
+  "model_fits": 48,
+  "status": "EXECUTED_WITH_DOCUMENTED_MEASUREMENT_BACKCAST_LIMITATIONS"
+}

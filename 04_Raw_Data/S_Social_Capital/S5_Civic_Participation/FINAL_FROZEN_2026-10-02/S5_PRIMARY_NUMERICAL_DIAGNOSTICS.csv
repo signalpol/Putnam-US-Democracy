@@ -1,0 +1,4 @@
+diagnostic,value,threshold,status
+analytic_gradient_vs_central_difference,8.481878153094975e-10,0.0001,PASS
+primary_Hessian_min_eigenvalue,2.017290319689642,0,PASS
+two_start_nll_difference,1.982380126719363e-08,0.0001,PASS

@@ -1,0 +1,39 @@
+check,result,evidence
+rows,PASS,1200
+states,PASS,50
+years,PASS,2000-2023
+each_state_24,PASS,50x24
+duplicates,PASS,0
+DC_excluded,PASS,0
+territories_excluded,PASS,0
+finite_estimates,PASS,1200
+finite_SE,PASS,1200
+CI_contains_estimate,PASS,1200
+observed_rows_preserved,PASS,2300
+CEV_exact_value_comparison,PASS,2300
+latent_observed_separation,PASS,1200
+primary_Active6,PASS,PI construct-validity approval
+Active5_excludes_vote,PASS,5 non-vote actions
+Broad10_preserved,PASS,1200
+model_compare,PASS,within-basket criteria
+full_models_converged,PASS,13
+holdout_models_converged,PASS,35
+holdout_training_only,PASS,35
+historical_targets_labeled,PASS,Not latent truth
+backcast_flags,PASS,Fullbasketbackcast2000-2016;noitemdata2000-2009
+provenance_complete,PASS,1200
+model_uncertainty_documented,PASS,Conditional SE + sensitivity envelope
+no_interpolation,PASS,GP conditional prediction;0linear interpolation
+no_ffill_bfill,PASS,0
+no_adjacent_substitution,PASS,0
+unknown_design_SE_preserved,PASS,No fabricated original survey SE
+S7_overlap_readonly,PASS,reference only
+sensitivity_coverage,PASS,15600
+regime_uncertainty_in_primary,PASS,"N(0,0.5^2) historical shift;SD1sensitivity"
+analytic_gradient_verified,PASS,8.481878153094975e-10
+primary_Hessian_positive,PASS,2.017290319689642
+primary_start_agreement,PASS,1.982380126719363e-08
+Hessian_boundaries_reported,PASS,Numerical convergence != strongidentification
+clean_numerical_rerun,PASS,14/14 CSV byte matches
+observed_unchanged,PASS,Inherited observed SHA256 matches
+xlsx_csv_comparison,PASS,"1200 canonical + 2300 observed rows, all fields"

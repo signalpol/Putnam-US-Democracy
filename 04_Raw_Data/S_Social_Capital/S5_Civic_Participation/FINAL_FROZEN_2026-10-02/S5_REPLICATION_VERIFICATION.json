@@ -1,0 +1,77 @@
+{
+  "clean_rerun_csv_files": [
+    {
+      "file": "S5_DIRECT_OBSERVATIONS_FINAL.csv",
+      "sha256": "3fa34e4f45b809dff94f542eb4c4948c700418d655dd72e54ae0be8098f60274",
+      "match": true
+    },
+    {
+      "file": "S5_PRIMARY_NUMERICAL_DIAGNOSTICS.csv",
+      "sha256": "d4df597e6c5b9fe0236dd210a9602940417624f5b5c23489e39fe2f6639b5810",
+      "match": true
+    },
+    {
+      "file": "S5_SOURCE_REGISTRY.csv",
+      "sha256": "d61f4b20a8368da1378213686cdbbc6bf6b87c170c52b299fdef48d0fddf8f11",
+      "match": true
+    },
+    {
+      "file": "S5_FINAL_2000_2023.csv",
+      "sha256": "3f3b18202c7ab6b7013ba96ef019a5db065c631f612181b0795d724dd739ad5f",
+      "match": true
+    },
+    {
+      "file": "S5_ACTIVE6_ACTIVE5_COMPARISON.csv",
+      "sha256": "523c39b8b52d9ec0976278999edc25ea55da9eaaa6f49c168007316a4732f468",
+      "match": true
+    },
+    {
+      "file": "S5_QA_FINAL.csv",
+      "sha256": "9c09a134ba6f291b672d0d27f392850c73663173f7818f1dc8b87b0ba5f416ef",
+      "match": true
+    },
+    {
+      "file": "S5_HOLDOUT_STATE_RESIDUALS.csv",
+      "sha256": "71608f06045b187cf49b96fb14d22b6df601487830f2ef0533328a2f41c924be",
+      "match": true
+    },
+    {
+      "file": "S5_PARTIAL_ITEM_CALIBRATION.csv",
+      "sha256": "e5c13c21b9f8689c7a5a2869513472d0185a4b2363ec09016cb530d9fa218c7e",
+      "match": true
+    },
+    {
+      "file": "S5_SENSITIVITY_TRENDS.csv",
+      "sha256": "a58d2ea5c857cd2fb19ba29904a9b34009caf42d62c94a74bedf9cc55e3cfe18",
+      "match": true
+    },
+    {
+      "file": "S5_DIRECT_OBSERVED_ITEMS_2010_2023.csv",
+      "sha256": "3fa34e4f45b809dff94f542eb4c4948c700418d655dd72e54ae0be8098f60274",
+      "match": true
+    },
+    {
+      "file": "S5_MODEL_COMPARISON.csv",
+      "sha256": "5f5396a025773e1ed8e82a7eeeabc124564765d4fe9122b21c278c61e2edb2d2",
+      "match": true
+    },
+    {
+      "file": "S5_HOLDOUT_VALIDATION.csv",
+      "sha256": "850b52628708e4d023dff6903c970d32eaaaee960aef290c84a3db1218234002",
+      "match": true
+    },
+    {
+      "file": "S5_SENSITIVITY_PANELS.csv",
+      "sha256": "42e9576af029fdaa3ec628be02afe5c9bdf7e9c6e25c20e84295e44b63282c7a",
+      "match": true
+    },
+    {
+      "file": "S5_S7_OVERLAP_SENSITIVITY.csv",
+      "sha256": "a7224bb856d0f8f47451f7309b9e5c68eaca3df6359353713baabb1097b017fa",
+      "match": true
+    }
+  ],
+  "xlsx_canonical_cells_match": true,
+  "xlsx_observed_cells_match": true,
+  "observed_input_unchanged": true
+}
